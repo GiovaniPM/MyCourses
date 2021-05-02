@@ -56,11 +56,11 @@ arrow {
 
 <style>
 leafNode {
-    BackgroundColor yellow
+    BackgroundColor orange
 }
 
 arrow {
-    LineColor yellow
+    LineColor orange
 }
 </style>
 

@@ -1,6 +1,18 @@
 ```plantuml
 @startmindmap
 <style>
+mindmapDiagram {
+  .green {
+    BackgroundColor lightgreen
+  }
+  .rose {
+    BackgroundColor #FFBBCC
+  }
+  .your_style_name {
+    BackgroundColor lightblue
+  }
+}
+
 node {
     Padding 12
     Margin 3
@@ -22,7 +34,8 @@ rootNode {
 }
 
 leafNode {
-    LineColor gold
+    LineColor green
+    BackgroundColor lightgreen
     RoundCorner 0
     Padding 3
 }
@@ -44,6 +57,16 @@ arrow {
 *** Escolha um local adequado ao tamanho do seu grupo. Salas pequenas com muitas pessoas ficam abafadas e criam tensão. Uma sala maior é mais confortável e estimula a expressão individual.
 *** Use recursos visuais de interesse (por exemplo, cartazes, diagramas, etc.). Publique uma grande pauta antecipadamente para que os membros possam se referir.
 *** Varie os locais de reunião, se possível, para acomodar diferentes membros. Certifique-se de que todos saibam onde e quando será realizada a próxima reunião.
+
+<style>
+leafNode {
+    LineColor green
+    BackgroundColor yellow
+    RoundCorner 0
+    Padding 3
+}
+</style>
+
 ** Durante
 *** Cumprimente os membros e faça-os sentir-se bem-vindos, mesmo os membros atrasados, quando apropriado.
 *** Se possível, sirva bebidas leves; eles são bons para quebrar o gelo e fazem seus membros se sentirem especiais e confortáveis.
@@ -57,6 +80,16 @@ arrow {
 *** Como líder, seja um modelo, ouvindo, mostrando interesse, apreço e confiança nos membros. Admita erros.
 *** Resuma os acordos alcançados e encerre a reunião com uma nota unificadora ou positiva. Por exemplo, peça aos membros que expressem ideias sobre coisas que eles acham que foram boas ou bem-sucedidas ou reitere a missão da organização.
 *** Defina uma data, hora e local para a próxima reunião.
+
+<style>
+leafNode {
+    LineColor green
+    BackgroundColor pink
+    RoundCorner 0
+    Padding 3
+}
+</style>
+
 ** Depois
 *** Escreva e distribua as atas em 3 ou 4 dias. A ação rápida reforça a importância do encontro e reduz os erros de memória.
 *** Discutir quaisquer problemas durante a reunião com outros dirigentes; sugerir maneiras de fazer melhorias.

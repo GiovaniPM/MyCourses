@@ -25,16 +25,16 @@
 
 ## JDE Cache
 
-- [JDE Business Function and Cache Concepts – Part 1](https://github.com/GiovaniPM/DMNTests/blob/main/Courses/JDE%20Cache/JDE%20Business%20Function%20and%20Cache%20Concepts%20%E2%80%93%20Part%201%20.md)
-- [JDE Business Function and Cache Concepts – Part 2](https://github.com/GiovaniPM/DMNTests/blob/main/Courses/JDE%20Cache/JDE%20Business%20Function%20and%20Cache%20Concepts%20%E2%80%93%20Part%202%20.md)
-- [JDE Business Function and Cache Concepts – Part 3](https://github.com/GiovaniPM/DMNTests/blob/main/Courses/JDE%20Cache/JDE%20Business%20Function%20and%20Cache%20Concepts%20%E2%80%93%20Part%203%20.md)
+- [JDE Business Function and Cache Concepts – Part 1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20Cache/JDE%20Business%20Function%20and%20Cache%20Concepts%20%E2%80%93%20Part%201%20.md)
+- [JDE Business Function and Cache Concepts – Part 2](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20Cache/JDE%20Business%20Function%20and%20Cache%20Concepts%20%E2%80%93%20Part%202%20.md)
+- [JDE Business Function and Cache Concepts – Part 3](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20Cache/JDE%20Business%20Function%20and%20Cache%20Concepts%20%E2%80%93%20Part%203%20.md)
 
 >Download:<br>[💾Example Cache](https://www.jdesource.com/wp-content/uploads/B59TEST9.zip)
 
 ## Table Cache
 
-- [E1 Cache Concepts – JDB Cache – Part 1](https://github.com/GiovaniPM/DMNTests/blob/main/Courses/JDE%20Cache/E1%20Cache%20Concepts%20%E2%80%93%20JDB%20Cache%20%E2%80%93%20Part%201%20.md)
-- [E1 Cache Concepts – JDB Cache – Part 2](https://github.com/GiovaniPM/DMNTests/blob/main/Courses/JDE%20Cache/E1%20Cache%20Concepts%20%E2%80%93%20JDB%20Cache%20%E2%80%93%20Part%202%20.md)
+- [E1 Cache Concepts – JDB Cache – Part 1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20Cache/E1%20Cache%20Concepts%20%E2%80%93%20JDB%20Cache%20%E2%80%93%20Part%201%20.md)
+- [E1 Cache Concepts – JDB Cache – Part 2](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20Cache/E1%20Cache%20Concepts%20%E2%80%93%20JDB%20Cache%20%E2%80%93%20Part%202%20.md)
 
 ## Links
 

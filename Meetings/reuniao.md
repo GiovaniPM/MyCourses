@@ -9,7 +9,7 @@ node {
     LineThickness 3.0
     BackgroundColor gold
     RoundCorner 40
-    MaximumWidth 400
+    MaximumWidth 600
 }
 
 rootNode {

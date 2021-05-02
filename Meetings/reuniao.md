@@ -1,18 +1,6 @@
 ```plantuml
 @startmindmap
 <style>
-mindmapDiagram {
-  .green {
-    BackgroundColor lightgreen
-  }
-  .rose {
-    BackgroundColor #FFBBCC
-  }
-  .your_style_name {
-    BackgroundColor lightblue
-  }
-}
-
 node {
     Padding 12
     Margin 3

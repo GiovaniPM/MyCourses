@@ -29,7 +29,7 @@
 
 Standalone 9.2 Install JD Edwards Enterprise One 9.2 Standalone Demo (Oracle version) on your PC or server with this step by step guide.
 
-![Welcome](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/w06p9oaa.bmp)
+![Welcome](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/w06p9oaa.bmp)
 
 ## Pay attention
 
@@ -65,31 +65,31 @@ In the [Oracle Software Delivery Cloud](https://edelivery.oracle.com/) home page
 
 For Product select “**JD Edwards EnterpriseOne System Foundation**” and Platform as “**Microsoft Windows x64 (64-bit)**“
 
-![JDE1](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/zrbk9sov.bmp)
+![JDE1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/zrbk9sov.bmp)
 
 JD Edwards 9.2 Standalone Setup files comes in 4 zip files .This setup files are divided in two parts JD Edwards Standalone components and Oracle Database 12c components.
 
-![JDE2](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/nid962z4.bmp)
+![JDE2](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/nid962z4.bmp)
 
 ### Oracle 12C
 
 As JD Edwards is 32 bit software, we need to install Oracle 12C 32 bit clientfor DB connection. For Product select “**Oracle Database Enterprise Edition**” and Platform as “**Microsoft Windows x64 (64-bit)**“
 
-![ORACLE1](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/s0avbagr.bmp)
+![ORACLE1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/s0avbagr.bmp)
 
 Download the Oracle 12C 32 bit software (V47124-01.zip) setup file.
 
-![ORACLE2](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/48hnohds.bmp)
+![ORACLE2](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/48hnohds.bmp)
 
 ### WebLogic
 
 For Product select “**Oracle Weblogic Server Enterprise Edition**” and Platform as “**Microsoft Windows x86 (32-bit)**“
 
-![WL1](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/y5bcifoe.bmp)
+![WL1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/y5bcifoe.bmp)
 
 Download the Oracle Web logic Server (V44413-01.zip) Setup file.
 
-![WL2](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/qdj1sprk.bmp)
+![WL2](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/qdj1sprk.bmp)
 
 ## 2. Prerequisites
 
@@ -114,7 +114,7 @@ Now Open the Command Prompt as **<span style="color:red;">Run administrator</spa
 
 Enter the Oracle_Home as per your requirement and once installation completed uncheck the automatically launch the configuration wizard as shown in the below screen shot and click on finish.
 
-![WL1](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/jb6up0lz.bmp)
+![WL1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/jb6up0lz.bmp)
 
 > [!NOTE]
 > No need to create a domain for web logic server
@@ -131,7 +131,7 @@ Unzip **V47124-01.zip** the file and run the Oracle Client Setup (“Setup.exe�
 > [!NOTE]
 > Oracle 12c 32 bit Client required non-administrator user for Installation, during the installation Enter the non-administrator user for installing Oracle 12c Client. If you already created non admin user use option 1 or use option 2 allow OUI to create non admin user ID.
 
-![Oracle1](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/s133rsut.bmp)
+![Oracle1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/s133rsut.bmp)
 
 Now, it’s time to install Oracle E1local DB 12c and JDE standalone Client itself. The install process is divided in two parts: the first install the Oracle Database and the second the JDE Client. The four files that we downloaded earlier must be combined to make a working setup installation extract the four files and you will have a folder structure like this.
 
@@ -149,11 +149,11 @@ Follow the below screenshots
 
 Extract all 4 Setup files
 
-![Oracle2](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/sinv7am8.bmp)
+![Oracle2](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/sinv7am8.bmp)
 
 1. Move the contents from folder V97805-01-01 to folder V97806-01
 
-![Oracle3](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/9dnmqu39.bmp)
+![Oracle3](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/9dnmqu39.bmp)
 
 2. Move the contents from folder V97804-01-01 to folder V100564-01
 2. Now Move the contents from folder V97806-01-01 to folder V100564-01\ThirdParty\ORACLE
@@ -165,11 +165,11 @@ Extract all 4 Setup files
 
 From Release E920, Oracle E1local DB 12C required non-administrator user for Installation. Run the “InstallManager.exe”. Click Enterpriseone Oracle 12c Database Engine on JD Edwards Install Manager
 
-![JDE1](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/00p8meim.bmp)
+![JDE1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/00p8meim.bmp)
 
 In the next screen as we already created Non admin user while installing Oracle 12c 32 bit client, Use the Option 1 and provide the non-administrator credentials and click on Next. Once E1local 12C Successfully Installed, we will receive a saying that message “E1local successfully installed”. Now click yes to reboot the machine.
 
-![JDE2](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/8ab4r565.bmp)
+![JDE2](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/8ab4r565.bmp)
 
 **<span style="color:red;">Once this is completed, check the following</span>**
 
@@ -180,11 +180,11 @@ The solution: Ensure that both the 32-bit client and the 64-bit client are both 
 
 Once Machine rebooted we are ready to Install JD Edwards E920 Standalone client. Open InstallManager.exe as run as administrator. Click EnterpriseOne Standalone client on JD Edwards Install Manager. Enter the Installation path as per your requirement (i.e C:\JDEdwards\E920_1).
 
-![JDE3](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/n5gmy46n.bmp)
+![JDE3](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/n5gmy46n.bmp)
 
 In the Next screen the select the package and click on next
 
-![JDE4](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/4ph95hml.bmp)
+![JDE4](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/4ph95hml.bmp)
 
 > [!TIP]
 > If you face error message “Unable to connect to Database” in this step.
@@ -196,7 +196,7 @@ JDK will not be shipped with E920 Installer. Install JDK and provide the path of
 > [!WARNING]
 > This screen will shows the information which we provided in the above Steps. Verify it once more before we click on Install button.
 
-![JDE5](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/vfhl1rd2.bmp)
+![JDE5](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/vfhl1rd2.bmp)
 
 JD Edwards Standalone E920 Installation will goes for minimum 2 hours and more
 
@@ -205,11 +205,11 @@ JD Edwards Standalone E920 Installation will goes for minimum 2 hours and more
 
 After the Installation of JD Edwards Standalone client completed, Installer automatically start to configure the Local web. During the local web configuration. We need to provide the web logic password(**welcome1**) for creating the domain and managed server for local web client as shown below
 
-![JDE6](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/gvxer7en.bmp)
+![JDE6](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/gvxer7en.bmp)
 
 Installation of Local Web client will takes sometimes to configure the Local Web client on Oracle Weblogic Server 12C. Click on Exit Once you received below message.
 
-![JDE7](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/w7df42et.bmp)
+![JDE7](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/w7df42et.bmp)
 
 ### 3.5. Post Installation Task
 
@@ -220,9 +220,9 @@ Copy the file tnsnames.ora from the location C:\Oracle\E1local\Network\ADMIN to 
 
 Click on JD Edwards Icon on the Desktop and Enter username: **DEMO**, Password: **DEMO**.
 
-![JDE8](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/fddgy1wr.bmp)
+![JDE8](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/fddgy1wr.bmp)
 
-![JDE9](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/899t44i6.bmp)
+![JDE9](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/899t44i6.bmp)
 
 Now You will be successfully Logged into DEMO920 Environment
 
@@ -232,7 +232,7 @@ Open the JD Edwards icon on the desktop and Enter the username as DEMO and Passw
 
 Go to Tools  EnterpriseOne Menu to start the local web client. It will start the web logic server , now Internet explorer will open the web client as shown below
 
-![JDE10](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/JDE%20INSTALL/Images/vpmx1fdr.bmp)
+![JDE10](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/JDE%20INSTALL/Images/vpmx1fdr.bmp)
 
 We have installed JD Edwards 9.2 Demo Successfully. Cheers!!!
 

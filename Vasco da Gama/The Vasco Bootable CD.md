@@ -22,7 +22,7 @@ Optou-se então pela primeira alternativa pois esta era mais factível para as n
 
 ><br>
 >
->![1](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/1.png)
+>![1](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/1.png)
 >
 >**Figura 1** - _Estrutura de diretórios para o boot do CD_
 
@@ -51,7 +51,7 @@ Para a inicialização do Linux é necessário haver uma estrutura mínima, que 
 
 ><br>
 >
->![3](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/3.png)
+>![3](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/3.png)
 >
 >**Figura 3** - _Estrutura de **root.bin**_
 
@@ -199,7 +199,7 @@ A terceira tarefa a ser executado pelo **startcd** é a detecção e customizaç
 
 ><br>
 >
->![10](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/10.png)
+>![10](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/10.png)
 >
 >**Figura 10** - _Criação do **XF86Config**_
 
@@ -387,15 +387,15 @@ A primeira tarefa do ambiente gráfico é ler o arquivo das configurações inic
 
 ><br>
 >
->![18a](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/18a.svg)
+>![18a](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/18a.svg)
 >
 >**Figura 19.a** - _BOOT SEQUENCE_
 >
->![18b](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/18b.svg)
+>![18b](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/18b.svg)
 >
 >**Figura 19.b** - _ROOT.BIN_
 >
->![18c](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/18c.svg)
+>![18c](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/18c.svg)
 >
 >**Figura 19.c** - _MOUNT.GRAPH_
 
@@ -409,7 +409,7 @@ Um dos conceitos muito usado em nosso trabalho foi o filesystem. O filesystem em
 
 ><br>
 >
->![20](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/20.svg)
+>![20](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/20.svg)
 >
 >**Figura 20** - _Como o Linux manipul filesystem_
 
@@ -437,7 +437,7 @@ O grande gargâlo de performance está localizado no I/O de dispositivo, portant
 
 ><br>
 >
->![23](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/23.svg)
+>![23](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/23.svg)
 >
 >**Figura 23** - _Filesystem em memória_
 
@@ -461,7 +461,7 @@ Cuidado ao manipular arquivos compactados, pois ao transferi-los para uma área 
 
 ><br>
 >
->![26](https://raw.githubusercontent.com/GiovaniPM/DMNTests/main/Courses/Vasco%20da%20Gama/Images/26.svg)
+>![26](https://raw.githubusercontent.com/GiovaniPM/MyCourses/master/Vasco%20da%20Gama/Images/26.svg)
 >
 >**Figura 26** - _Transferindo arquivo de área_
 

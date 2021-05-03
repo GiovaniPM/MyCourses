@@ -40,7 +40,7 @@ arrow {
 
 <style>
 arrow {
-    LineColor green
+    LineColor lightgreen
 }
 </style>
 

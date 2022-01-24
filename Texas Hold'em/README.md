@@ -648,3 +648,4 @@ Começar com um par de ases, reis, damas ou valetes: 1,8%.
 - Prints and Printmaking, Antony Griffiths, British Museum Press (in UK),2nd edn, 1996 ISBN 0-7141-2608-X
 - Regras obtidas da CBTH (Confederação Brasileira de Texas Hold'em) https://www.cbth.org.br/
 - Wilkinson, W. H., Chinese Origin of Playing Cards, The American Anthropologist, volume=VIII, 1895, páginas=61–78 [1]
+- Coisas Que Você Não Sabia Sobre As Cartas De Baralho https://www.youtube.com/watch?v=8AUCP92w_G0

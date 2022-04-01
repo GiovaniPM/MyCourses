@@ -2,43 +2,47 @@
 @startmindmap
 <style>
 node {
-    Padding 12
-    Margin 3
+    BackgroundColor gold
     HorizontalAlignment center
     LineColor blue
     LineThickness 3.0
-    BackgroundColor gold
-    RoundCorner 40
+    Margin 3
     MaximumWidth 600
+    Padding 12
+    RoundCorner 40
 }
 
 rootNode {
-    LineStyle 8.0;3.0
-    LineColor red
     BackgroundColor white
+    LineColor red
+    LineStyle 8.0;3.0
     LineThickness 1.0
     RoundCorner 0
     Shadowing 0.0
 }
 
 leafNode {
+    BackgroundColor gold
     LineColor none
-    BackgroundColor lightgreen
-    RoundCorner 0
     Padding 3
+    RoundCorner 0
 }
 
 arrow {
     ;LineStyle 4
     ;LineThickness 0.5
-    LineThickness 3.0
     LineColor blue
+    LineThickness 3.0
 }
 </style>
 
 * Dicas e Truques
 
 <style>
+leafNode {
+    BackgroundColor lightgreen
+}
+
 arrow {
     LineColor lightgreen
 }
@@ -96,5 +100,23 @@ arrow {
 *** Reconhecer e agradecer o progresso é excelente e oportuno.
 *** Coloque os assuntos pendentes na pauta da próxima reunião.
 *** Faça uma avaliação periódica das reuniões. Observe todas as áreas que podem ser analisadas e aprimoradas para reuniões mais produtivas. Veja um exemplo de avaliação de reunião.
+
+<style>
+leafNode {
+    BackgroundColor lightblue
+}
+
+arrow {
+    LineColor lightblue
+}
+</style>
+
+** Regras Gerais
+*** Sem telefones celulares
+*** Exigir preparação adequada
+*** Sem conversas paralelas
+*** Presença significa participação
+*** É normal ter opiniões diferentes, mas comunicar uma decisão unificada externamente
+*** Certifique-se de que as tarefas sejam executadas
 @endmindmap
 ```

@@ -241,14 +241,10 @@ O comando SELECT possui a seguinte sintaxe básica:
 
 **SELECT** [ALL | DISTINCT | DISTINCTROW ]
 
-`  `**FROM** *table\_references*
-
+` `**FROM** *table\_references*
 ` `WHERE *where\_condition*
-
 ` `GROUP BY {*col\_name* | *expr* | *position*} [ASC | DESC], ... [WITH ROLLUP]]
-
-HAVING *where\_condition*]
-
+` `HAVING *where\_condition*]
 ` `ORDER BY {*col\_name* | *expr* | *position*} [ASC | DESC], ...]
 
 **Dica:** *"A perfeição não é alcançada quando já não há mais nada para adicionar, mas quando já não há mais nada que se possa retirar."* Antoine de Saint\_Exupéry em O pequeno príncipe. Em outras palavras quando menos dados forem manipulados numa consulta horizontal mais rápida a mesma será.

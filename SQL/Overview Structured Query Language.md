@@ -321,9 +321,24 @@ Outra boa prática em SQL é a utilização das cláusulas de join explícitas, 
 
 Esta prática além de evidenciar quem é a drive table, auxilio o otimizador a utilizar o índice desejado, facilita a organização e leitura de grandes SELECT e possibilita maior controle das outer join (relações m para n).
 
-|**Implícito**|**Explícito**|
-| :-: | :-: |
-|<p>SELECT a.iblitm,</p><p>`       `b.imdsc1</p><p>`  `FROM proddta.f4102 a,</p><p>`       `proddta.f4101 b</p><p>` `WHERE b.imitm = a.ibitm</p><p>`       `a.ibmcu = '     PRODCAN';</p>|<p>SELECT a.iblitm,</p><p>`       `b.imdsc1</p><p>`  `FROM proddta.f4102 a </p><p>` `INNER JOIN proddta.f4101 b</p><p>`    `ON b.imitm = a.ibitm</p><p>` `WHERE a.ibmcu = '     PRODCAN';</p>|
+**Implícito**
+```sql
+SELECT a.iblitm,
+       b.imdsc1
+  FROM proddta.f4102 a,
+       proddta.f4101 b
+ WHERE b.imitm = a.ibitm
+       a.ibmcu = '     PRODCAN';
+```
+**Explícito**
+```sql
+SELECT a.iblitm,
+       b.imdsc1
+  FROM proddta.f4102 a 
+ INNER JOIN proddta.f4101 b
+    ON b.imitm = a.ibitm
+ WHERE a.ibmcu = '     PRODCAN';
+```
 
 ## <a name="_toc375138820"></a>**Dividir para conquistar**
 Em geral, as consultas tendem a possuir um certo grau de complexidade na obtenção da informação. Podemos, por exemplo, relacionar as colunas de uma tabela com a soma referente em outra tabela. Um recurso que podemos fazer uso são as  sub-querys.

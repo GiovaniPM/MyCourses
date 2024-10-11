@@ -77,7 +77,7 @@ hide footbox
 project starts 2021/01/01 /'change'/
 scale 0.8 /'project zoom'/
 'Label on last column and left aligned
-Label on first column and left aligned
+'Label on first column and left aligned
 
 ' Language
 language pt

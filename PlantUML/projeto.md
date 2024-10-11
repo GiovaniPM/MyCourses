@@ -85,8 +85,8 @@ title <<Project Name>> /'change'/
 footer <<Project Manager>>\n$nowbr /'change'/
 hide footbox
 'hide ressources footbox
-project starts 2021/01/01 /'change'/
-scale 1 /'project zoom'/
+project starts 2024/10/01 /'change'/
+scale 0.9 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
 
@@ -98,18 +98,20 @@ printscale daily zoom 1.5
 'printscale weekly zoom 6
 
 ' Day watching
-today is 2021/01/20 and is colored in Yellow
+'today is 2021/01/20 and is colored in Yellow
 'today is 14 days after start and is colored in Yellow
+today is colored in Yellow
 
 ' Working Days
 saturday are closed
 sunday are closed
-2021/01/01 is closed
+'2021/01/01 is closed
 '2021/01/25 to 2021/01/26 is closed
+2024/10/14 to 2024/10/18 is closed
 
 ' Colored Days
-2021/01/01 is colored in lightblue
-2021/01/04 to 2021/01/08 are colored in Orange
+'2021/01/01 is colored in lightblue
+2024/10/01 to 2024/10/04 are colored in Orange
 
 ' *************************************************************************
 ' **                        Tasks Section                                **
@@ -127,8 +129,8 @@ sunday are closed
 -- Phase Three --
 [Deploy] lasts 1 day
 [PD audict] lasts 10 days
-[Trainning] on {Camila:50}{Maria:50} starts 2021/01/18
-  [Trainning] ends 2021/02/12
+[Trainning] on {Camila:50}{Maria:50} starts 2024/10/18
+  [Trainning] ends 2024/11/12
 
 ' Tasks flow
 [Config prototype] starts at [Prototype design]'s end with red bold link
@@ -140,7 +142,7 @@ sunday are closed
 
 ' Tasks progress
 [Prototype design] is 77% completed
-[Config prototype] is 70% completed
+[Config prototype] is 0% completed
 [QA prototype] is 22% completed
 [Test prototype] is 0% completed
 [Deploy] is 0% completed

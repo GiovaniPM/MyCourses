@@ -14,6 +14,7 @@
   		FontStyle bold
   		BackGroundColor Aqua
   		LineColor blue
+        LineSize 1
   	}
   	milestone {
       FontName Tahoma
@@ -74,7 +75,9 @@ footer <<Project Manager>>\n$nowbr /'change'/
 hide footbox
 'hide ressources footbox
 project starts 2021/01/01 /'change'/
-scale 1 /'project zoom'/
+scale 0.8 /'project zoom'/
+'Label on last column and left aligned
+Label on first column and left aligned
 
 ' Language
 language pt
@@ -153,6 +156,9 @@ sunday are closed
 [Trainning] is colored in Aqua/Blue
 [DevEnd] is colored in White/Black
 [ReadyDeploy] is colored in Gray/Black
+
+' Tasks Deleted
+[Config prototype] is deleted
 
 legend left
 Legend:

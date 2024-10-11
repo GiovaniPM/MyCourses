@@ -13,11 +13,13 @@
   		FontSize 10
   		FontStyle bold
   		BackGroundColor Aqua
-  		LineColor blue
-        LineSize 1
+  		LineColor black
   	}
+    'undone {
+    '    BackGroundColor red
+    '}
   	milestone {
-      FontName Tahoma
+        FontName Tahoma
   		FontColor blue
   		FontSize 10
   		FontStyle italic
@@ -25,22 +27,31 @@
   		LineColor red
   	}
 	separator {
+        FontName Tahoma
 		LineColor green
-		BackGroundColor lightgreen
+		BackGroundColor physical
 		FontSize 16
 		FontStyle bold
 		FontColor green
 	}
   	note {
-      FontName Tahoma
+        FontName Tahoma
   		FontColor DarkGreen
   		FontSize 10
   		LineColor lightgreen
         BackGroundColor orange\yellow
   	}
+	timeline {
+	    BackgroundColor Gray
+        FontStyle bold
+	}
+	closed {
+		FontColor white
+        BackGroundColor lightgray
+	}
   }
   footer {
-    HorizontalAlignment right
+        HorizontalAlignment right
   }
   title {
     FontName Tahoma
@@ -75,7 +86,7 @@ footer <<Project Manager>>\n$nowbr /'change'/
 hide footbox
 'hide ressources footbox
 project starts 2021/01/01 /'change'/
-scale 0.8 /'project zoom'/
+scale 1 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
 
@@ -87,8 +98,8 @@ printscale daily zoom 1.5
 'printscale weekly zoom 6
 
 ' Day watching
-'today is 2021/01/20 and is colored in Yellow
-today is 14 days after start and is colored in Yellow
+today is 2021/01/20 and is colored in Yellow
+'today is 14 days after start and is colored in Yellow
 
 ' Working Days
 saturday are closed
@@ -97,8 +108,8 @@ sunday are closed
 '2021/01/25 to 2021/01/26 is closed
 
 ' Colored Days
-'2021/01/01 is colored in lightblue
-2021/01/04 to 2021/01/08 are colored in coral
+2021/01/01 is colored in lightblue
+2021/01/04 to 2021/01/08 are colored in Orange
 
 ' *************************************************************************
 ' **                        Tasks Section                                **

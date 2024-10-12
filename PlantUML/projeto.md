@@ -86,7 +86,7 @@ footer <<Project Manager>>\n$nowbr /'change'/
 hide footbox
 'hide ressources footbox
 project starts 2024/10/01 /'change'/
-scale 0.9 /'project zoom'/
+scale 0.8 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
 

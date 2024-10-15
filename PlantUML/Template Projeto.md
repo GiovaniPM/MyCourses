@@ -83,10 +83,10 @@ title <<Project Name>> /'change'/
 !$now = %now()
 !$nowbr = %date("dd/MM/YYYY HH:mm:ss", $now - 3*3600)
 footer <<Project Manager>>\n$nowbr /'change'/
-hide footbox
+'hide footbox
 'hide ressources footbox
 project starts 2024/10/01 /'change'/
-scale 0.8 /'project zoom'/
+scale 1 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
 
@@ -107,11 +107,11 @@ saturday are closed
 sunday are closed
 '2021/01/01 is closed
 '2021/01/25 to 2021/01/26 is closed
-2024/10/14 to 2024/10/18 is closed
+'2024/10/14 to 2024/10/18 is closed
 
 ' Colored Days
 '2021/01/01 is colored in lightblue
-2024/10/01 to 2024/10/04 are colored in Orange
+'2024/10/01 to 2024/10/04 are colored in Orange
 
 ' *************************************************************************
 ' **                        Tasks Section                                **

@@ -29,3 +29,5 @@ Através da história econômica, com um enfoque humanista da mesma, procurou mo
 [Introdução do Filme Idiocracia](https://www.youtube.com/watch?v=xUQbNgbK0S4)
 
 [Idiocracia Não é uma Comédia: Foi um AVISO!](https://www.youtube.com/watch?v=sD52RZAVahY)
+
+[IDIOCRACIA - O Filme Que Tentou Nos Alertar](https://www.youtube.com/watch?v=yR9pAGnlLF8)

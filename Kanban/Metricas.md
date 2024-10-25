@@ -22,6 +22,8 @@ $$\boxed{\text{Cycle Time} = \text{Data de Conclusão} - \text{Data de Início d
 
 Mede o tempo que uma tarefa leva para ser concluída desde que começa a ser trabalhada. Ideal para medir a eficiência e ajustar os processos.
 
+![](CycleTime.png)
+
 ## Throughput
 
 $$\boxed{\text{Throughput} = \frac{\text{Total de Tarefas Concluídas}}{\text{Período de Tempo}}}$$

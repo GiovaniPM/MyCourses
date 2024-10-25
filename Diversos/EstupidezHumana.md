@@ -1,4 +1,5 @@
 # As leis fundamentais da estupidez humana
+_por Giovani Perotto Mesquita - 25/10/2024_
 
 [![](CapaEstupidezHumana.png)](https://www.amazon.com.br/As-leis-fundamentais-estupidez-humana-ebook/dp/B085NV3WJC/ref=sr_1_1?crid=28T4GM9827Q97&dib=eyJ2IjoiMSJ9.2z7YkvMlEw8_ViR7n0eegRbPZQTv6yZ5HQfm_iIISrhVDZcHy8-gH4g0193JJytfNYrRrYtYWfkDl0DIXFF3udVgCmgqz-3KtsiAbqBStTmonvbP0vl4GE9ciNdvGW1NTYN470eDOtqF4oIKAq0zLuch7ocOf-m-FySIaS5uM8e5D5WQu5KfgqnJOSjACwzb4lTesh7bzqPsFM9MCA-knzzy7ShziFLDmlO_52fzakVeHDRC9FgMsgefTXEd_KI7JMLPgD8s5ASEuNMLuXmP9mc2-Chw-Y7z0bIGXolLfps.5aNMTioUw3xjcHRN82Q2LhCBgyf84imNSxAfg6Iaf6s&dib_tag=se&keywords=as+leis+fundamentais+da+estupidez+humana&qid=1729821173&sprefix=as+leis%2Caps%2C464&sr=8-1)
 
@@ -24,12 +25,12 @@ Conforme Carlo M. Cipolla cita em seu livro, eis as 5 leis:
 
 ## As 4 categorias de pessoas
 
-Segundo o autor podemos categorizar avaliando o comportamento, dividindo em quatro quadrantes de 2 dimensões. Uma dimensão irá retratar a relação de ganho/perda do indivíduo e outra o ganho/perda do(s) outro(s).
+De acordo com o autor, podemos categorizar as pessoas avaliando seu comportamento. Para isso, dividimos em quatro quadrantes, considerando duas dimensões: uma que retrata a relação de ganho/perda do indivíduo e outra que representa o ganho/perda dos demais.
 
 - As __Prestativas__: Aquele tipo de pessoa que para evitar dano a outra(s) pessoa(s), se coloca em situação de dano. Provocando a sua perda, para o ganho do(s) outro(s) __-/+__.
 - As __Inteligentes__: Aquele tipo de pessoa que evita a situação de dano a si, e a outra(s) pessoa(s). Busca o ganho a todos __+/+__.
 - As __Bandidas__: Aquele tipo de pessoa que evita a situação dano a si, colocando outra(s) pessoa(s) em situação de dano. Importa somente com o seu ganho __+/-__.
-- As __Estúpidas__: Aquele tipo que coloca a si e a outra(s) pessoa(s) em situação de dano. Provoca perda a todos __-/-___.
+- As __Estúpidas__: Aquele tipo que coloca a si e a outra(s) pessoa(s) em situação de dano. Provoca perda a todos __-/-__.
 
 
 ![](4Fatores.png)
@@ -52,9 +53,24 @@ Cipolla não considerou necessariamente a estupidez como uma questão de quocien
 
 ## Exemplos
 
+Pessoas estúpidas também fazem a História
+- Gengis Khan e a destruição do Império Corásmio [01:52](https://www.youtube.com/watch?v=aczOqwc66gc&t=112s)
+- O acidente do Exxon Valdez [07:08](https://www.youtube.com/watch?v=aczOqwc66gc&t=428s)
+- A Operação Barbarossa [11:27](https://www.youtube.com/watch?v=aczOqwc66gc&t=687s)
+- A Primeira Guerra Mundial [17:36](https://www.youtube.com/watch?v=aczOqwc66gc&t=1056s)
+- O acidente nuclear de Chernobyl [20:37](https://www.youtube.com/watch?v=aczOqwc66gc&t=1237s)
+
 [![Cinco estúpidos que mudaram a história](http://img.youtube.com/vi/aczOqwc66gc/0.jpg)](https://www.youtube.com/watch?v=aczOqwc66gc)
 
 ## A vida imita a arte
+
+O filme que originalmente era uma comédia e que se tornou um documentário. Assim é definido o filme “[Idiocracia](https://www.adorocinema.com/filmes/filme-109539/)” (“Idiocracy”, 2006) do diretor e escritor [Mike Judge](https://pt.wikipedia.org/wiki/Mike_Judge) (“[Beavis e Butthead](https://pt.wikipedia.org/wiki/Beavis_and_Butt-Head)” e “[O Rei do Pedaço](https://pt.wikipedia.org/wiki/King_of_the_Hill)”)
+
+Um casal acorda de uma longa hibernação criogênica de 500 anos para encontrar um mundo no qual a burrice, estupidez e preguiça (e suas consequências como o machismo e a intolerância) se tornam virtudes. O presidente dos EUA é um ex ator pornô e lutador de Telecatch e a água potável foi substituída por um isotônico produzido por uma gigantesca corporação, gerando uma catástrofe ambiental. E a política se confunde com entretenimento e vídeo-game.
+
+Um filme tão profético que o próprio estúdio 20th Century Fox resolveu boicotar o lançamento da sua própria produção, escondendo “Idiocracia” das grandes redes de exibição.
+
+“Idiocracia” é visionário: como uma sociedade inteira não percebeu que emburrecia enquanto as expectativas sobre o que é ser inteligente cada vez mais diminuíam com o avanço tecnológico e da indústria do entretenimento.
 
 [![Introdução do Filme Idiocracia](http://img.youtube.com/vi/xUQbNgbK0S4/0.jpg)](https://www.youtube.com/watch?v=xUQbNgbK0S4)
 
@@ -67,6 +83,8 @@ Cipolla não considerou necessariamente a estupidez como uma questão de quocien
 **Abraham**, "Idiocracia Não é uma Comédia: Foi um AVISO!", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=sD52RZAVahY](https://www.youtube.com/watch?v=sD52RZAVahY).
 
 **David 432 RDRDRD**, "IDIOCRACIA dublado", Youtube, 25/10/2024, [https://www.youtube.com/watch?v=xUQbNgbK0S4](https://www.youtube.com/watch?v=xUQbNgbK0S4).
+
+**Ferreira, Wilson Roberto Vieira**, "A burrice e estupidez do futuro já estão entre nós em Idiocracia", Cinegnose, 25/10/2024, [http://cinegnose.blogspot.com/2019/09/a-burrice-e-estupidez-do-futuro-ja.html](http://cinegnose.blogspot.com/2019/09/a-burrice-e-estupidez-do-futuro-ja.html).
 
 **Koblin, Jonas**, "Cipolla’s 5 Laws of Human Stupidity", [Sprouts Schools](https://sproutsschools.com), 25/10/2024, [https://sproutsschools.com/cipollas-5-laws-of-human-stupidity/](https://sproutsschools.com/cipollas-5-laws-of-human-stupidity/).
 

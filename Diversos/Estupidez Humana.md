@@ -4,7 +4,7 @@
 
 ## Sobre o Autor
 
-__Carlo M. Cipolla__ (_Pavia, 15 de agosto de 1922 — Pavia, 5 de setembro de 2000_) foi um historiador económico e medievalista italiano. Obteve sua licenciatura na Universidade de Pavia em 1944. Seu nome de batismo é Carlo Cipolla. Nas publicações, porém, é habitualmente referido como Carlo M. Cipolla. Esse nome do meio inexistente é normalmente mal interpretado como Maria.
+__[Carlo M. Cipolla](https://pt.wikipedia.org/wiki/Carlo_M._Cipolla)__ (_[Pavia](https://pt.wikipedia.org/wiki/Pavia), 15 de agosto de 1922 — [Pavia](https://pt.wikipedia.org/wiki/Pavia), 5 de setembro de 2000_) foi um historiador económico e medievalista italiano. Obteve sua licenciatura na [Universidade de Pavia](https://pt.wikipedia.org/wiki/Universidade_de_Pavia) em 1944. Seu nome de batismo é Carlo Cipolla. Nas publicações, porém, é habitualmente referido como Carlo M. Cipolla. Esse nome do meio inexistente é normalmente mal interpretado como Maria.
 
 Através da história econômica, com um enfoque humanista da mesma, procurou mostrar um maior interesse nas causas que tem provocado determinadas situações econômicas e sociais ao longo da história, tendo em vista os efeitos materiais e cifras concretas. Foi também conhecido por seus artigos sobre a "superpopulação" e seus ensaios sobre a estupidez humana.
 
@@ -20,14 +20,34 @@ Através da história econômica, com um enfoque humanista da mesma, procurou mo
 
 ![](EstupidezHumana.png)
 
-## Links
+## Vídeo
 
-[As cinco leis da estupidez humana de Cipolla](https://www.youtube.com/watch?v=oYpiYoqXCbA)
+[![As cinco leis da estupidez humana de Cipolla](http://img.youtube.com/vi/oYpiYoqXCbA/0.jpg)](https://www.youtube.com/watch?v=oYpiYoqXCbA)
 
-[Cinco estúpidos que mudaram a história](https://www.youtube.com/watch?v=aczOqwc66gc)
+## Exemplos
 
-[Introdução do Filme Idiocracia](https://www.youtube.com/watch?v=xUQbNgbK0S4)
+[![Cinco estúpidos que mudaram a história](http://img.youtube.com/vi/aczOqwc66gc/0.jpg)](https://www.youtube.com/watch?v=aczOqwc66gc)
 
-[Idiocracia Não é uma Comédia: Foi um AVISO!](https://www.youtube.com/watch?v=sD52RZAVahY)
+## A vida imita a arte
 
-[IDIOCRACIA - O Filme Que Tentou Nos Alertar](https://www.youtube.com/watch?v=yR9pAGnlLF8)
+[![Introdução do Filme Idiocracia](http://img.youtube.com/vi/xUQbNgbK0S4/0.jpg)](https://www.youtube.com/watch?v=xUQbNgbK0S4)
+
+[![Idiocracia Não é uma Comédia: Foi um AVISO!](http://img.youtube.com/vi/sD52RZAVahY/0.jpg)](https://www.youtube.com/watch?v=sD52RZAVahY)
+
+[![IDIOCRACIA - O Filme Que Tentou Nos Alertar](http://img.youtube.com/vi/yR9pAGnlLF8/0.jpg)](https://www.youtube.com/watch?v=yR9pAGnlLF8)
+
+## Referências
+
+**Abraham**, "Idiocracia Não é uma Comédia: Foi um AVISO!", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=sD52RZAVahY](https://www.youtube.com/watch?v=sD52RZAVahY).
+
+**David 432 RDRDRD**, "IDIOCRACIA dublado", Youtube, 25/10/2024, [https://www.youtube.com/watch?v=xUQbNgbK0S4](https://www.youtube.com/watch?v=xUQbNgbK0S4).
+
+**Paulo Rezzutti**, "Cinco estúpidos que mudaram a história", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=aczOqwc66gc](https://www.youtube.com/watch?v=aczOqwc66gc).
+
+**Rafael Scapella**, "IDIOCRACIA - O Filme Que Tentou Nos Alertar", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=yR9pAGnlLF8](https://www.youtube.com/watch?v=yR9pAGnlLF8).
+
+**Sprouts**, "As cinco leis da estupidez humana de Cipolla", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=oYpiYoqXCbA](https://www.youtube.com/watch?v=oYpiYoqXCbA).
+
+**Sprouts**, "Cipolla’s 5 Laws of Human Stupidity", [Sprouts Schools](https://sproutsschools.com), 25/10/2024, [https://sproutsschools.com/cipollas-5-laws-of-human-stupidity/](URLhttps://sproutsschools.com/cipollas-5-laws-of-human-stupidity/).
+
+**Wikipedia**, "Carlo M. Cipolla", Wikipedia, 25/10/2024, [https://pt.wikipedia.org/wiki/Carlo_M._Cipolla](https://pt.wikipedia.org/wiki/Carlo_M._Cipolla).

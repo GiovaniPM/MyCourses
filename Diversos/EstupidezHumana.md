@@ -65,10 +65,17 @@ Cipolla não considerou necessariamente a estupidez como uma questão de quocien
 ## Referências
 
 **Abraham**, "Idiocracia Não é uma Comédia: Foi um AVISO!", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=sD52RZAVahY](https://www.youtube.com/watch?v=sD52RZAVahY).
+
 **David 432 RDRDRD**, "IDIOCRACIA dublado", Youtube, 25/10/2024, [https://www.youtube.com/watch?v=xUQbNgbK0S4](https://www.youtube.com/watch?v=xUQbNgbK0S4).
+
 **Koblin, Jonas**, "Cipolla’s 5 Laws of Human Stupidity", [Sprouts Schools](https://sproutsschools.com), 25/10/2024, [https://sproutsschools.com/cipollas-5-laws-of-human-stupidity/](https://sproutsschools.com/cipollas-5-laws-of-human-stupidity/).
+
 **Rezzutti, Paulo**, "Cinco estúpidos que mudaram a história", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=aczOqwc66gc](https://www.youtube.com/watch?v=aczOqwc66gc).
+
 **Scapella, Rafael**, "IDIOCRACIA - O Filme Que Tentou Nos Alertar", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=yR9pAGnlLF8](https://www.youtube.com/watch?v=yR9pAGnlLF8).
+
 **Streck, Lenio Luiz**, "A conspiração dos néscios e as cinco leis fundamentais da estupidez", [Conjur](https://www.conjur.com.br), 25/10/2024, [https://www.conjur.com.br/2020-set-24/senso-incomum-conspiracao-nescios-cinco-leis-fundamentais-estupidez//](https://www.conjur.com.br/2020-set-24/senso-incomum-conspiracao-nescios-cinco-leis-fundamentais-estupidez//)
+
 **Sprouts**, "As cinco leis da estupidez humana de Cipolla", YouTube, 25/10/2024, [https://www.youtube.com/watch?v=oYpiYoqXCbA](https://www.youtube.com/watch?v=oYpiYoqXCbA).
+
 **Wikipedia**, "Carlo M. Cipolla", Wikipedia, 25/10/2024, [https://pt.wikipedia.org/wiki/Carlo_M._Cipolla](https://pt.wikipedia.org/wiki/Carlo_M._Cipolla).

@@ -2,15 +2,19 @@
 
 ## Work In Progress (WIP)
 
-$$\boxed{WIP = n} \color{Red} \left\{ \text{n} = \text{número de cards iniciados e não finalizados} \right\}$$
+$$\boxed{WIP = n}$$
 
 Monitora a quantidade de tarefas em andamento ao mesmo tempo. Limitar o WIP pode ajudar a melhorar a eficiência e evitar sobrecarregar a equipe.
+
+![](WIP.png)
 
 ## Lead Time
 
 $$\boxed{\text{Lead Time} = \text{Data de Conclusão} - \text{Data de Início}}$$
 
 Mede o tempo total desde o início até a conclusão de uma tarefa. Ajuda a identificar e resolver gargalos no processo.
+
+![](LeadTime.png)
 
 ## Cycle Time
 
@@ -24,11 +28,15 @@ $$\boxed{\text{Throughput} = \frac{\text{Total de Tarefas Concluídas}}{\text{Pe
 
 Conta o número de tarefas concluídas em um período específico. Dá uma visão clara da capacidade de entrega da equipe.
 
+![](Throughput.png)
+
 ## Blocked Time
 
 $$\boxed{\text{Blocked Time} = \text{Data de Desbloqueio} - \text{Data de Bloqueio}}$$
 
 Mede quanto tempo uma tarefa fica bloqueada durante seu ciclo de vida. Ajuda a identificar problemas frequentes que estão atrasando o trabalho.
+
+![](BlockedTime.png)
 
 ## Defect Rate
 
@@ -36,11 +44,15 @@ $$\boxed{\text{Defect Rate} = \frac{\text{Número de Defeitos}}{\text{Total de U
 
 Monitora o número de defeitos por unidade de trabalho. Essencial para manter a qualidade.
 
+![](DefectRate.png)
+
 ## Time to Market
 
 $$\boxed{\text{Time to Market} = \text{Data de Lançamento} - \text{Data de Início do Projeto}}$$
 
 Mede o tempo desde a ideia inicial até a entrega ao cliente. Útil para projetos voltados ao cliente.
+
+![](TimetoMarket.png)
 
 ## Customer Satisfaction
 
@@ -48,14 +60,20 @@ $$\boxed{\text{Customer Satisfaction} = \frac{\sum \text{Pontuações de Satisfa
 
 Pode ser medido por meio de pesquisas ou feedback direto, refletindo a satisfação do cliente com os entregáveis.
 
+![](CustomerSatisfaction.png)
+
 ## Employee Engagement
 
 $$\boxed{\text{Employee Engagement} = \frac{\sum \text{Pontuações de Engajamento}}{\text{Número Total de Funcionários}}}$$
 
 Avalia o engajamento e a moral da equipe, que podem impactar a produtividade.
 
+![](EmployeeEngagement.png)
+
 ## Cost of Delay
 
 $$\boxed{\text{Cost of Delay} = \frac{\text{Valor do Trabalho Não Realizado}}{\text{Tempo de Atraso}}}$$
 
 Calcula o impacto financeiro das tarefas atrasadas, ajudando a priorizar o trabalho de alto valor.
+
+![](CostofDelay.png)

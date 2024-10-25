@@ -4,7 +4,7 @@
 
 ## Sobre o Autor
 
-Carlo M. Cipolla (Pavia, 15 de agosto de 1922 — Pavia, 5 de setembro de 2000) foi um historiador económico e medievalista italiano. Obteve sua licenciatura na Universidade de Pavia em 1944. Seu nome de batismo é Carlo Cipolla. Nas publicações, porém, é habitualmente referido como Carlo M. Cipolla. Esse nome do meio inexistente é normalmente mal interpretado como Maria.
+__Carlo M. Cipolla__ (_Pavia, 15 de agosto de 1922 — Pavia, 5 de setembro de 2000_) foi um historiador económico e medievalista italiano. Obteve sua licenciatura na Universidade de Pavia em 1944. Seu nome de batismo é Carlo Cipolla. Nas publicações, porém, é habitualmente referido como Carlo M. Cipolla. Esse nome do meio inexistente é normalmente mal interpretado como Maria.
 
 Através da história econômica, com um enfoque humanista da mesma, procurou mostrar um maior interesse nas causas que tem provocado determinadas situações econômicas e sociais ao longo da história, tendo em vista os efeitos materiais e cifras concretas. Foi também conhecido por seus artigos sobre a "superpopulação" e seus ensaios sobre a estupidez humana.
 

@@ -1,4 +1,7 @@
 # As leis fundamentais da estupidez humana:
+
+![](stupid.png)
+
 - Todo mundo subestima, sempre e inevitavelmente, o número de indivíduos estúpidos em circulação.
 - A probabilidade de determinada pessoa ser estúpida independe de qualquer outra característica dessa pessoa.
 - Uma pessoa estúpida é uma pessoa que provoca perdas para outra pessoa ou um grupo de pessoas enquanto não obtém nenhum ganho para si mesma, e possivelmente incorre em perdas.
@@ -6,3 +9,5 @@
 - Uma pessoa estúpida é o tipo mais perigoso de pessoa.
 
 ![](EstupidezHumana.png)
+
+[Cinco estúpidos que mudaram a história](https://www.youtube.com/watch?v=aczOqwc66gc)

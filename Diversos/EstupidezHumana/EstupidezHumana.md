@@ -58,7 +58,6 @@ De acordo com o autor, podemos categorizar as pessoas avaliando seu comportament
 - As __Bandidas__: Aquele tipo de pessoa que evita a situação dano a si, colocando outra(s) pessoa(s) em situação de dano. Importa somente com o seu ganho __+/-__.
 - As __Estúpidas__: Aquele tipo que coloca a si e a outra(s) pessoa(s) em situação de dano. Provoca perda a todos __-/-__.
 
-
 ![](4Fatores.png)
 
 ## <a name="_toc005"></a> Conclusão

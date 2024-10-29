@@ -2,9 +2,7 @@
 _por Giovani Perotto Mesquita - 25/10/2024_
 
 [Introdução](#_toc001)
-
 [Sobre o Autor do livro](#_toc002)
-
 [As Leis](#_toc003)
 
 [As 4 categorias de pessoas](#_toc004)

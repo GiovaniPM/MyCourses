@@ -35,8 +35,7 @@ __[Carlo M. Cipolla](https://pt.wikipedia.org/wiki/Carlo_M._Cipolla)__ (_[Pavia]
 
 Através da história econômica, com um enfoque humanista da mesma, procurou mostrar um maior interesse nas causas que tem provocado determinadas situações econômicas e sociais ao longo da história, tendo em vista os efeitos materiais e cifras concretas. Foi também conhecido por seus artigos sobre a "superpopulação" e seus ensaios sobre a estupidez humana.
 
-<a name="_toc003"></a>
-## As Leis
+## <a name="_toc003"></a> As Leis
 
 ![](stupid.png)
 
@@ -50,8 +49,7 @@ Conforme Carlo M. Cipolla cita em seu livro, eis as 5 leis:
 
 ![](EstupidezHumana.png)
 
-<a name="_toc004"></a>
-## As 4 categorias de pessoas
+## <a name="_toc004"></a> As 4 categorias de pessoas
 
 De acordo com o autor, podemos categorizar as pessoas avaliando seu comportamento. Para isso, dividimos em quatro quadrantes, considerando duas dimensões: uma que retrata a relação de ganho/perda do indivíduo e outra que representa o ganho/perda dos demais.
 
@@ -63,8 +61,7 @@ De acordo com o autor, podemos categorizar as pessoas avaliando seu comportament
 
 ![](4Fatores.png)
 
-<a name="_toc005"></a>
-## Conclusão
+## <a name="_toc005"></a> Conclusão
 
 Contrariando as principais tendências culturais entre os seus colegas intelectuais, Cipolla estava convencido de que os homens não são iguais. Que alguns são estúpidos e outros não, e que a diferença é determinada pela natureza e nada mais. Uma pessoa é estúpida da mesma forma que alguém é ruivo, escreveu ele.
 
@@ -76,13 +73,11 @@ Cipolla não considerou necessariamente a estupidez como uma questão de quocien
 
 ![](PointofView.png)
 
-<a name="_toc006"></a>
-## Vídeo
+## <a name="_toc006"></a> Vídeo
 
 [![As cinco leis da estupidez humana de Cipolla](http://img.youtube.com/vi/oYpiYoqXCbA/0.jpg)](https://www.youtube.com/watch?v=oYpiYoqXCbA)
 
-<a name="_toc007"></a>
-## Exemplos
+## <a name="_toc007"></a> Exemplos
 
 Pessoas estúpidas também fazem a História
 - __Gengis Khan e a destruição do Império Corásmio__ [01:52](https://www.youtube.com/watch?v=aczOqwc66gc&t=112s)
@@ -98,8 +93,7 @@ Pessoas estúpidas também fazem a História
 
 [![Cinco estúpidos que mudaram a história](http://img.youtube.com/vi/aczOqwc66gc/0.jpg)](https://www.youtube.com/watch?v=aczOqwc66gc)
 
-<a name="_toc008"></a>
-## A vida imita a arte
+## <a name="_toc008"></a> A vida imita a arte
 
 O filme que originalmente era uma comédia e que se tornou um documentário. Assim é definido o filme “[Idiocracia](https://www.adorocinema.com/filmes/filme-109539/)” (“Idiocracy”, 2006) do diretor e escritor [Mike Judge](https://pt.wikipedia.org/wiki/Mike_Judge) (“[Beavis e Butthead](https://pt.wikipedia.org/wiki/Beavis_and_Butt-Head)” e “[O Rei do Pedaço](https://pt.wikipedia.org/wiki/King_of_the_Hill)”)
 
@@ -115,8 +109,7 @@ Um filme tão profético que o próprio estúdio 20th Century Fox resolveu boico
 
 [![IDIOCRACIA - O Filme Que Tentou Nos Alertar](http://img.youtube.com/vi/yR9pAGnlLF8/0.jpg)](https://www.youtube.com/watch?v=yR9pAGnlLF8)
 
-<a name="_toc009"></a>
-## Referências
+## <a name="_toc009"></a> Referências
 
 **Abraham**, "Idiocracia Não é uma Comédia: Foi um AVISO!", [YouTube](https://www.youtube.com), 25/10/2024, [https://www.youtube.com/watch?v=sD52RZAVahY](https://www.youtube.com/watch?v=sD52RZAVahY).
 

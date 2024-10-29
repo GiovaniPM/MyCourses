@@ -110,7 +110,7 @@ Pessoas estúpidas também fazem a História
 
 [![IDIOCRACIA - O Filme Que Tentou Nos Alertar](http://img.youtube.com/vi/yR9pAGnlLF8/0.jpg)](https://www.youtube.com/watch?v=yR9pAGnlLF8)[^7]
 
-## <a name="_toc20241023009"></a> Referências[↩︎](#_toc20241023001)
+## <a name="_toc20241023009"></a> Referências[↩︎](#_toc20241023000)
 
 [^6]: **Abraham**, "Idiocracia Não é uma Comédia: Foi um AVISO!", [YouTube](https://www.youtube.com), 25/10/2024, [https://www.youtube.com/watch?v=sD52RZAVahY](https://www.youtube.com/watch?v=sD52RZAVahY).
 

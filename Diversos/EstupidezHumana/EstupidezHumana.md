@@ -1,6 +1,8 @@
 # <a name="_toc20241023000"></a>As leis fundamentais da estupidez humana
 _por Giovani Perotto Mesquita - 25/10/2024_
 
+## <a name="_toc20241023IND"></a>Índice
+
 [Introdução](#_toc20241023001)
 
 [Sobre o Autor do livro](#_toc20241023002)

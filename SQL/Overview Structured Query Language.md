@@ -7,145 +7,75 @@
 **S**tructured **Q**uery **L**anguage (Linguagem de Consulta Estrutura)
 # **Conteúdo**
 [Pré requisitos	5](#_toc375138803)
-
 [Softwares	5](#_toc375138804)
-
 [Permissões	5](#_toc375138805)
-
 [Nivelamento	5](#_toc375138806)
-
 [Configurações	5](#_toc375138807)
-
 [Start from the begin	6](#_toc375138808)
-
 [O que é SQL	6](#_toc375138809)
-
 [Subconjuntos do SQL	6](#_toc375138810)
-
 [DML - Linguagem de Manipulação de Dados	6](#_toc375138811)
-
 [DDL - Linguagem de Definição de Dados	7](#_toc375138812)
-
 [DCL - Linguagem de Controle de Dados	7](#_toc375138813)
-
 [DTL - Linguagem de Transação de Dados	7](#_toc375138814)
-
 [DQL - Linguagem de Consulta de Dados	8](#_toc375138815)
-
 [O nosso amigo "SELECT"	8](#_toc375138816)
-
 [Estrutura básica do "SELECT"	8](#_toc375138817)
-
 [Drive table	11](#_toc375138818)
-
 [Join entre tabelas	11](#_toc375138819)
-
 [Dividir para conquistar	13](#_toc375138820)
-
 [A Cesar o que é de Cesar	15](#_toc375138821)
-
 [Operadores	16](#_toc375138822)
-
 [Aritméticos	16](#_toc375138823)
-
 [Concatenação	16](#_toc375138824)
-
 [Comparação	16](#_toc375138825)
-
 [Lógicos	17](#_toc375138826)
-
 [Regras de precedência	17](#_toc375138827)
-
 [Como mudar a precedência	17](#_toc375138828)
-
 [Separando abacaxis de laranjas	17](#_toc375138829)
-
 [Diferença entre o IN e o EXISTS	17](#_toc375138830)
-
 [Ordem no caos	18](#_toc375138831)
-
 [Funções analíticas e agregadas	18](#_toc375138832)
-
 [Funções agregadas	18](#_toc375138833)
-
 [Funções analíticas no nível Jedi	18](#_toc375138834)
-
 [Conceitos iniciais	18](#_toc375138835)
-
 [Até a versão 11.2 do Oracle, este dispunha das seguintes funções analíticas:	18](#_toc375138836)
-
 [AVG	19](#_toc375138837)
-
 [CORR	19](#_toc375138838)
-
 [COUNT	20](#_toc375138839)
-
 [COVAR_POP e COVAR_SAMP	20](#_toc375138840)
-
 [CUME_DIST	21](#_toc375138841)
-
 [DENSE_RANK	21](#_toc375138842)
-
 [FIRST e LAST	21](#_toc375138843)
-
 [FIRST_VALUE	22](#_toc375138844)
-
 [LAG	22](#_toc375138845)
-
 [LAST_VALUE	23](#_toc375138846)
-
 [LEAD	23](#_toc375138847)
-
 [LISTAGG	23](#_toc375138848)
-
 [MAX	24](#_toc375138849)
-
 [MIN	24](#_toc375138850)
-
 [NTILE	25](#_toc375138851)
-
 [PERCENT_RANK	25](#_toc375138852)
-
 [RANK	26](#_toc375138853)
-
 [RATIO_TO_REPORT	26](#_toc375138854)
-
 [ROW_NUMBER	26](#_toc375138855)
-
 [STDDEV	27](#_toc375138856)
-
 [SUM	27](#_toc375138857)
-
 [VAR_POP	27](#_toc375138858)
-
 [VARIANCE	28](#_toc375138859)
-
 [Operadores de SET	28](#_toc375138860)
-
 [Operador UNION	28](#_toc375138861)
-
 [Operador INTERSECT	30](#_toc375138862)
-
 [Operador EXCEPT	31](#_toc375138863)
-
 [Having versus Where	31](#_toc375138864)
-
 [GROUP BY beyond the thunder dome	33](#_toc375138865)
-
 [Consultas Hierárquicas	33](#_toc375138866)
-
 [CONNECT BY na prática	33](#_toc375138867)
-
 [Pseudo-coluna LEVEL	36](#_toc375138868)
-
 [Comando START WITH	36](#_toc375138869)
-
 [Comando CONNECT BY PRIOR	36](#_toc375138870)
-
 [Conclusão	36](#_toc375138871)
-
 [Usando WITH para SQL complexos	38](#_toc375138872)
-
 [Utilização de BIND	39](#_toc375138873)
 
 

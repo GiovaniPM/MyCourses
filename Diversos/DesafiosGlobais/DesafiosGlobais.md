@@ -1,4 +1,7 @@
 # Desafios Globais
+_por Giovani Perotto Mesquita - 29/10/2024_
+
+## Os desafios a serem enfrentados em termos globais
 
 1. Questões ambientais
    1. Cobertura vegetal
@@ -36,7 +39,11 @@
    1. Natalidade
    1. Produção
    1. Refugiados
-1. Quedas
+1. Diversos
    1. Asteróides
    1. Cometas
    1. Veículos espaciais
+   1. IA
+   1. Vida extraterrestre
+
+![](Desafios.png)

@@ -1,6 +1,6 @@
 # As leis fundamentais da estupidez humana
-_por Giovani Perotto Mesquita - 25/10/2024_
-_rev. 29/10/2024_
+_<sup>por Giovani Perotto Mesquita - 25/10/2024</sup>_
+_<sup>rev. 29/10/2024</sup>_
 
 ## <a name="_toc20241023000"></a>Índice
 

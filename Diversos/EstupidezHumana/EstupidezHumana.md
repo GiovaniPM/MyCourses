@@ -19,8 +19,7 @@ _por Giovani Perotto Mesquita - 25/10/2024_
 
 [Referências](#_toc009)
 
-<a name="_toc001"></a>
-## Introdução
+## <a name="_toc001"></a>Introdução
 
 Analisaremos a tese proposta por Carlo M. Cipolla em seu livro As Leis Fundamentais da Estupidez Humana, onde ele delineia perfis comportamentais das relações humanas com base nos ganhos e perdas resultantes das ações dos indivíduos.
 
@@ -30,8 +29,7 @@ Nosso objetivo não é defender ou acusar, mas apresentar a teoria de forma resu
 
 [![](CapaEstupidezHumana.png)](https://www.amazon.com.br/As-leis-fundamentais-estupidez-humana-ebook/dp/B085NV3WJC/ref=sr_1_1?crid=28T4GM9827Q97&dib=eyJ2IjoiMSJ9.2z7YkvMlEw8_ViR7n0eegRbPZQTv6yZ5HQfm_iIISrhVDZcHy8-gH4g0193JJytfNYrRrYtYWfkDl0DIXFF3udVgCmgqz-3KtsiAbqBStTmonvbP0vl4GE9ciNdvGW1NTYN470eDOtqF4oIKAq0zLuch7ocOf-m-FySIaS5uM8e5D5WQu5KfgqnJOSjACwzb4lTesh7bzqPsFM9MCA-knzzy7ShziFLDmlO_52fzakVeHDRC9FgMsgefTXEd_KI7JMLPgD8s5ASEuNMLuXmP9mc2-Chw-Y7z0bIGXolLfps.5aNMTioUw3xjcHRN82Q2LhCBgyf84imNSxAfg6Iaf6s&dib_tag=se&keywords=as+leis+fundamentais+da+estupidez+humana&qid=1729821173&sprefix=as+leis%2Caps%2C464&sr=8-1)
 
-<a name="_toc002"></a>
-## Sobre o Autor do livro
+## <a name="_toc002"></a> Sobre o Autor do livro
 
 __[Carlo M. Cipolla](https://pt.wikipedia.org/wiki/Carlo_M._Cipolla)__ (_[Pavia](https://pt.wikipedia.org/wiki/Pavia), 15 de agosto de 1922 — [Pavia](https://pt.wikipedia.org/wiki/Pavia), 5 de setembro de 2000_) foi um historiador económico e medievalista italiano. Obteve sua licenciatura na [Universidade de Pavia](https://pt.wikipedia.org/wiki/Universidade_de_Pavia) em 1944. Seu nome de batismo é Carlo Cipolla. Nas publicações, porém, é habitualmente referido como Carlo M. Cipolla. Esse nome do meio inexistente é normalmente mal interpretado como Maria.
 

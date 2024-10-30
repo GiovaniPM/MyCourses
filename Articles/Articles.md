@@ -169,7 +169,7 @@ capítulo --> índice
 Sintaxe:
 >```[↩︎](#_tocnnn)```
 
-Outra conmvenção será que o hyperlink do índice será ```_toc000```, é que todos os capítulos irão apontar para ele na sua declaração.
+Outra convenção será que o hyperlink do índice será ```_toc000```, e que todos os capítulos irão apontar para ele na sua declaração.
 
 Exemplo:
 ```

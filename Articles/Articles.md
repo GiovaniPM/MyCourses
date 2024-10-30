@@ -15,6 +15,8 @@ _<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_
        - [Tópico](#_toc003132)
        - [Detalhe](#_toc003133)
        - [Texto](#_toc003134)
+     - [Referências](#_toc00314)
+1. [Referências](#_toc004)
 
 ## <a name="_toc001"></a>Introdução[↩︎](#_toc000)
 
@@ -129,6 +131,7 @@ Exemplo:
    - [Estrutura](#_toc0031)
      - [Título](#_toc00311)
      - [Índice](#_toc00312)
+1. [Referências](#_toc004)
 ```
 
 A ligação ao Capítulo/Tópico/Detalhe é efetuado quando da declaração do mesmo, através de um hyperlink (ex.: _toc001). Utilizaremos hyperlink para evitar problemas com acentuação e permitir apontamentos com o mesmo nome.
@@ -339,6 +342,6 @@ As referências bibliográficas é efetuada pela seguinte sintaxe:
 ## <a name="_toc004"></a>Referências[↩︎](#_toc000)
 
 [^1]: "Markdown", Wikipedia, 30/10/2024, [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown).
-[^2]: **PlantUML**, "PlantUML at a Glance", [PlantUML](https://plantuml.com/), 30/10/2024, [https://plantuml.com/](https://plantuml.com/).
-[^3]: **LaTEX**, "The LaTEX Project", [LaTEX](https://www.latex-project.org/), 30/10/2024, [https://www.latex-project.org/](https://www.latex-project.org/).
+[^2]: "PlantUML at a Glance", PlantUML, 30/10/2024, [https://plantuml.com/](https://plantuml.com/).
+[^3]: "The LaTEX Project", LaTEX, 30/10/2024, [https://www.latex-project.org/](https://www.latex-project.org/).
 [^4]: "Graphviz", Graphviz, 30/10/2024, [https://graphviz.org/](https://graphviz.org/).

@@ -73,9 +73,11 @@ De acordo com o autor, podemos categorizar as pessoas avaliando seu comportament
 
 >Cipolla não considerou necessariamente a estupidez como uma questão de quociente intelectual, mas sim uma falta de inteligência relacional. Ele parte da ideia de que, ao nos relacionarmos uns com os outros, podemos obter benefícios e proporcionar benefícios aos outros ou, pelo contrário, podemos causar danos ou prejudicar os outros.[^8]
 
-A estupidez deve ser avaliada como uma realidade, que não esta relacionada diretamente a inteligência. Diversas correntes tentam identificar o seu(s)gatilho(s), na atualidade se mostra agravada pelo isolacionismo de idéias e pela arrogânica de pensamento.
+A estupidez deve ser avaliada como uma realidade, que não esta relacionada diretamente a inteligência. Diversas correntes tentam identificar o seu(s) gatilho(s), agravada em como na atualidade o isolacionismo de idéias e a arrogânica de pensamento criam barreiras.
 
-A dúvida pode ser um grande antídoto, o qual nos força a refletir antes de tomar decisões ou agirmos. Citando a máxima de Sócrates: "Só sei que nada sei", estabelece que devemos reconhecer a própria ignorância e a importância de admitir que não se sabe tudo. Podemos desta forma mitigar a estupidez.
+A estupidez é mais facilmente identificado no momento posterior a sua consequência, o desafio é tentar identificar e mitiga-la.
+
+A dúvida pode ser uma forma de antídoto, o qual nos força a refletir antes de tomar decisões ou agirmos. Citando a máxima de Sócrates: "Só sei que nada sei", estabelece que devemos reconhecer a própria ignorância e a importância de admitir que não sabemos tudo. Pode ser o primeiro passo para mitigar a estupidez.
 
 ![](PointofView.png)[^2]
 
@@ -113,7 +115,7 @@ Pessoas estúpidas também fazem a História
 [![China matou 1 bilhão de pardais o que provocou a morte de 30 milhões de pessoas](http://img.youtube.com/vi/Zt8_-as-TIQ/0.jpg)](https://www.youtube.com/watch?v=Zt8_-as-TIQ)[^13]
 
 - __Dust Bowl__
-   _Como uma seca agravada, pelo manejo inadequado do solo e ignorância ao meio-ambiente, deixaram muitas pessoas com fome e falidas._
+   _Como uma seca agravada, pelo manejo inadequado do solo, ignorância ao meio-ambiente e políticas equivocadas, deixaram muitas pessoas com fome e falidas._
 
 [![DUST BOWL, QUANDO A POEIRA TOMOU CONTA DOS ESTADOS UNIDOS](http://img.youtube.com/vi/svFNrcE73Vw/0.jpg)](https://www.youtube.com/watch?v=svFNrcE73Vw)[^14]
 

@@ -62,15 +62,15 @@ Já o conteúdo poderá ser sub-dividido em:
 
 [*] --> Título
 Título --> Índice
-Título : [[Articles.html#_toc00311]]
+'Título : [[Articles.html#_toc00311]]
 Índice --> Conteúdo
-Índice : [[Articles.html#_toc00312]]
+'Índice : [[Articles.html#_toc00312]]
 
 state Conteúdo {
-    Capítulo : [[Articles.html#_toc003131]]
-    Tópico : [[Articles.html#_toc003132]]
-    Detalhe : [[Articles.html#_toc003133]]
-    Texto : [[Articles.html#_toc003134]]
+    'Capítulo : [[Articles.html#_toc003131]]
+    'Tópico : [[Articles.html#_toc003132]]
+    'Detalhe : [[Articles.html#_toc003133]]
+    'Texto : [[Articles.html#_toc003134]]
     
     state cap_top <<fork>>
     Capítulo --> cap_top
@@ -89,7 +89,7 @@ Conteúdo --> Conteúdo : 1 ... n
 
 Conteúdo --> Referências
 Referências --> [*]
-Referências : [[Articles.html#_toc00314]]
+'Referências : [[Articles.html#_toc00314]]
 
 @enduml
 ```

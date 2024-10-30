@@ -42,6 +42,7 @@ Conhecimento (não mandatório) em:
   - [Markdown](https://en.wikipedia.org/wiki/Markdown)[^1]
   - [Plantuml](https://plantuml.com/)[^2]
   - [LaTEX](https://www.latex-project.org/)[^3]
+  - [Graphviz](https://graphviz.org/)[^4]
 
 ## <a name="_toc003"></a>Documento[↩︎](#_toc000)
 
@@ -337,6 +338,7 @@ As referências bibliográficas é efetuada pela seguinte sintaxe:
 
 ## <a name="_toc004"></a>Referências[↩︎](#_toc000)
 
-[^1]: **Wikipedia**, "Markdown", [Wikipedia](https://pt.wikipedia.org), 30/10/2024, [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown).
+[^1]: "Markdown", Wikipedia, 30/10/2024, [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown).
 [^2]: **PlantUML**, "PlantUML at a Glance", [PlantUML](https://plantuml.com/), 30/10/2024, [https://plantuml.com/](https://plantuml.com/).
 [^3]: **LaTEX**, "The LaTEX Project", [LaTEX](https://www.latex-project.org/), 30/10/2024, [https://www.latex-project.org/](https://www.latex-project.org/).
+[^4]: "Graphviz", Graphviz, 30/10/2024, [https://graphviz.org/](https://graphviz.org/).

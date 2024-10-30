@@ -4,23 +4,15 @@ _<sup>rev. 30/10/2024</sup>_
 
 ## <a name="_toc20241023000"></a>Índice
 
-[Introdução](#_toc20241023001)
-
-[Sobre o Autor do livro](#_toc20241023002)
-
-[As Leis](#_toc20241023003)
-
-[As 4 categorias de pessoas](#_toc20241023004)
-
-[Conclusão](#_toc20241023005)
-
-[Vídeos](#_toc20241023006)
-
-[Exemplos](#_toc20241023007)
-
-[A vida imita a arte](#_toc20241023008)
-
-[Referências](#_toc20241023009)
+1. [Introdução](#_toc20241023001)
+1. [Sobre o Autor do livro](#_toc20241023002)
+1. [As Leis](#_toc20241023003)
+1. [As 4 categorias de pessoas](#_toc20241023004)
+1. [Conclusão](#_toc20241023005)
+1. [Vídeos](#_toc20241023006)
+1. [Exemplos](#_toc20241023007)
+1. [A vida imita a arte](#_toc20241023008)
+1. [Referências](#_toc20241023009)
 
 ## <a name="_toc20241023001"></a>Introdução[↩︎](#_toc20241023000)
 
@@ -73,25 +65,33 @@ De acordo com o autor, podemos categorizar as pessoas avaliando seu comportament
 
 >Cipolla não considerou necessariamente a estupidez como uma questão de quociente intelectual, mas sim uma falta de inteligência relacional. Ele parte da ideia de que, ao nos relacionarmos uns com os outros, podemos obter benefícios e proporcionar benefícios aos outros ou, pelo contrário, podemos causar danos ou prejudicar os outros.[^8]
 
-A estupidez deve ser avaliada como uma realidade, que não esta relacionada diretamente a inteligência. Diversas correntes tentam identificar o seu(s) gatilho(s), agravada em como na atualidade o isolacionismo de idéias e a arrogânica de pensamento criam barreiras.
+A estupidez deve ser reconhecida como uma realidade independente da inteligência. Diversas teorias tentam identificar seus gatilhos, agravados pelo isolacionismo de ideias e a arrogância de pensamento, que criam barreiras no mundo atual.
 
-A estupidez é mais facilmente identificado no momento posterior a sua consequência, o desafio é tentar identificar e mitiga-la.
+A estupidez é mais facilmente identificada após suas consequências. O desafio está em tentar identificá-la e mitigá-la antecipadamente, pois suas consequências tendem ser piores que a maldade e perduraram mais.
 
-A dúvida pode ser uma forma de antídoto, o qual nos força a refletir antes de tomar decisões ou agirmos. Citando a máxima de Sócrates: "Só sei que nada sei", estabelece que devemos reconhecer a própria ignorância e a importância de admitir que não sabemos tudo. Pode ser o primeiro passo para mitigar a estupidez.
+A estupidez é uma característica humana, seja intrínseca ao indivíduo ou manifesta. Não podemos negá-la, mesmo que isso fira o senso social, ideológico, cultural, dogmático ou econômico.
+
+A dúvida pode ser um antídoto eficaz, forçando-nos a refletir antes de tomar decisões ou agir. Citando Sócrates: "Só sei que nada sei", devemos reconhecer nossa própria ignorância e a importância de admitir que não sabemos tudo. Este pode ser o primeiro passo para mitigar a estupidez.
 
 ![](PointofView.png)[^2]
 
 ## <a name="_toc20241023006"></a> Vídeos[↩︎](#_toc20241023000)
 
+Resumo da teoria de Carlo M. Cipolla:
+
 [![As cinco leis da estupidez humana de Cipolla](http://img.youtube.com/vi/oYpiYoqXCbA/0.jpg)](https://www.youtube.com/watch?v=oYpiYoqXCbA)[^3]
 
-Argumento de contraposição, com uma visão mais efeito-causa:
+Argumento de contraposição, com uma visão focada no efeito-causa:
 
 [![Estupidez: Por que acreditamos em coisas idiotas?](http://img.youtube.com/vi/2BCQVwCwl6U/0.jpg)](https://www.youtube.com/watch?v=2BCQVwCwl6U)[^11]
 
-A visão de Robert Musil sobre a estupidez, resultado da ação ou falta de ação:
+A visão de [Robert Musil](https://pt.wikipedia.org/wiki/Robert_Musil) sobre a estupidez, resultado da ação ou falta de ação:
 
 [![Somos todos estúpidos? Sobre a Estupidez - Robert Musil](http://img.youtube.com/vi/uzhlgJ_AWKc/0.jpg)](https://www.youtube.com/watch?v=uzhlgJ_AWKc)[^12]
+
+Teoria da estupidez de [Dietrich Bonhoeffer](https://pt.wikipedia.org/wiki/Dietrich_Bonhoeffer):
+
+[![A TEORIA DA ESTUPIDEZ de BONHOEFFER](http://img.youtube.com/vi/v-vLi3l5DeE/0.jpg)](https://www.youtube.com/watch?v=v-vLi3l5DeE)[^15]
 
 ## <a name="_toc20241023007"></a> Exemplos[↩︎](#_toc20241023000)
 
@@ -109,13 +109,13 @@ Pessoas estúpidas também fazem a História
 
 [![Cinco estúpidos que mudaram a história](http://img.youtube.com/vi/aczOqwc66gc/0.jpg)](https://www.youtube.com/watch?v=aczOqwc66gc)[^4]
 
-- __Campanha das 4 pagras__
-   _Mao Tsé-Tung realiza ação para eliminar os pardais, considerados culpados por comer as sementes das plantações. Como consequência o número de lagartas e gafanhotos explode e quase 30 milhões de chineses morrem de fome._
+- __Campanha das 4 pagras__[^13]
+   _Mao Tsé-Tung implementou uma ação para eliminar os pardais, considerados culpados por comer as sementes das plantações. Como consequência, o número de lagartas e gafanhotos explodiu, resultando na morte de quase 30 milhões de chineses por fome._
 
 [![China matou 1 bilhão de pardais o que provocou a morte de 30 milhões de pessoas](http://img.youtube.com/vi/Zt8_-as-TIQ/0.jpg)](https://www.youtube.com/watch?v=Zt8_-as-TIQ)[^13]
 
-- __Dust Bowl__
-   _Como uma seca agravada, pelo manejo inadequado do solo, ignorância ao meio-ambiente e políticas equivocadas, deixaram muitas pessoas com fome e falidas._
+- __Dust Bowl__[^14]
+   _Uma seca, agravada pelo manejo inadequado do solo, a ignorância em relação ao meio ambiente e políticas equivocadas, deixou muitas pessoas famintas e falidas._
 
 [![DUST BOWL, QUANDO A POEIRA TOMOU CONTA DOS ESTADOS UNIDOS](http://img.youtube.com/vi/svFNrcE73Vw/0.jpg)](https://www.youtube.com/watch?v=svFNrcE73Vw)[^14]
 
@@ -164,3 +164,5 @@ Pessoas estúpidas também fazem a História
 [^13]: **Caça Viagens**, "China matou 1 bilhão de pardais o que provocou a morte de 30 milhões de pessoas", [YouTube](https://www.youtube.com), 30/10/2024, [https://www.youtube.com/watch?v=Zt8_-as-TIQ](https://www.youtube.com/watch?v=Zt8_-as-TIQ).
 
 [^14]: **Porteira Frouxa**, "DUST BOWL, QUANDO A POEIRA TOMOU CONTA DOS ESTADOS UNIDOS", [YouTube](https://www.youtube.com), 30/10/2024, [https://www.youtube.com/watch?v=svFNrcE73Vw](https://www.youtube.com/watch?v=svFNrcE73Vw).
+
+[^15]: **Razão e Reflexão**, "A TEORIA DA ESTUPIDEZ de BONHOEFFER", [YouTube](https://www.youtube.com), 30/10/2024, [https://www.youtube.com/watch?v=v-vLi3l5DeE](https://www.youtube.com/watch?v=v-vLi3l5DeE).

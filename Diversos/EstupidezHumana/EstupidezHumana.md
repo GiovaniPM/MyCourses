@@ -1,6 +1,6 @@
 # As leis fundamentais da estupidez humana
 _<sup>por Giovani Perotto Mesquita - 25/10/2024</sup>_
-_<sup>rev. 29/10/2024</sup>_
+_<sup>rev. 30/10/2024</sup>_
 
 ## <a name="_toc20241023000"></a>Índice
 
@@ -14,7 +14,7 @@ _<sup>rev. 29/10/2024</sup>_
 
 [Conclusão](#_toc20241023005)
 
-[Vídeo](#_toc20241023006)
+[Vídeos](#_toc20241023006)
 
 [Exemplos](#_toc20241023007)
 
@@ -73,11 +73,23 @@ De acordo com o autor, podemos categorizar as pessoas avaliando seu comportament
 
 >Cipolla não considerou necessariamente a estupidez como uma questão de quociente intelectual, mas sim uma falta de inteligência relacional. Ele parte da ideia de que, ao nos relacionarmos uns com os outros, podemos obter benefícios e proporcionar benefícios aos outros ou, pelo contrário, podemos causar danos ou prejudicar os outros.[^8]
 
+A estupidez deve ser avaliada como uma realidade, que não esta relacionada diretamente a inteligência. Diversas correntes tentam identificar o seu(s)gatilho(s), na atualidade se mostra agravada pelo isolacionismo de idéias e pela arrogânica de pensamento.
+
+A dúvida pode ser um grande antídoto, o qual nos força a refletir antes de tomar decisões ou agirmos. Citando a máxima de Sócrates: "Só sei que nada sei", estabelece que devemos reconhecer a própria ignorância e a importância de admitir que não se sabe tudo. Podemos desta forma mitigar a estupidez.
+
 ![](PointofView.png)[^2]
 
-## <a name="_toc20241023006"></a> Vídeo[↩︎](#_toc20241023000)
+## <a name="_toc20241023006"></a> Vídeos[↩︎](#_toc20241023000)
 
 [![As cinco leis da estupidez humana de Cipolla](http://img.youtube.com/vi/oYpiYoqXCbA/0.jpg)](https://www.youtube.com/watch?v=oYpiYoqXCbA)[^3]
+
+Argumento de contraposição, com uma visão mais efeito-causa:
+
+[![Estupidez: Por que acreditamos em coisas idiotas?](http://img.youtube.com/vi/2BCQVwCwl6U/0.jpg)](https://www.youtube.com/watch?v=2BCQVwCwl6U)[^11]
+
+A visão de Robert Musil sobre a estupidez, resultado da ação ou falta de ação:
+
+[![Somos todos estúpidos? Sobre a Estupidez - Robert Musil](http://img.youtube.com/vi/uzhlgJ_AWKc/0.jpg)](https://www.youtube.com/watch?v=uzhlgJ_AWKc)[^12]
 
 ## <a name="_toc20241023007"></a> Exemplos[↩︎](#_toc20241023000)
 
@@ -94,6 +106,16 @@ Pessoas estúpidas também fazem a História
     _O engenheiro-chefe da usina, ignorando alertas e protocolos, decidiu prosseguir com um teste para se promover. Como consequência, quase causou uma contaminação global e contribuiu para o aumento do aquecimento global._
 
 [![Cinco estúpidos que mudaram a história](http://img.youtube.com/vi/aczOqwc66gc/0.jpg)](https://www.youtube.com/watch?v=aczOqwc66gc)[^4]
+
+- __Campanha das 4 pagras__
+   _Mao Tsé-Tung realiza ação para eliminar os pardais, considerados culpados por comer as sementes das plantações. Como consequência o número de lagartas e gafanhotos explode e quase 30 milhões de chineses morrem de fome._
+
+[![China matou 1 bilhão de pardais o que provocou a morte de 30 milhões de pessoas](http://img.youtube.com/vi/Zt8_-as-TIQ/0.jpg)](https://www.youtube.com/watch?v=Zt8_-as-TIQ)[^13]
+
+- __Dust Bowl__
+   _Como uma seca agravada, pelo manejo inadequado do solo e ignorância ao meio-ambiente, deixaram muitas pessoas com fome e falidas._
+
+[![DUST BOWL, QUANDO A POEIRA TOMOU CONTA DOS ESTADOS UNIDOS](http://img.youtube.com/vi/svFNrcE73Vw/0.jpg)](https://www.youtube.com/watch?v=svFNrcE73Vw)[^14]
 
 ## <a name="_toc20241023008"></a> A vida imita a arte[↩︎](#_toc20241023000)
 
@@ -132,3 +154,11 @@ Pessoas estúpidas também fazem a História
 [^3]: **Sprouts**, "As cinco leis da estupidez humana de Cipolla", [YouTube](https://www.youtube.com), 25/10/2024, [https://www.youtube.com/watch?v=oYpiYoqXCbA](https://www.youtube.com/watch?v=oYpiYoqXCbA).
 
 [^1]: **Wikipedia**, "Carlo M. Cipolla", [Wikipedia](https://pt.wikipedia.org), 25/10/2024, [https://pt.wikipedia.org/wiki/Carlo_M._Cipolla](https://pt.wikipedia.org/wiki/Carlo_M._Cipolla).
+
+[^11]: **Barros, Daniel Martins de**, "Estupidez: Por que acreditamos em coisas idiotas?", [YouTube](https://www.youtube.com), 30/10/2024, [https://www.youtube.com/watch?v=2BCQVwCwl6U](https://www.youtube.com/watch?v=2BCQVwCwl6U).
+
+[^12]: **Conjunção Bookiana**, "Somos todos estúpidos? Sobre a Estupidez - Robert Musil", [YouTube](https://www.youtube.com), 30/10/2024, [https://www.youtube.com/watch?v=uzhlgJ_AWKc](https://www.youtube.com/watch?v=uzhlgJ_AWKc).
+
+[^13]: **Caça Viagens**, "China matou 1 bilhão de pardais o que provocou a morte de 30 milhões de pessoas", [YouTube](https://www.youtube.com), 30/10/2024, [https://www.youtube.com/watch?v=Zt8_-as-TIQ](https://www.youtube.com/watch?v=Zt8_-as-TIQ).
+
+[^14]: **Porteira Frouxa**, "DUST BOWL, QUANDO A POEIRA TOMOU CONTA DOS ESTADOS UNIDOS", [YouTube](https://www.youtube.com), 30/10/2024, [https://www.youtube.com/watch?v=svFNrcE73Vw](https://www.youtube.com/watch?v=svFNrcE73Vw).

@@ -1,5 +1,5 @@
-$$\color{Blue} \Huge As\ leis\ fundamentais$$
-$$\color{Blue} \Huge da\ estupidez\ humana$$
+$$ \color{Blue} \Huge As\ leis\ fundamentais $$
+$$ \color{Blue} \Huge da\ estupidez\ humana $$
 
 _<sup>por Giovani Perotto Mesquita - 25/10/2024</sup>_
 _<sup>rev. 30/10/2024</sup>_

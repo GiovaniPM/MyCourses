@@ -1,5 +1,9 @@
 ﻿![](coverart.png)
 
+https://www.dummyimage.com/600x80/ffffff/000000.png&text=The+Hitchhiker's+Guide
+https://www.dummyimage.com/600x80/ffffff/000000.png&text=to+the
+https://www.dummyimage.com/600x80/ffffff/000000.png&text=Structured+Query+Language
+
 <div align="center" style="font-size: 40px;">
 The Hitchhiker's Guide<br>
 to the<br>

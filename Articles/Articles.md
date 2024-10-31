@@ -2,7 +2,7 @@
 _<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
 _<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_
 
-## <a name="_toc000"></a>Índice
+# <a name="_toc000"></a>Índice
 
 1. [Introdução](#_toc001)
 1. [Pré-requsitos](#_toc002)
@@ -18,13 +18,13 @@ _<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_
      - [Referências](#_toc00314)
 1. [Referências](#_toc004)
 
-## <a name="_toc001"></a>Introdução[↩︎](#_toc000)
+# <a name="_toc001"></a>Introdução[↩︎](#_toc000)
 
 Neste artigo iremos sugerir um template para criação de artigos em [markdown](https://en.wikipedia.org/wiki/Markdown)[^1], que podem ser facilmente renderizados utilizando o vscode.
 
 O nosso objetivo é do trazer uma alternativa grátis e que possa ser utilizado tanto online quanto offline, suportada por diversas plataformas e ferramentas.
 
-## <a name="_toc002"></a>Pré-requsitos[↩︎](#_toc000)
+# <a name="_toc002"></a>Pré-requsitos[↩︎](#_toc000)
 
 Utilizaremos os seguintes requsitos de software, para escrever os artigos:
 
@@ -46,9 +46,9 @@ Conhecimento (não mandatório) em:
   - [LaTEX](https://www.latex-project.org/)[^3]
   - [Graphviz](https://graphviz.org/)[^4]
 
-## <a name="_toc003"></a>Documento[↩︎](#_toc000)
+# <a name="_toc003"></a>Documento[↩︎](#_toc000)
 
-### <a name="_toc0031"></a>Estrutura[↩︎](#_toc003)
+## <a name="_toc0031"></a>Estrutura[↩︎](#_toc003)
 
 O artigo será estruturado de 4 partes:
 - [Título](#_toc00311)
@@ -98,7 +98,7 @@ Referências --> [*]
 @enduml
 ```
 
-#### <a name="_toc00311"></a>Título[↩︎](#_toc0031)
+### <a name="_toc00311"></a>Título[↩︎](#_toc0031)
 
 O __Título__ é uma frase que identifica o artigo, deve ser único entre os seus demais artigos, para evitar sobreposições. Também deve-se colocar a identificação do autor e a data que o mesmo foi redigido, bem como revisões posteriores e suas datas.
 
@@ -115,7 +115,7 @@ _<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
 _<sup>rev. John Doe - 30/10/2024</sup>_
 ```
 
-#### <a name="_toc00312"></a>Índice[↩︎](#_toc0031)
+### <a name="_toc00312"></a>Índice[↩︎](#_toc0031)
 
 O índice é uma lista das partes de um artigo, organizado pela ordem em que as partes aparecem. O mesmo possui relevância para uma acesso rápido a tôpicos do artigo.
 
@@ -138,16 +138,16 @@ A ligação ao Capítulo/Tópico/Detalhe é efetuado quando da declaração do m
 
 Sintaxe:
 >```
->## <a name="_tocnnn"></a><<Capítulo/Tópico/Detalhe>>[↩︎](#_tocnnn)
+># <a name="_tocnnn"></a><<Capítulo/Tópico/Detalhe>>[↩︎](#_tocnnn)
 >```
 Exemplo:
 ```
-## <a name="_toc001"></a>Introdução[↩︎](#_toc000)
-## <a name="_toc002"></a>Pré-requsitos[↩︎](#_toc000)
-## <a name="_toc003"></a>Documento[↩︎](#_toc000)
-### <a name="_toc0031"></a>Estrutura[↩︎](#_toc003)
-#### <a name="_toc00311"></a>Título[↩︎](#_toc0031)
-#### <a name="_toc00312"></a>Índice[↩︎](#_toc0031)
+# <a name="_toc001"></a>Introdução[↩︎](#_toc000)
+# <a name="_toc002"></a>Pré-requsitos[↩︎](#_toc000)
+# <a name="_toc003"></a>Documento[↩︎](#_toc000)
+## <a name="_toc0031"></a>Estrutura[↩︎](#_toc003)
+### <a name="_toc00311"></a>Título[↩︎](#_toc0031)
+### <a name="_toc00312"></a>Índice[↩︎](#_toc0031)
  ...
 ```
 
@@ -178,26 +178,26 @@ Outra convenção será que o hyperlink do índice será ```_toc000```, e que to
 
 Exemplo:
 ```
-## <a name="_toc001"></a>Introdução[↩︎](#_toc000)
+# <a name="_toc001"></a>Introdução[↩︎](#_toc000)
 ```
 
-#### <a name="_toc00313"></a>Conteúdo[↩︎](#_toc0031)
+### <a name="_toc00313"></a>Conteúdo[↩︎](#_toc0031)
 
 __Conteúdo__ é basicamente tudo o que você consome ou cria em termos de informação, entretenimento, ou educação. Pode ser um texto, imagem, vídeo, áudio, gráfico, arte, etc. É algo que tem valor para quem recebe, seja para informar, entreter, educar ou inspirar. Pense em um artigo de blog, um post nas redes sociais, um podcast, ou até um meme engraçado. Todos são tipos de __conteúdo__.
 
-#### <a name="_toc003131"></a>Capítulo[↩︎](#_toc00313)
+### <a name="_toc003131"></a>Capítulo[↩︎](#_toc00313)
 
 __Capítulo__ é uma especialização do [Conteúdo](#_toc00313), afim de criar itens que ajudam na compreensão do [Conteúdo](#_toc00313).
 
-#### <a name="_toc003132"></a>Tópico[↩︎](#_toc00313)
+### <a name="_toc003132"></a>Tópico[↩︎](#_toc00313)
 
 __Tópico__ é uma especialização do [Capítulo](#_toc003131), afim de criar itens que ajudam na compreensão do [Capítulo](#_toc003131).
 
-#### <a name="_toc003133"></a>Detalhe[↩︎](#_toc00313)
+### <a name="_toc003133"></a>Detalhe[↩︎](#_toc00313)
 
 __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar itens que ajudam na compreensão do [Tópico](#_toc003132).
 
-#### <a name="_toc003134"></a>Texto[↩︎](#_toc00313)
+### <a name="_toc003134"></a>Texto[↩︎](#_toc00313)
 
 É o assunto a ser transcorrido, podento ser texto, imagem, vídeo, áudio, gráfico, arte, etc. Para isso usamos a linguagem [markdown](https://en.wikipedia.org/wiki/Markdown)[^1], afim de realizar a sua formatação. Alguns padrões foram estabelecidos:
 
@@ -279,7 +279,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >[^1]
   ```
 
-#### <a name="_toc00314"></a>Referências[↩︎](#_toc0031)
+### <a name="_toc00314"></a>Referências[↩︎](#_toc0031)
 
 As referências bibliográficas é efetuada pela seguinte sintaxe:
 - Artigo:
@@ -339,7 +339,7 @@ As referências bibliográficas é efetuada pela seguinte sintaxe:
   **Autor**, "Título do Vídeo", Nome do Canal, Data de Publicação, [URL](URL).
   ```
 
-## <a name="_toc004"></a>Referências[↩︎](#_toc000)
+# <a name="_toc004"></a>Referências[↩︎](#_toc000)
 
 [^1]: "Markdown", Wikipedia, 30/10/2024, [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown).
 [^2]: "PlantUML at a Glance", PlantUML, 30/10/2024, [https://plantuml.com/](https://plantuml.com/).

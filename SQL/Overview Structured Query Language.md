@@ -1,4 +1,6 @@
-﻿<center><span style="font-size: 40px;">The Hitchhiker's Guide<br>
+﻿![](coverart.png)
+
+<center><span style="font-size: 40px;">The Hitchhiker's Guide<br>
 to the<br>
 Structured Query Language
 </span></center>

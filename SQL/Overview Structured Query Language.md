@@ -1445,8 +1445,6 @@ SELECT SYSDATETIMEOFFSET()AS [SYSDATETIMEOFFSET]
 Apesar de estar em Inglês é muito completo. ![](Aspose.Words.d3e67a1f-9e1d-441e-a054-de7bc994522d.030.png)
 
 **Don't PANIC!**
-42
-![](Aspose.Words.d3e67a1f-9e1d-441e-a054-de7bc994522d.031.png)
 
 [DML]: http://pt.wikipedia.org/wiki/DML "DML"
 [NULLs]: http://pt.wikipedia.org/wiki/Null_%28SQL%29 "Null (SQL)"

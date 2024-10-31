@@ -1,16 +1,8 @@
 ﻿![](coverart.png)
 
-<!---
-https://www.dummyimage.com/600x80/ffffff/000000.png&text=The+Hitchhiker's+Guide
-https://www.dummyimage.com/600x80/ffffff/000000.png&text=to+the
-https://www.dummyimage.com/600x80/ffffff/000000.png&text=Structured+Query+Language
---->
-
-<div align="center" style="font-size: 40px;">
-The Hitchhiker's Guide<br>
-to the<br>
-Structured Query Language
-</div>
+$$\color{Blue} \Huge The\ Hitchhiker's\ Guide$$
+$$\color{Blue} \Huge to\ the$$
+$$\color{Blue} \Huge Structured\ Query\ Language$$
 
 **Índice**
 
@@ -1444,7 +1436,7 @@ SELECT SYSDATETIMEOFFSET()AS [SYSDATETIMEOFFSET]
 ## **SQL Reference**
 Apesar de estar em Inglês é muito completo. ![](Aspose.Words.d3e67a1f-9e1d-441e-a054-de7bc994522d.030.png)
 
-**Don't PANIC!**
+$$\color{Blue} \Huge Don't\ PANIC!$$
 
 [DML]: http://pt.wikipedia.org/wiki/DML "DML"
 [NULLs]: http://pt.wikipedia.org/wiki/Null_%28SQL%29 "Null (SQL)"

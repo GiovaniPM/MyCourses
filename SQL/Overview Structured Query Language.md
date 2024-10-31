@@ -1,9 +1,10 @@
 ﻿![](coverart.png)
 
-<center><span style="font-size: 40px;">The Hitchhiker's Guide<br>
+<div align="center">
+The Hitchhiker's Guide<br>
 to the<br>
 Structured Query Language
-</span></center>
+</div>
 
 
 **Índice**

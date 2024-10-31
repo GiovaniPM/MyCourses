@@ -1,11 +1,9 @@
 ﻿
+# **The Hitchhiker's Guide to the**
 
+# **S**tructured **Q**uery **L**anguage (Linguagem de Consulta Estrutura)
 
-
-**The Hitchhiker's Guide to the**
-
-**S**tructured **Q**uery **L**anguage (Linguagem de Consulta Estrutura)
-# **Conteúdo**
+**Índice**
 1. [Pré requisitos](#_toc375138803)
     1. [Softwares](#_toc375138804)
     1. [Permissões](#_toc375138805)

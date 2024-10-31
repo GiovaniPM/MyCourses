@@ -6,7 +6,6 @@ to the<br>
 Structured Query Language
 </div>
 
-
 **Índice**
 
 1. [Pré requisitos](#_toc375138803)

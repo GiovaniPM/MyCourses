@@ -1,9 +1,9 @@
-# $$ \color{Blue} \Huge As\ leis\ fundamentais \newline da\ estupidez\ humana $$
+# $$ \color{Blue} \Huge As\ leis\newline fundamentais \newline da\ estupidez\newline humana $$
 
 _<sup>por Giovani Perotto Mesquita - 25/10/2024</sup>_
 _<sup>rev. 30/10/2024</sup>_
 
-## <a name="_toc20241023000"></a>Índice
+# <a name="_toc20241023000"></a>Índice
 
 1. [Introdução](#_toc20241023001)
 1. [Sobre o Autor do livro](#_toc20241023002)
@@ -15,7 +15,7 @@ _<sup>rev. 30/10/2024</sup>_
 1. [A vida imita a arte](#_toc20241023008)
 1. [Referências](#_toc20241023009)
 
-## <a name="_toc20241023001"></a>Introdução[↩︎](#_toc20241023000)
+# <a name="_toc20241023001"></a>Introdução[↩︎](#_toc20241023000)
 
 Analisaremos a tese proposta por Carlo M. Cipolla em seu livro As Leis Fundamentais da Estupidez Humana, onde ele delineia perfis comportamentais das relações humanas com base nos ganhos e perdas resultantes das ações dos indivíduos.
 
@@ -25,13 +25,13 @@ Nosso objetivo não é defender ou acusar, mas apresentar a teoria de forma resu
 
 [![](CapaEstupidezHumana.png)](https://www.amazon.com.br/As-leis-fundamentais-estupidez-humana-ebook/dp/B085NV3WJC/ref=sr_1_1?crid=28T4GM9827Q97&dib=eyJ2IjoiMSJ9.2z7YkvMlEw8_ViR7n0eegRbPZQTv6yZ5HQfm_iIISrhVDZcHy8-gH4g0193JJytfNYrRrYtYWfkDl0DIXFF3udVgCmgqz-3KtsiAbqBStTmonvbP0vl4GE9ciNdvGW1NTYN470eDOtqF4oIKAq0zLuch7ocOf-m-FySIaS5uM8e5D5WQu5KfgqnJOSjACwzb4lTesh7bzqPsFM9MCA-knzzy7ShziFLDmlO_52fzakVeHDRC9FgMsgefTXEd_KI7JMLPgD8s5ASEuNMLuXmP9mc2-Chw-Y7z0bIGXolLfps.5aNMTioUw3xjcHRN82Q2LhCBgyf84imNSxAfg6Iaf6s&dib_tag=se&keywords=as+leis+fundamentais+da+estupidez+humana&qid=1729821173&sprefix=as+leis%2Caps%2C464&sr=8-1)[^9]
 
-## <a name="_toc20241023002"></a> Sobre o Autor do livro[↩︎](#_toc20241023000)
+# <a name="_toc20241023002"></a> Sobre o Autor do livro[↩︎](#_toc20241023000)
 
 >__[Carlo M. Cipolla](https://pt.wikipedia.org/wiki/Carlo_M._Cipolla)__ (_[Pavia](https://pt.wikipedia.org/wiki/Pavia), 15 de agosto de 1922 — [Pavia](https://pt.wikipedia.org/wiki/Pavia), 5 de setembro de 2000_) foi um historiador económico e medievalista italiano. Obteve sua licenciatura na [Universidade de Pavia](https://pt.wikipedia.org/wiki/Universidade_de_Pavia) em 1944. Seu nome de batismo é Carlo Cipolla. Nas publicações, porém, é habitualmente referido como Carlo M. Cipolla. Esse nome do meio inexistente é normalmente mal interpretado como Maria.
 >
 >Através da história econômica, com um enfoque humanista da mesma, procurou mostrar um maior interesse nas causas que tem provocado determinadas situações econômicas e sociais ao longo da história, tendo em vista os efeitos materiais e cifras concretas. Foi também conhecido por seus artigos sobre a "superpopulação" e seus ensaios sobre a estupidez humana.[^1]
 
-## <a name="_toc20241023003"></a> As Leis[↩︎](#_toc20241023000)
+# <a name="_toc20241023003"></a> As Leis[↩︎](#_toc20241023000)
 
 ![](stupid.png)
 
@@ -45,7 +45,7 @@ Conforme Carlo M. Cipolla cita em seu livro, eis as 5 leis:
 
 ![](EstupidezHumana.png)
 
-## <a name="_toc20241023004"></a> As 4 categorias de pessoas[↩︎](#_toc20241023000)
+# <a name="_toc20241023004"></a> As 4 categorias de pessoas[↩︎](#_toc20241023000)
 
 De acordo com o autor, podemos categorizar as pessoas avaliando seu comportamento. Para isso, dividimos em quatro quadrantes, considerando duas dimensões: uma que retrata a relação de ganho/perda do indivíduo e outra que representa o ganho/perda dos demais.
 
@@ -56,7 +56,7 @@ De acordo com o autor, podemos categorizar as pessoas avaliando seu comportament
 
 ![](4Fatores.png)[^2]
 
-## <a name="_toc20241023005"></a> Conclusão[↩︎](#_toc20241023000)
+# <a name="_toc20241023005"></a> Conclusão[↩︎](#_toc20241023000)
 
 >Contrariando as principais tendências culturais entre os seus colegas intelectuais, Cipolla estava convencido de que os homens não são iguais. Que alguns são estúpidos e outros não, e que a diferença é determinada pela natureza e nada mais. Uma pessoa é estúpida da mesma forma que alguém é ruivo, escreveu ele.
 >
@@ -76,7 +76,7 @@ A dúvida pode ser um antídoto eficaz, forçando-nos a refletir antes de tomar 
 
 ![](PointofView.png)[^2]
 
-## <a name="_toc20241023006"></a> Vídeos[↩︎](#_toc20241023000)
+# <a name="_toc20241023006"></a> Vídeos[↩︎](#_toc20241023000)
 
 Resumo da teoria de Carlo M. Cipolla:
 
@@ -94,7 +94,7 @@ Teoria da estupidez de [Dietrich Bonhoeffer](https://pt.wikipedia.org/wiki/Dietr
 
 [![A TEORIA DA ESTUPIDEZ de BONHOEFFER](http://img.youtube.com/vi/v-vLi3l5DeE/0.jpg)](https://www.youtube.com/watch?v=v-vLi3l5DeE)[^15]
 
-## <a name="_toc20241023007"></a> Exemplos[↩︎](#_toc20241023000)
+# <a name="_toc20241023007"></a> Exemplos[↩︎](#_toc20241023000)
 
 Pessoas estúpidas também fazem a História
 - __Gengis Khan e a destruição do Império Corásmio__ [01:52](https://www.youtube.com/watch?v=aczOqwc66gc&t=112s)[^4]
@@ -120,7 +120,7 @@ Pessoas estúpidas também fazem a História
 
 [![DUST BOWL, QUANDO A POEIRA TOMOU CONTA DOS ESTADOS UNIDOS](http://img.youtube.com/vi/svFNrcE73Vw/0.jpg)](https://www.youtube.com/watch?v=svFNrcE73Vw)[^14]
 
-## <a name="_toc20241023008"></a> A vida imita a arte[↩︎](#_toc20241023000)
+# <a name="_toc20241023008"></a> A vida imita a arte[↩︎](#_toc20241023000)
 
 >O filme que originalmente era uma comédia e que se tornou um documentário. Assim é definido o filme “[Idiocracia](https://www.adorocinema.com/filmes/filme-109539/)” (“Idiocracy”, 2006) do diretor e escritor [Mike Judge](https://pt.wikipedia.org/wiki/Mike_Judge) (“[Beavis e Butthead](https://pt.wikipedia.org/wiki/Beavis_and_Butt-Head)” e “[O Rei do Pedaço](https://pt.wikipedia.org/wiki/King_of_the_Hill)”)
 >
@@ -136,7 +136,7 @@ Pessoas estúpidas também fazem a História
 
 [![IDIOCRACIA - O Filme Que Tentou Nos Alertar](http://img.youtube.com/vi/yR9pAGnlLF8/0.jpg)](https://www.youtube.com/watch?v=yR9pAGnlLF8)[^7]
 
-## <a name="_toc20241023009"></a> Referências[↩︎](#_toc20241023000)
+# <a name="_toc20241023009"></a> Referências[↩︎](#_toc20241023000)
 
 [^6]: **Abraham**, "Idiocracia Não é uma Comédia: Foi um AVISO!", [YouTube](https://www.youtube.com), 25/10/2024, [https://www.youtube.com/watch?v=sD52RZAVahY](https://www.youtube.com/watch?v=sD52RZAVahY).
 

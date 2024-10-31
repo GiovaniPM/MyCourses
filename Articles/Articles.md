@@ -104,13 +104,13 @@ O __Título__ é uma frase que identifica o artigo, deve ser único entre os seu
 
 Sintaxe:
 >```
-># <<Nome do artigo>>
+># $$ \color{Blue} \Huge <<título>> $$
 >_<sup>por <<redator do artigo>> - DD/MM/YYY</sup>_
 >_<sup>rev. <<redator da revisão>> - DD/MM/YYY</sup>_
 >```
 Exemplo:
 ```
-# Escrevendo artigos
+# $$ \color{Blue} \Huge As\ leis\newline fundamentais \newline da\ estupidez\newline humana $$
 _<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
 _<sup>rev. John Doe - 30/10/2024</sup>_
 ```

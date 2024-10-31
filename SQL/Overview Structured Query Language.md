@@ -1,7 +1,8 @@
-﻿
-# **The Hitchhiker's Guide to the**
-
-# **S**tructured **Q**uery **L**anguage (Linguagem de Consulta Estrutura)
+﻿<span style="font-size: 60px;">The Hitchhiker's Guide
+to the
+**S**tructured **Q**uery **L**anguage
+(Linguagem de Consulta Estrutura)
+</span>
 
 **Índice**
 1. [Pré requisitos](#_toc375138803)

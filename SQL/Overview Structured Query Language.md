@@ -1,8 +1,7 @@
-﻿<span style="font-size: 60px;">The Hitchhiker's Guide
-to the
-**S**tructured **Q**uery **L**anguage
-(Linguagem de Consulta Estrutura)
-</span>
+﻿<center><span style="font-size: 40px;">The Hitchhiker's Guide<br>
+to the<br>
+Structured Query Language
+</span></center>
 
 **Índice**
 1. [Pré requisitos](#_toc375138803)
@@ -76,8 +75,6 @@ to the
         1. [Conclusão](#_toc375138871)
     1. [Usando WITH para SQL complexos](#_toc375138872)
     1. [Utilização de BIND](#_toc375138873)
-
-**
 
 # <a name="_toc375138803"></a>**Pré requisitos**
 

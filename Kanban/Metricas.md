@@ -15,6 +15,7 @@ $$\large \boxed{\text{Lead Time} = \text{Data de Conclusão} - \text{Data de In�
 Mede o tempo total desde o início até a conclusão de uma tarefa. Ajuda a identificar e resolver gargalos no processo.
 
 ![](LeadTime.png)
+![](KanbanLead.png)
 
 ## Cycle Time
 
@@ -23,6 +24,8 @@ $$\large \boxed{\text{Cycle Time} = \text{Data de Conclusão} - \text{Data de In
 Mede o tempo que uma tarefa leva para ser concluída desde que começa a ser trabalhada. Ideal para medir a eficiência e ajustar os processos.
 
 ![](CycleTime.png)
+![](KanbanCycle.png)
+![](CyclexLead.png)
 
 ## Throughput
 

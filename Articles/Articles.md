@@ -1,11 +1,11 @@
-# $$ \color{Blue} \Huge Escrevendo \newline Artigos $$
+# $$ \color{Blue} \Huge \mathbf{Escrevendo} \newline \mathbf{Artigos} $$
 _<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
 _<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_
 
 # <a name="_toc000"></a>Índice
 
 1. [Introdução](#_toc001)
-1. [Pré-requsitos](#_toc002)
+1. [Pré-requisitos](#_toc002)
 1. [Documento](#_toc003)
    - [Estrutura](#_toc0031)
      - [Título](#_toc00311)
@@ -24,9 +24,9 @@ Neste artigo iremos sugerir um template para criação de artigos em [markdown](
 
 O nosso objetivo é do trazer uma alternativa grátis e que possa ser utilizado tanto online quanto offline, suportada por diversas plataformas e ferramentas.
 
-# <a name="_toc002"></a>Pré-requsitos[↩︎](#_toc000)
+# <a name="_toc002"></a>Pré-requisitos[↩︎](#_toc000)
 
-Utilizaremos os seguintes requsitos de software, para escrever os artigos:
+Utilizaremos os seguintes requisitos de software, para escrever os artigos:
 
 - [VS Code](https://code.visualstudio.com/download)
   - extension [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)

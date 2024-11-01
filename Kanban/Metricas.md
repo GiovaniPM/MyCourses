@@ -1,6 +1,4 @@
-# $$\color{Blue} \Huge Kanban$$
-# $$\color{Blue} \Huge em$$
-# $$\color{Blue} \Huge Métricas$$
+# $$\color{Blue} \Huge Kanban\ em \ Métricas$$
 
 # <a name="_toc000"></a>Índice
 

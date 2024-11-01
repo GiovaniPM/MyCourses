@@ -1,4 +1,4 @@
-# Kanban em Métricas
+# $$ \color{Blue} \Huge Kanban\newline em\newline Métricas $$
 
 # <a name="_toc000"></a>Índice
 

@@ -102,22 +102,26 @@ Calcula o impacto financeiro das tarefas atrasadas, ajudando a priorizar o traba
 
 # <a name="_toc011"></a>Discard Rate[↩︎](#_toc000)
 
-$$\large \boxed{\text{Discard Rate} = n}$$
+$$\large \boxed{\text{Discard Itens} = n}$$
+
+$$\large \boxed{\text{Discard Rate \%} = \frac{\text{Itens Descartados}}{\text{Itens Totais Processados}}* 100}$$
 
 A taxa de descarte é a métrica Kanban que mede o número de opções que são descartadas e, portanto, eliminadas do processo upstream, antes do ponto de compromisso.
 
 # <a name="_toc012"></a>Blockers Rate[↩︎](#_toc000)
 
-$$\large \boxed{\text{Blockers Rate} = n}$$
+$$\large \boxed{\text{Blockers Itens} = n}$$
+
+$$\large \boxed{\text{Blockers Rate \%} = \frac{\text{Itens Bloqueados}}{\text{Itens Totais Processados}}* 100}$$
 
 Dependências e bloqueadores param o fluxo normal de trabalho e introduzem muita variabilidade no sistema. Algo que é evidenciado com uma longa cauda no histograma do Lead Time.
 
 # <a name="_toc013"></a>Flow Efficiency[↩︎](#_toc000)
 
-$$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Valor Agregado}}{\text{Tempo de Ciclo Total}}* 100}$$
+$$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Trabalho Real}}{\text{Tempo Total de Processamento}}* 100}$$
 
-- Tempo de Valor Agregado: Tempo gasto em atividades que realmente adicionam valor ao produto ou serviço.
-- Tempo de Ciclo Total: Tempo total que a tarefa leva para ser concluída.
+- Quantifique o Tempo de Trabalho Real (Working Time): Esse é o tempo total que as tarefas estão ativamente sendo trabalhadas.
+- Quantifique o Tempo Total de Processamento (Total Time): Esse é o tempo total que as tarefas passam no processo, incluindo o tempo ocioso ou bloqueado.
 
 Aumentar a eficiência do fluxo no Kanban pode levar a melhorias significativas no processo e na entrega dos projetos.
 

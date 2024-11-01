@@ -2,6 +2,15 @@
 
 $$\color{Blue} \Huge Kanban\ em \ Métricas$$
 
+A história do Kanban é fascinante e remonta ao Japão! Aqui está um breve resumo:
+
+- Origem: O Kanban surgiu na década de 1940 na fábrica de automóveis Toyota. A palavra "Kanban" significa "cartão visual" em japonês.
+- Propósito Inicial: Foi desenvolvido para melhorar a eficiência e reduzir desperdícios no processo de produção. Os primeiros cartões Kanban eram usados para sinalizar a necessidade de reposição de estoque.
+- Expansão: Com o tempo, a metodologia se espalhou para outros setores e áreas, incluindo a gestão de projetos.
+- Princípios Fundamentais: O Kanban se baseia na visualização do fluxo de trabalho, limitação do trabalho em andamento (WIP), fluxo contínuo e melhoria contínua.
+
+Hoje, o Kanban é amplamente utilizado como uma abordagem ágil para gerenciar projetos, proporcionando uma visão clara e intuitiva do progresso das tarefas.
+
 # <a name="_toc000"></a>Índice
 
 1. [Work In Progress (WIP)](#_toc001)

@@ -1,5 +1,9 @@
 # $$ \color{Blue} \Huge Kanban\newline em\newline Métricas $$
 
+$$\color{Blue} \Huge The\ Hitchhiker's\ Guide$$
+$$\color{Blue} \Huge to\ the$$
+$$\color{Blue} \Huge Structured\ Query\ Language$$
+
 # <a name="_toc000"></a>Índice
 
 1. [Work In Progress (WIP)](#_toc001)

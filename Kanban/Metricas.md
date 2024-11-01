@@ -4,6 +4,18 @@
 
 1. [Work In Progress (WIP)](#_toc001)
 1. [Lead Time](#_toc002)
+1. [Cycle Time](#_toc003)
+1. [Throughput](#_toc004)
+1. [Blocked Time](#_toc005)
+1. [Defect Time](#_toc006)
+1. [Time to Market](#_toc007)
+1. [Customer Satisfaction](#_toc008)
+1. [Employee Engagement](#_toc009)
+1. [Cost of Delay](#_toc010)
+1. [Discart Rate](#_toc011)
+1. [Blocked Rate](#_toc012)
+1. [Flow Efficiency](#_toc013)
+1. [Little's Law](#_toc014)
 
 # <a name="_toc001"></a>Work In Progress (WIP)[↩︎](#_toc000)
 
@@ -22,7 +34,7 @@ Mede o tempo total desde o início até a conclusão de uma tarefa. Ajuda a iden
 ![](LeadTime.png)
 ![](KanbanLead.png)
 
-## Cycle Time
+# <a name="_toc003"></a>Cycle Time[↩︎](#_toc000)
 
 $$\large \boxed{\text{Cycle Time} = \text{Data de Conclusão} - \text{Data de Início do Trabalho}}$$
 
@@ -32,7 +44,7 @@ Mede o tempo que uma tarefa leva para ser concluída desde que começa a ser tra
 ![](KanbanCycle.png)
 ![](CyclexLead.png)
 
-## Throughput
+# <a name="_toc004"></a>Throughput[↩︎](#_toc000)
 
 $$\large \boxed{\text{Throughput} = \frac{\text{Total de Tarefas Concluídas}}{\text{Período de Tempo}}}$$
 
@@ -40,7 +52,7 @@ Conta o número de tarefas concluídas em um período específico. Dá uma visã
 
 ![](Throughput.png)
 
-## Blocked Time
+# <a name="_toc005"></a>Blocked Time[↩︎](#_toc000)
 
 $$\large \boxed{\text{Blocked Time} = \text{Data de Desbloqueio} - \text{Data de Bloqueio}}$$
 
@@ -48,7 +60,7 @@ Mede quanto tempo uma tarefa fica bloqueada durante seu ciclo de vida. Ajuda a i
 
 ![](BlockedTime.png)
 
-## Defect Rate
+# <a name="_toc006"></a>Defect Rate[↩︎](#_toc000)
 
 $$\large \boxed{\text{Defect Rate} = \frac{\text{Número de Defeitos}}{\text{Total de Unidades}}}$$
 
@@ -56,7 +68,7 @@ Monitora o número de defeitos por unidade de trabalho. Essencial para manter a 
 
 ![](DefectRate.png)
 
-## Time to Market
+# <a name="_toc007"></a>Time to Market[↩︎](#_toc000)
 
 $$\large \boxed{\text{Time to Market} = \text{Data de Lançamento} - \text{Data de Início do Projeto}}$$
 
@@ -64,7 +76,7 @@ Mede o tempo desde a ideia inicial até a entrega ao cliente. Útil para projeto
 
 ![](TimetoMarket.png)
 
-## Customer Satisfaction
+# <a name="_toc008"></a>Customer Satisfaction[↩︎](#_toc000)
 
 $$\large \boxed{\text{Customer Satisfaction} = \frac{\sum \text{Pontuações de Satisfação}}{\text{Número Total de Respondentes}}}$$
 
@@ -72,7 +84,7 @@ Pode ser medido por meio de pesquisas ou feedback direto, refletindo a satisfaç
 
 ![](CustomerSatisfaction.png)
 
-## Employee Engagement
+# <a name="_toc009"></a>Employee Engagement[↩︎](#_toc000)
 
 $$\large \boxed{\text{Employee Engagement} = \frac{\sum \text{Pontuações de Engajamento}}{\text{Número Total de Funcionários}}}$$
 
@@ -80,7 +92,7 @@ Avalia o engajamento e a moral da equipe, que podem impactar a produtividade.
 
 ![](EmployeeEngagement.png)
 
-## Cost of Delay
+# <a name="_toc010"></a>Cost of Delay[↩︎](#_toc000)
 
 $$\large \boxed{\text{Cost of Delay} = \frac{\text{Valor do Trabalho Não Realizado}}{\text{Tempo de Atraso}}}$$
 
@@ -88,19 +100,19 @@ Calcula o impacto financeiro das tarefas atrasadas, ajudando a priorizar o traba
 
 ![](CostofDelay.png)
 
-## Discard Rate
+# <a name="_toc011"></a>Discard Rate[↩︎](#_toc000)
 
 $$\large \boxed{\text{Discard Rate} = n}$$
 
 A taxa de descarte é a métrica Kanban que mede o número de opções que são descartadas e, portanto, eliminadas do processo upstream, antes do ponto de compromisso.
 
-## Blockers Rate
+# <a name="_toc012"></a>Blockers Rate[↩︎](#_toc000)
 
 $$\large \boxed{\text{Blockers Rate} = n}$$
 
 Dependências e bloqueadores param o fluxo normal de trabalho e introduzem muita variabilidade no sistema. Algo que é evidenciado com uma longa cauda no histograma do Lead Time.
 
-## Flow Efficiency
+# <a name="_toc013"></a>Flow Efficiency[↩︎](#_toc000)
 
 $$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Valor Agregado}}{\text{Tempo de Ciclo Total}}* 100}$$
 
@@ -109,7 +121,7 @@ $$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Valor Agregado}
 
 Aumentar a eficiência do fluxo no Kanban pode levar a melhorias significativas no processo e na entrega dos projetos.
 
-## Little’s Law
+# <a name="_toc014"></a>Little’s Law[↩︎](#_toc000)
 
 $$\large \boxed{\text{AVG WIP} = \text{Throughput} * \text{AVG Cycle Time}}$$
 

@@ -1,4 +1,4 @@
-# $$ \color{Blue} \Huge Kanban\newline em\newline Métricas $$
+# $$\color{Blue} \Huge Kanban\newline em\newline Métricas$$
 
 $$\color{Blue} \Huge The\ Hitchhiker's\ Guide$$
 $$\color{Blue} \Huge to\ the$$

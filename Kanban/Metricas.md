@@ -82,3 +82,32 @@ $$\large \boxed{\text{Cost of Delay} = \frac{\text{Valor do Trabalho Não Realiz
 Calcula o impacto financeiro das tarefas atrasadas, ajudando a priorizar o trabalho de alto valor.
 
 ![](CostofDelay.png)
+
+## Discard Rate
+
+$$\large \boxed{\text{Discard Rate} = n}$$
+
+A taxa de descarte é a métrica Kanban que mede o número de opções que são descartadas e, portanto, eliminadas do processo upstream, antes do ponto de compromisso.
+
+## Blockers Rate
+
+$$\large \boxed{\text{Blockers Rate} = n}$$
+
+Dependências e bloqueadores param o fluxo normal de trabalho e introduzem muita variabilidade no sistema. Algo que é evidenciado com uma longa cauda no histograma do Lead Time.
+
+## Flow Efficiency
+
+$$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Valor Agregado}}{\text{Tempo de Ciclo Total}}* 100}$$
+
+- Tempo de Valor Agregado: Tempo gasto em atividades que realmente adicionam valor ao produto ou serviço.
+- Tempo de Ciclo Total: Tempo total que a tarefa leva para ser concluída.
+
+Aumentar a eficiência do fluxo no Kanban pode levar a melhorias significativas no processo e na entrega dos projetos.
+
+## Little’s Law
+
+$$\large \boxed{\text{AVG WIP} = \text{Throughput} * \text{AVG Cycle Time}}$$
+
+$$\large \boxed{\text{AVG Cycle Time} = \frac{\text{AVG WIP}}{\text{Throughput}}}$$
+
+A Lei de Little explica a relação entre o tamanho da fila, o tempo de espera e o tempo de processamento.

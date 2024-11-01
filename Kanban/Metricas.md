@@ -1,8 +1,6 @@
-# $$\color{Blue} \Huge Kanban\newline em\newline Métricas$$
-
-$$\color{Blue} \Huge The\ Hitchhiker's\ Guide$$
-$$\color{Blue} \Huge to\ the$$
-$$\color{Blue} \Huge Structured\ Query\ Language$$
+# $$\color{Blue} \Huge Kanban$$
+# $$\color{Blue} \Huge em$$
+# $$\color{Blue} \Huge Métricas$$
 
 # <a name="_toc000"></a>Índice
 

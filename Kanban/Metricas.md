@@ -1,6 +1,11 @@
 # Kanban em Métricas
 
-## Work In Progress (WIP)
+# <a name="_toc000"></a>Índice
+
+1. [Work In Progress (WIP)](#_toc001)
+1. [Lead Time](#_toc002)
+
+# <a name="_toc001"></a>Work In Progress (WIP)[↩︎](#_toc000)
 
 $$\large \boxed{WIP = n}$$
 
@@ -8,7 +13,7 @@ Monitora a quantidade de tarefas em andamento ao mesmo tempo. Limitar o WIP pode
 
 ![](WIP.png)
 
-## Lead Time
+# <a name="_toc002"></a>Lead Time[↩︎](#_toc000)
 
 $$\large \boxed{\text{Lead Time} = \text{Data de Conclusão} - \text{Data de Início}}$$
 

@@ -1,4 +1,4 @@
-$$ \color{Blue} \Huge \mathbf{Escrevendo}\ \mathbf{Artigos}$$
+$$\color{Blue} \Huge \mathbf{Escrevendo}\ \mathbf{Artigos}$$
 _<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
 _<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_
 

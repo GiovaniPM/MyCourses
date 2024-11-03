@@ -28,6 +28,7 @@ Hoje, o Kanban é amplamente utilizado como uma abordagem ágil para gerenciar p
 1. [Blocked Rate](#_toc012)
 1. [Flow Efficiency](#_toc013)
 1. [Little's Law](#_toc014)
+1. [Meu Exemplo](#_toc015)
 
 # <a name="_toc001"></a>Work In Progress (WIP)[↩︎](#_toc000)
 
@@ -144,3 +145,7 @@ $$\large \boxed{\text{AVG WIP} = \text{Throughput} * \text{AVG Cycle Time}}$$
 $$\large \boxed{\text{AVG Cycle Time} = \frac{\text{AVG WIP}}{\text{Throughput}}}$$
 
 A Lei de Little explica a relação entre o tamanho da fila, o tempo de espera e o tempo de processamento.
+
+# <a name="_toc015"></a>Meu Exemplo[↩︎](#_toc000)
+
+![](ExemploKanban.png)

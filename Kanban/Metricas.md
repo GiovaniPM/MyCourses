@@ -55,7 +55,6 @@ Mede o tempo que uma tarefa leva para ser concluída desde que começa a ser tra
 
 ![](CycleTime.png)
 ![](KanbanCycle.png)
-![](CyclexLead.png)
 
 # <a name="_toc004"></a>Throughput[↩︎](#_toc000)
 
@@ -149,3 +148,4 @@ A Lei de Little explica a relação entre o tamanho da fila, o tempo de espera e
 # <a name="_toc015"></a>Meu Exemplo[↩︎](#_toc000)
 
 ![](ExemploKanban.png)
+![](CyclexLead.png)

@@ -15,6 +15,12 @@ _<sup>por Giovani Perotto Mesquita - 05/11/2024</sup>_
         1.  [5W2H](#_toc00141)
 1. [Base de dados](#_toc002)
 1. [Qual é a receita para ter sucesso com Kanban?](#_toc003)
+    1. [Focando na qualidade](#_toc0031)
+    1. [Limitando a quantidade de trabalho em andamento](#_toc0032)
+    1. [Entregando frequentemente](#_toc0033)
+    1. [Balanceando a demanda com a capacidade máxima](#_toc0034)
+    1. [Priorizando tarefas](#_toc0035)
+    1. [Atacando fontes de variedade](#_toc0036)
 
 # <a name="_toc001"></a>Kanban Cards[↩︎](#_toc000)
 
@@ -287,13 +293,99 @@ end note
 @enduml
 ```
 
-# <a name="_toc003"></a>Qual é a receita para ter sucesso com Kanban?[↩︎](#_toc000)
+# <a name="_toc003"></a>Qual é a receita para ter sucesso com Kanban?[^1][↩︎](#_toc000)
 
 Para que qualquer pessoa que queira ser um agente de mudança na sua organização tenha sucesso rápido (ou, uma melhoria rápida) e com baixa resistência da equipe, com foco na melhoria de processos em alguns pontos com o uso ou até mesmo sem o uso do método Kanban, é preciso seguir algumas etapas:
 
 1. Focar na qualidade;
-2. Limitar a quantidade de trabalho em progresso;
-3. Entregar frequentemente;
-4. Balancear demanda com a capacidade máxima;
-5. Priorizar tarefas;
-6. Atacar fontes de variedade.
+1. Limitar a quantidade de trabalho em progresso;
+1. Entregar frequentemente;
+1. Balancear demanda com a capacidade máxima;
+1. Priorizar tarefas;
+1. Atacar fontes de variedade.
+
+## <a name="_toc0031"></a>Focando na qualidade[^1][↩︎](#_toc000)
+
+Como os agentes de mudanças nas empresas de TI são geralmente pessoas com um background técnico, essa tende a ser uma das etapas mais fáceis de ser implementada, principalmente por ser um problema bem entendido por todos. As
+outras etapas desse guia tendem a ter uma implementação mais difícil porque dependem da colaboração de outras áreas e equipes. Com isso, exigem que o agente de mudança tenha muitas habilidades de negociação, articulação e bastante in teligência emocional.
+
+Os maiores geradores de retrabalho em desenvolvimento de software são os defeitos causados principalmente pela baixa qualidade das entregas. E, além de um gerador de retrabalho,baixa qualidade faz os clientes ficarem inseguros e a equipe desmotivada.
+
+O incentivo à qualidade das entregas tem um grande impacto na produtividade das equipes com altas taxas de defeitos. Segundo David, em equipes verdadeiramente ruins, somente concentrando-se na qualidade pode-se obter
+uma melhoria de produtividade de até dez vezes.
+
+Para David, tanto as técnicas de desenvolvimento ágil como as abordagens tradicionais têm seu mérito para a melhoria da qualidade. As principais práticas incentivadas por ele para a melhoria da qualidade são:
+
+1. Escrever testes automatizados, preferencialmente antes;
+1. Revisar código (Verificação);
+1. Fazer atividades de análise e design do software de forma colaborativa;
+1. Usar Design Patterns;
+1. Usar ferramentas modernas de desenvolvimento.
+
+Parece haver uma vantagem psicológica em pedir para os desenvolvedores escreverem testes antes, porém, é importante ressaltar que também existem inúmeros casos de sucesso com a escrita dos testes após a codificação.
+
+Inspeções ou revisões de código ajudam a melhorar tanto a qualidade externa como, notadamente, a qualidade interna do software. Todas as técnicas têm o seu valor. Programação em par e revisão por pares são alguns exemplos. No entanto, inspeções de código são melhores quando são feitas em pequenas quantidades várias vezes. David menciona que ele costuma encorajar as suas equipes a inspecionar código, todos os dias, por pelo menos 30 minutos.
+
+Sem dúvidas, quando toda a equipe trabalha em conjunto na análise dos problemas para as soluções de design, a qualidade é superior do que quando apenas uma pessoa faz isso. Assim como as inspeções de código, atividades de modelagem de software devem ser feitas em pequenas quantidades, todos os dias.
+
+Os padrões de projeto de software, mais conhecidos pelo termo original em inglês Design Patterns, descrevem soluções para problemas já conhecidos e recorrentes no desenvolvimento de software orientado a objetos. O uso de padrões de projeto garante que defeitos de design sejam eliminados já no início do projeto.
+
+O uso de ferramentas modernas de desenvolvimento melhora a qualidade porque a grande maioria dessas inclui funções de análise de código estática e dinâmica, que evitam que os desenvolvedores introduzam problemas básicos e já bem compreendidos, como falhas de segurança, no software.
+
+## <a name="_toc0032"></a>Limitando a quantidade de trabalho em andamento[^1][↩︎](#_toc000)
+
+É fácil especular porque limitar a quantidade de tarefas em andamento aumenta a qualidade. A complexidade do trabalho do conhecimento, como em desenvolvimento de software, cresce exponencialmente com a quantidade de trabalhos em andamento. Tanto a transferência como a descoberta de informações no desenvolvimento de software é conhecimento tácito por natureza e é criado durante sessões de trabalho colabora tivo, face a face. A informação é verbal e visual, mas é em um formato casual, como um esboço em um quadro branco.
+
+Nossas mentes têm uma capacidade limitada para armazenar conhecimento tácito. E, quanto mais tempo passa, há mais falhas para recordar detalhes precisos. Assim, uma série de erros é cometida. Equipes que trabalham de um modo ágil, em um mesmo espaço de trabalho, têm uma maior facilidade em reter o conhecimento tácito.
+
+Mas, independentemente da forma de trabalho da equipe, o conhecimento tácito se deprecia com o passar do tempo. Por isso, tempos de espera (lead time) menores são essenciais para os processos que envolvem muito conhecimento tácito. O foco da redução de trabalho em andamento está diretamente relacionado com a redução dos tempos de espera (lead time).
+
+Assim, podemos deduzir que haverá menor depreciação de conhecimento tácito quando temos menos trabalho em progresso – o que resultará em maior qualidade. Em resumo, reduzindo a quantidade de trabalho em andamento, melhora se a qualidade e possibilita-se entregas mais frequentes. Isso
+aumenta a confiança externa na equipe.
+
+Além de reduzir a quantidade de trabalho em andamento, é importante reduzir o tempo de uma iteração, pois isso também trará um impacto positivo significativo na qualidade. Segundo David, parece que existe uma relação entre a quantidade de trabalho em andamento e a qualidade, ou seja, defeitos vão aumentar com o aumento da quantidade de WIP. Portanto, faz sentido que iterações de duas semanas sejam melhores do que iterações de quatro semanas e que iterações de uma semana sejam melhores ainda. Iterações mais curtas irão resultar em entregas de maior qualidade.
+
+Seguindo a lógica das evidências apresentadas, se é sabido que limitar o WIP irá melhorar a qualidade, por que não intro duzir política explícita para isso, deixando assim os gerentes livres para se concentrarem em outras atividades? Essa é justamente uma das propriedades do Kanban. Entretanto David afirma que ainda não existe nenhuma evidência científica desse resultado que foi observado apenas empiricamente.
+
+## <a name="_toc0033"></a>Entregando frequentemente[^1][↩︎](#_toc000)
+
+Para entendermos a importância dessa etapa, David apresenta uma excelente analogia em seu livro: “Quando eu ensino isso nas aulas, eu gosto de perguntar às mulheres da classe o
+que elas pensam sobre duas situações depois de ter um primeiro encontro com um cara:
+
+- Situação 1: Eles tiveram um bom encontro, mas depois disso ele não dá sinais de vida a ela durante duas semanas. Mas, então, ele aparece em sua porta com um ramo de flores e um pedido de desculpas;
+- Situação 2: Eles tiveram um bom encontro e na mesma noite a caminho de casa ele envia uma mensagem de texto a ela dizendo: “Eu me diverti muito esta noite. Eu realmente quero me encontrar com você novamente. Posso ligar para você amanhã? E, esse mesmo cara, segue ligando e enviando mensagens dia após dia.
+
+Qual cara vocês acham que elas preferem?”.
+
+Pequenos e frequentes gestos não custam quase nada, entretanto, eles constroem mais confiança do que grandes e caros gestos ocasionalmente. Portanto, realizar frequentemente pequenas entregas de alta qualidade constrói mais confiança para as equipes parceiras do que entregas maiores, mas com menos frequência.
+
+## <a name="_toc0034"></a>Balanceando a demanda com a capacidade máxima[^1][↩︎](#_toc000)
+
+Construir um consenso em torno da necessidade de equilibrar a demanda contra a capacidade da equipe é crucial. No entanto, para isso, é preciso resolver problemas como a disfunção entre os papéis e as responsabilidades dos membros da equipe.
+
+Essa etapa implica definir a taxa em que a equipe aceita novos requisitos no processo de desenvolvimento de software para corresponder com a capacidade em que a equipe pode entregar código de qualidade.
+
+Quando se faz isso, fixa-se efetivamente a quantidade de trabalho em andamento, permitindo efetivamente que seja a equipe que crie a demanda de acordo com a sua capacidade (sistema puxado).
+
+## <a name="_toc0035"></a>Priorizando tarefas[^1][↩︎](#_toc000)
+
+Priorizar é trabalho da área de negócios, e não da área de TI da organização. Assim, não deveria ser da competência de um gerente técnico fazer isso. Entretanto, infelizmente, é comum a área de negócios delegar a responsabilidade e deixar um gerente técnico priorizar o trabalho e depois culpar que o gerente fez escolhas erradas.
+
+Neste ponto, a atenção da gerência deve-se voltar para otimizar o valor entregue ao invés de meramente a quantidade de código entregue.
+
+## <a name="_toc0036"></a>Atacando fontes de variedade[^1][↩︎](#_toc000)
+
+Podemos entender como fontes de variedade tudo aquilo que de alguma forma prejudica o desempenho do processo de produção.
+
+Atacar as fontes de variedade é a última etapa da receita porque alguns tipos de variedade exigem profundas mudanças de comportamento e, consequentemente, uma alta resistência da equipe.
+
+A dica para implementar essa etapa é focar nas fontes de variedade que requerem pequenas mudanças de comportamento e que podem ser aceitas facilmente pela equipe.
+
+Segundo David, não se deve focar nessa etapa sem antes implementar e dominar as primeiras cinco etapas da receita.
+
+Resumindo, essa receita é a forma que David acredita que uma equipe de desenvolvimento de software deve amadurecer: “Em primeiro lugar, aprender a construir código de alta qualidade. Em seguida, reduzir o trabalho em andamento, encurtar os lead times, e entregar (software funcionando) com frequência. Em seguida, equilibrar a demanda contra a capacidade máxima, limitar a quantidade de trabalho em andamento, e criar folga para liberar capacidade, o que permitirá a melhoria contínua. Então, com isso funcionando razoavelmente e continuamente otimizando a capacidade de desenvolvimento de software, melhore a priorização para otimizar a entrega de valor.”.
+
+O Kanban permite que você implemente todas as seis etapas dessa receita.
+
+[^1]: Anderson, D. (2010) Kanban: Successful Evolutionary Change for Your Technology Business.
+Washington, Blue Hole Press.

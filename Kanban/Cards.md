@@ -388,5 +388,4 @@ Resumindo, essa receita é a forma que David acredita que uma equipe de desenvol
 
 O Kanban permite que você implemente todas as seis etapas dessa receita.
 
-[^1]: Anderson, D. (2010) Kanban: Successful Evolutionary Change for Your Technology Business.
-Washington, Blue Hole Press.
+[^1]: Anderson, D. (2010) Kanban: Successful Evolutionary Change for Your Technology Business. Washington, Blue Hole Press.

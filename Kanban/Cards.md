@@ -54,6 +54,7 @@ As informações comumente utilizadas em um card visual são:
 
 ```plantuml
 @startuml
+skinparam handwritten true
 note as N1 #white
   **Tag:** <<//ID tag//>>     **Prioridade:** <<//grau//>>
 
@@ -74,6 +75,7 @@ Uma boa ferramenta de priorização é a chamada técnica de“**M**o**SC**o**W*
 
 ```plantuml
 @startuml
+skinparam handwritten true
 note as N1 #red
 M
 **Must have**
@@ -198,6 +200,7 @@ Estes cards também podem possuir cores distintas para melhor acompanhamento no 
 
 ```plantuml
 @startuml
+skinparam handwritten true
 note as N1
   **Tag:** <<//ID tag//>>     **Prioridade:** <<//grau//>>
 
@@ -238,6 +241,7 @@ Uma boa ferramenta para compreender e padronizar as tarefas é a “User Story�
 
 ```plantuml
 @startuml
+skinparam handwritten true
 note as N1
   **As a** <<//user roles//>>
   
@@ -325,6 +329,7 @@ Afim de extrair [métricas](Metricas.html) sobre os cards, é necessário preser
 
 ```plantuml
 @startuml
+skinparam handwritten true
 [*] --> Requisição #aqua
 Requisição --> Backlog #aqua
 Backlog --> Análise #aqua

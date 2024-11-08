@@ -155,6 +155,8 @@ end note
 
 ![](MatrizGUT.png)
 
+$$\textbf{Escore (GUT}) = \color{Red} Gravidade \color{Black} * \color{Orange} Urgência \color{Black} * \color{Lightgreen} Tendência \color{Black} * \color{Black} Ajuste$$
+
 ## <a name="_toc0013"></a>Tipos de Cards[↩︎](#_toc000)
 
 ![](FormasCards.png)
@@ -349,8 +351,7 @@ Seguindo a lógica das evidências apresentadas, se é sabido que limitar o WIP 
 
 ## <a name="_toc0033"></a>Entregando frequentemente[^1][↩︎](#_toc000)
 
-Para entendermos a importância dessa etapa, David apresenta uma excelente analogia em seu livro: “Quando eu ensino isso nas aulas, eu gosto de perguntar às mulheres da classe o
-que elas pensam sobre duas situações depois de ter um primeiro encontro com um cara:
+Para entendermos a importância dessa etapa, David apresenta uma excelente analogia em seu livro: “Quando eu ensino isso nas aulas, eu gosto de perguntar às mulheres da classe o que elas pensam sobre duas situações depois de ter um primeiro encontro com um cara:
 
 - Situação 1: Eles tiveram um bom encontro, mas depois disso ele não dá sinais de vida a ela durante duas semanas. Mas, então, ele aparece em sua porta com um ramo de flores e um pedido de desculpas;
 - Situação 2: Eles tiveram um bom encontro e na mesma noite a caminho de casa ele envia uma mensagem de texto a ela dizendo: “Eu me diverti muito esta noite. Eu realmente quero me encontrar com você novamente. Posso ligar para você amanhã? E, esse mesmo cara, segue ligando e enviando mensagens dia após dia.

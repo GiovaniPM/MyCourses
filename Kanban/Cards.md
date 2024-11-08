@@ -178,7 +178,7 @@ Em resumo, essa é uma ferramenta poderosa para auxiliar os gestores a priorizar
 
 ![](MatrizGUT.png)
 
-$$\textbf{Escore (GUT}) = \color{Red} Gravidade \color{Black} * \color{Orange} Urgência \color{Black} * \color{Lightgreen} Tendência \color{Black} * \color{Black} Ajuste$$
+$$\Large \textbf{Escore (GUT}) = \color{Red} Gravidade \color{Black} * \color{Orange} Urgência \color{Black} * \color{Lightgreen} Tendência \color{Black} * \color{Black} Ajuste$$
 
 ## <a name="_toc0013"></a>Tipos de Cards[↩︎](#_toc000)
 

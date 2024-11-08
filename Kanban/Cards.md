@@ -164,12 +164,15 @@ Para complementar, os benefícios incluem:
 
 Em resumo, essa é uma ferramenta poderosa para auxiliar os gestores a priorizar suas ações, comunicar os objetivos e assegurar o alinhamento deles, levando a resultados mais eficientes e efetivos.
 
+O método:
+
 - Listar forças;
 - Dar uma nota, de 1 a 5 para a gravidade de cada força;
 - Dar uma nota, de 1 a 5 para a urgência de cada força;
 - Dar uma nota, de 1 a 5 para a tendência de cada força;
 - Multiplicar os resultados (gravidade x urgência x tendência) de cada força;
 - Fazer a média dos resultados das forças;
+- Reavaliar e em caso de necessidade de aplicar um ajuste;
 - Repetir os passos acima com as fraquezas, oportunidades e ameaças
 
 ![](GUTEscalas.png)

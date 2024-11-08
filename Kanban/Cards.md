@@ -21,6 +21,19 @@ _<sup>por Giovani Perotto Mesquita - 05/11/2024</sup>_
 
 É o componente central na metodológia Kanban, é utilizado para registrar a tarefa, ajudando na visualização e o progresso dentro do quadro. Dependendo do tipo card Kanban poderemos ter variações nas informações contidas. Idealmente o Card deve conter as informações essenciais, com a finalidade de representar o trabalho.
 
+O nome Kanban é de origem japonesa e sua tradução seria como “sinal” ou “cartão”. Portanto, vamos chamar de sinalizador ou melhor “registro visual”. O nome Kanban surgiu dos sistemas de cartão usados nas indústrias de produção, que tinham como finalidade o gerenciamento do fluxo de trabalho através da organização de desenvolvimento.
+
+O Kanban, com seu mecanismo de sinalização, tem como objetivo apresentar uma atividade de trabalho em processo, ou seja, o número de atividades ou cartões em circulação é equivalente à capacidade do sistema.
+
+Uma outra característica importante do modelo Kanban é o conceito de “puxar tarefa” quando há capacidade de processá-la. Esse recurso vai de encontro ao tradicional modelo de “empurrar tarefa” conforme sua demanda, mantendo assim o bom desempenho da equipe. Portanto, ao invés dos membros que produzem o produto receberem atividades conforme suas demandas, os requisitos são adicionados a lista de backlog e “puxados” pelos membros que liberam suas atividades correntes e se tornam disponíveis para iniciar uma nova tarefa.
+
+Uma boa metáfora que descreve essa regra é imaginarmos uma rodovia que suporta até 100 veículos para manter o fluxo de trafego com um bom desempenho, porém em todos os feriados essa rodovia recebe em torno de 200 veículos. Essa demanda não suportada pela rodovia gera um congestionamento afetando consideravelmente o desempenho do trafego. Logo, não adianta empurrar um numero de atividades não suportada pela equipe, isso irá causar um “congestionamento” e afetar o desempenho de produção.
+
+A implementação do modelo Kanban se resume em três etapas que são:
+- Visualizar os processos;
+- Limitar o trabalho em processo do inglês WIP (work in progress);
+- Gerenciamento do lead-time, ou seja, tempo que a atividade leva para passar por todas as fases até a sua entrega.
+
 As informações comumente utilizadas em um card visual são:
 
 - __Título__: Nome da tarefa.

@@ -14,6 +14,7 @@ _<sup>por Giovani Perotto Mesquita - 05/11/2024</sup>_
     1. [User Story](#_toc0014)
         1.  [5W2H](#_toc00141)
 1. [Base de dados](#_toc002)
+1. [Qual é a receita para ter sucesso com Kanban?](#_toc003)
 
 # <a name="_toc001"></a>Kanban Cards[↩︎](#_toc000)
 
@@ -285,3 +286,14 @@ note as N2 #lightgray
 end note
 @enduml
 ```
+
+# <a name="_toc003"></a>Qual é a receita para ter sucesso com Kanban?[↩︎](#_toc000)
+
+Para que qualquer pessoa que queira ser um agente de mudança na sua organização tenha sucesso rápido (ou, uma melhoria rápida) e com baixa resistência da equipe, com foco na melhoria de processos em alguns pontos com o uso ou até mesmo sem o uso do método Kanban, é preciso seguir algumas etapas:
+
+1. Focar na qualidade;
+2. Limitar a quantidade de trabalho em progresso;
+3. Entregar frequentemente;
+4. Balancear demanda com a capacidade máxima;
+5. Priorizar tarefas;
+6. Atacar fontes de variedade.

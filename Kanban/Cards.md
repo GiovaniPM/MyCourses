@@ -183,7 +183,7 @@ O método:
 
 ![](MatrizGUT.png)
 
-$$\Large \textbf{Escore (GUT}) = \color{Red} Gravidade \color{Black} * \color{Orange} Urgência \color{Black} * \color{Lightgreen} Tendência \color{Black} * \color{Black} Ajuste$$
+$$\Large \textbf{Escore (GUT}) = \color{Red} Gravidade \color{Black} * \color{Orange} Urgência \color{Black} * \color{Lightgreen} Tendência \color{Black} + \color{Black} Ajuste$$
 
 ## <a name="_toc0013"></a>Tipos de Cards[↩︎](#_toc000)
 
@@ -315,8 +315,8 @@ node {
 }
 
 rootNode {
-    BackgroundColor white
-    LineColor white
+    BackgroundColor gold
+    LineColor gold
     LineStyle 8.0;3.0
     LineThickness 1.0
     RoundCorner 0
@@ -325,7 +325,7 @@ rootNode {
 }
 
 leafNode {
-    BackgroundColor gold
+    BackgroundColor yellow
     LineColor white
     HorizontalAlignment left
     Padding 12
@@ -340,7 +340,7 @@ arrow {
     LineThickness 3.0
 }
 </style>
-* **5W2H**
+* Nova\nGestão\nde\nProjetos
 ** <&question-mark> What
 *** Implementação de um novo sistema de gestão de projetos.
 ** <&target> Why

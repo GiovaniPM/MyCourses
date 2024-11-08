@@ -298,25 +298,63 @@ Ela é uma metodologia simples, porém poderosa, que auxilia na definição clar
 
 ```plantuml
 @startmindmap
-* 5W2H
-** What
+<style>
+node {
+    BackgroundColor gold
+    HorizontalAlignment center
+    LineColor gold
+    LineThickness 3.0
+    Margin 3
+    MaximumWidth 600
+    Padding 12
+    RoundCorner 40
+    fontsize 20
+}
+
+rootNode {
+    BackgroundColor white
+    LineColor white
+    LineStyle 8.0;3.0
+    LineThickness 1.0
+    RoundCorner 0
+    Shadowing 0.0
+    fontsize 30
+}
+
+leafNode {
+    BackgroundColor gold
+    LineColor white
+    HorizontalAlignment left
+    Padding 12
+    RoundCorner 0
+}
+
+arrow {
+    ;LineStyle 4
+    ;LineThickness 0.5
+    LineColor gold
+    LineThickness 3.0
+}
+</style>
+* **5W2H**
+** <&question-mark> What
 *** Implementação de um novo sistema de gestão de projetos.
-** Why
+** <&target> Why
 *** Para melhorar a eficiência na gestão de projetos, facilitar a \ncolaboração entre as equipes, e garantir a entrega dos projetos\nno prazo e dentro do orçamento.
-** Where
+** <&home> Where
 *** A implementação ocorrerá em todas as divisões da empresa, com \nfoco inicial na sede e posterior expansão para os escritórios regionais.
-** When
+** <&clock> When
 *** Início previsto para o próximo trimestre, com uma duração \ntotal de 6 meses para a implementação completa e treinamento da equipe.
-** Who
+** <&person> Who
 *** A equipe de TI liderará a implementação técnica, enquanto os \nlíderes de projeto de cada departamento serão responsáveis por coordenar \no treinamento e a transição para suas respectivas equipes.
-** How
-*** Fase 1: Seleção e aquisição do sistema.
-*** Fase 2: Configuração e personalização do sistema conforme as necessidades da empresa.
-*** Fase 3: Treinamento das equipes e líderes de projeto.
-*** Fase 4: Implementação piloto em um projeto selecionado.
-*** Fase 5: Avaliação e ajustes necessários.
-*** Fase 6: Implementação completa em todos os projetos e departamentos.
-** How Much
+** <&wrench> How
+*** __Fase 1__: Seleção e aquisição do sistema.
+*** __Fase 2__: Configuração e personalização do sistema conforme as necessidades da empresa.
+*** __Fase 3__: Treinamento das equipes e líderes de projeto.
+*** __Fase 4__: Implementação piloto em um projeto selecionado.
+*** __Fase 5__: Avaliação e ajustes necessários.
+*** __Fase 6__: Implementação completa em todos os projetos e departamentos.
+** <&dollar> How Much
 *** Orçamento estimado de R$50.000 que inclui a aquisição do sistema, \ntreinamento da equipe, e recursos para possíveis ajustes e \npersonalizações durante a fase de implementação.
 @endmindmap
 ```

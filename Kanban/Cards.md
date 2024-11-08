@@ -136,6 +136,16 @@ end note
 @enduml
 ```
 
+O especialista em desenvolvimento de software Dai Clegg criou o método MoSCoW enquanto trabalhava na Oracle. Ele projetou a estrutura para ajudar sua equipe a priorizar as tarefas durante o trabalho de desenvolvimento em lançamentos de produtos.
+
+Antes de executar uma análise MoSCoW, algumas coisas precisam acontecer. Primeiro, as principais partes interessadas e a equipe de produtos precisam se alinhar nos objetivos e nos fatores de priorização. Então, todos os participantes devem concordar sobre quais iniciativas priorizar.
+
+Neste ponto, sua equipe também deve discutir como eles resolverão quaisquer desacordos na priorização. Se você puder estabelecer como resolver disputas antes que elas subam, você pode ajudar a evitar que esses desacordos afetem o progresso.
+
+Finalmente, você também vai querer chegar a um consenso sobre a porcentagem de recursos que você gostaria de alocar para cada categoria.
+
+Com o trabalho de base completo, você pode começar a determinar qual categoria é mais apropriada para cada iniciativa.
+
 ### <a name="_toc00112"></a>GUT[↩︎](#_toc000)
 
 **GUT**, sigla para **G**ravidade, **U**rgência e **T**endência, é uma ferramenta utilizada na priorização das estratégias, tomadas de decisão e solução de problemas de organizações/projetos.
@@ -247,6 +257,10 @@ end note
 ```
 
 ## <a name="_toc00141"></a>5W2H[↩︎](#_toc000)
+
+A metodologia 5W2H tem suas raízes no Japão, criada durante a década de 1950 por Taiichi Ohno e Eiji Toyoda. Eles analisaram o modelo de produção em massa (fordismo) e perceberam suas falhas, buscando evitar desperdícios, aumentar a qualidade dos processos, reduzir custos e corrigir essas falhas.
+
+A abordagem 5W2H foi incorporada ao Toyota Production System (TPS), também conhecido como Lean Manufacturing, para garantir clareza e eficiência na comunicação e execução de tarefas em ambientes de produção altamente eficientes.
 
 A ferramenta 5W2H é um método de gestão utilizado para a elaboração de planos de ação de forma estruturada e detalhada. Seu nome é derivado das iniciais de sete diretrizes em inglês que ajudam a definir claramente todos os aspectos de um plano de ação ou projeto.
 

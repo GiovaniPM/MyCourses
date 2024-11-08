@@ -13,6 +13,7 @@ _<sup>por Giovani Perotto Mesquita - 05/11/2024</sup>_
     1. [Tipos de Cards](#_toc0013)
     1. [User Story](#_toc0014)
         1.  [5W2H](#_toc00141)
+             1. [Exemplo](#_toc001411)
 1. [Base de dados](#_toc002)
 1. [Qual é a receita para ter sucesso com Kanban?](#_toc003)
     1. [Focando na qualidade](#_toc0031)
@@ -137,7 +138,19 @@ end note
 
 ### <a name="_toc00112"></a>GUT[↩︎](#_toc000)
 
-**GUT**, sigla para **G**ravidade, **U**rgência e **T**endência, é uma ferramenta utilizada na priorização das estratégias, tomadas de decisão e solução de problemas de organizações/projetos. 
+**GUT**, sigla para **G**ravidade, **U**rgência e **T**endência, é uma ferramenta utilizada na priorização das estratégias, tomadas de decisão e solução de problemas de organizações/projetos.
+
+A matriz GUT foi criada por Charles H. Kepner e Benjamin B. Tregoe em 1981 e, por isso, também é conhecida como matriz Kepner Tregoe. Hoje, é um dos métodos mais utilizados para a melhoria da qualidade.
+
+Geralmente, a matriz de priorização é integrada a outros métodos de gestão de qualidade, como o [ciclo PDCA](https://www.siteware.com.br/metodologias/ciclo-pdca/), na fase de planejamento estratégico, análise SWOT ou, ainda, com outras ferramentas, como o [5W2H](https://www.siteware.com.br/metodologias/o-que-e-5w2h/), para dar mais prioridade na hora de construir um plano de ação para cada problema.
+
+Para complementar, os benefícios incluem:
+
+- **priorização**: permite priorizar problemas ou oportunidades de acordo com sua importância e urgência. Isso ajuda a garantir que a equipe esteja focando seus esforços nos aspectos mais críticos da situação;
+- **comunicação assertiva**: fornece uma visualização clara dos problemas e oportunidades, tornando mais fácil a compreensão e discussão dos próximos passos;
+- **alinhamento de objetivos**: ao identificar claramente as metas de alta prioridade, a matriz GUT ajuda a garantir que todos na equipe estejam trabalhando em direção aos mesmos objetivos, o que pode levar a uma colaboração mais eficiente.
+
+Em resumo, essa é uma ferramenta poderosa para auxiliar os gestores a priorizar suas ações, comunicar os objetivos e assegurar o alinhamento deles, levando a resultados mais eficientes e efetivos.
 
 - Listar forças;
 - Dar uma nota, de 1 a 5 para a gravidade de cada força;
@@ -149,9 +162,9 @@ end note
 
 ![](GUTEscalas.png)
 
-- **Gravidade** (G): trata do impacto que o problema gerará nos envolvidos, podendo ser os colaboradores, os processos, tarefas, resultados da empresa etc. O quão grave é/será para a empresa quando ocorrer?
-- **Urgência** (U): é o prazo, ou o tempo disponível para a resolução do problema. Aqui não tem segredo: quanto menor o tempo, mais urgente será o problema que deverá ser resolvido. O recomendado é fazer a pergunta: Isso pode esperar?
-- **Tendência** (T): trata da probabilidade (ou do potencial) que o problema tem de crescer com o passar do tempo. Aqui é feita uma previsão da evolução do problema. A pergunta a ser feita é: Se eu não resolver isso hoje, o problema vai piorar aos poucos ou bruscamente?
+- <u>**Gravidade** (**G**)</u>: trata do impacto que o problema gerará nos envolvidos, podendo ser os colaboradores, os processos, tarefas, resultados da empresa etc. O quão grave é/será para a empresa quando ocorrer?
+- <u>**Urgência** (**U**)</u>: é o prazo, ou o tempo disponível para a resolução do problema. Aqui não tem segredo: quanto menor o tempo, mais urgente será o problema que deverá ser resolvido. O recomendado é fazer a pergunta: Isso pode esperar?
+- <u>**Tendência** (**T**)</u>: trata da probabilidade (ou do potencial) que o problema tem de crescer com o passar do tempo. Aqui é feita uma previsão da evolução do problema. A pergunta a ser feita é: Se eu não resolver isso hoje, o problema vai piorar aos poucos ou bruscamente?
 
 ![](MatrizGUT.png)
 
@@ -163,9 +176,9 @@ $$\textbf{Escore (GUT}) = \color{Red} Gravidade \color{Black} * \color{Orange} U
 
 Os tipos de Cards serão aqueles os quais fazem sentido para a sua equipe, contudo mais usualmente é encontrado tipos simplificados afim de facilitar a leitura no board. Um modelo muito encontrado e o de 3 tipos:
 
-- __Tarefa__ (Feature): Adiciona valor ao projeto. Reperesenta uma ação específica que necessita ser realizada para atender um requisito, comumente escrita em forma de user story.
-- __Bug__ (Fix): Não adiciona valor, evitável (termina com o desperdício). Representa qualquer ação que deva ser realizada, cuja a origem seja uma correção de uma tarefa anterior.
-- __Preparação__ (Capabilite): Não Adiciona Valor, mas é inevitável. Representa uma ação que deve ocorrer para que uma tarefa ou uma necessiade da equipe seja efetuada. Entre exemplos podemos citar: POC, treinamento, hardware, aquisições, servidores, etc ...
+- <u>__Tarefa__ (Feature)</u>: Adiciona valor ao projeto. Reperesenta uma ação específica que necessita ser realizada para atender um requisito, comumente escrita em forma de user story.
+- <u>__Bug__ (Fix)</u>: Não adiciona valor, evitável (termina com o desperdício). Representa qualquer ação que deva ser realizada, cuja a origem seja uma correção de uma tarefa anterior.
+- <u>__Preparação__ (Capabilite)</u>: Não Adiciona Valor, mas é inevitável. Representa uma ação que deve ocorrer para que uma tarefa ou uma necessiade da equipe seja efetuada. Entre exemplos podemos citar: POC, treinamento, hardware, aquisições, servidores, etc ...
 
 ![](TiposCards.png)
 
@@ -211,7 +224,7 @@ end note
 
 Trata-se de uma lista de input onde tudo o que precisa ser feito estará lá. Neste momento, é importante que tarefas muito grandes ou muito complexas sejam dividas em tarefas menores que possam ser realizadas a tempo e com qualidade.
 
-Uma boa ferramenta para compreender e padronizar as tarefas é a “User Story” (ou história do usuário). Nada mais é do que uma maneira simples de sintetizar em uma frase o que precisa ser feito. Podemos utilizar a écnica 5W2H para realizar o levantamento para a criação de uma user story.
+Uma boa ferramenta para compreender e padronizar as tarefas é a “User Story” (ou história do usuário). Nada mais é do que uma maneira simples de sintetizar em uma frase o que precisa ser feito. Podemos utilizar a técnica 5W2H para realizar o levantamento para a criação de uma user story.
 
 ```plantuml
 @startuml
@@ -235,7 +248,9 @@ end note
 
 ## <a name="_toc00141"></a>5W2H[↩︎](#_toc000)
 
-5W2H é uma ferramenta de gestão em formato de checklist com perguntas importantes sobre o projeto que será desenvolvido ou o problema que será resolvido. A sigla se refere a cinco palavras que começam com W e duas com H em inglês, sendo elas: What, Why, Where, When, Who, How, How much.
+A ferramenta 5W2H é um método de gestão utilizado para a elaboração de planos de ação de forma estruturada e detalhada. Seu nome é derivado das iniciais de sete diretrizes em inglês que ajudam a definir claramente todos os aspectos de um plano de ação ou projeto.
+
+5W2H é uma ferramenta em formato de checklist com perguntas importantes sobre o projeto que será desenvolvido ou o problema que será resolvido. A sigla se refere a cinco palavras que começam com W e duas com H em inglês, sendo elas: What, Why, Where, When, Who, How, How much.
 
 Em português as siglas são interpretadas da seguinte maneira:
 
@@ -248,6 +263,45 @@ Em português as siglas são interpretadas da seguinte maneira:
 - **How much?** – Quanto? Quais serão os custos para realizar a tarefa.
 
 ![](5W2H.png)
+
+Ela é uma metodologia simples, porém poderosa, que auxilia na definição clara de objetivos, responsabilidades e prazos, o que é fundamental para o sucesso de qualquer empreendimento.
+
+- **Clareza de objetivos**: a ferramenta 5W2H ajuda a definir “O que” precisa ser feito, ou seja, os objetivos específicos que a empresa deseja alcançar. Isso é crucial para que todos na equipe entendam exatamente o que é esperado.
+- **Responsabilidade**: os “Quems” na metodologia 5W2H indicam quem é responsável por cada tarefa ou atividade. Isso evita a confusão sobre quem deve fazer o quê, o que é especialmente importante em ambientes empresariais onde a colaboração é fundamental.
+- **Prazos claros**: a ferramenta 5W2H também ajuda a manter todos no caminho certo e evita atrasos, ao estipular datas e processos.
+- **Recursos necessários**: a ferramenta também pode incluir os “Wheres” (onde), “Whys” (por que), “How” (como), e “How much” (quanto), dependendo da versão utilizada. Isso ajuda a identificar os recursos necessários, o motivo pelo qual a tarefa está sendo realizada, o local onde deve acontecer e o custo associado.
+- **Tomada de decisão informada**: com todas essas informações bem definidas, a alta administração e a equipe podem tomar decisões baseadas em dados. Eles sabem o que está acontecendo, quem é responsável e quando esperar resultados.
+- **Acompanhamento e avaliação**: a metodologia 5W2H também facilita o acompanhamento do progresso das atividades. Os gestores podem verificar se as tarefas estão sendo concluídas de acordo com o planejado.
+- **Comunicação eficaz**: a clareza proporcionada pela ferramenta 5W2H melhora a comunicação interna e externa da empresa. As informações são facilmente compartilhadas e entendidas por todos os envolvidos.
+- **Redução de erros e desperdícios**: ao definir as tarefas de forma detalhada, a metodologia ajuda a minimizar erros e desperdícios de recursos, economizando tempo e dinheiro.
+- **Maior eficiência e produtividade**: quando as atividades estão bem planejadas e todos sabem o que fazer, a empresa tende a ser mais eficiente e produtiva.
+
+### <a name="_toc001411"></a>Exemplo[↩︎](#_toc000)
+
+```plantuml
+@startmindmap
+* 5W2H
+** What
+*** Implementação de um novo sistema de gestão de projetos.
+** Why
+*** Para melhorar a eficiência na gestão de projetos, facilitar a \ncolaboração entre as equipes, e garantir a entrega dos projetos\nno prazo e dentro do orçamento.
+** Where
+*** A implementação ocorrerá em todas as divisões da empresa, com \nfoco inicial na sede e posterior expansão para os escritórios regionais.
+** When
+*** Início previsto para o próximo trimestre, com uma duração \ntotal de 6 meses para a implementação completa e treinamento da equipe.
+** Who
+*** A equipe de TI liderará a implementação técnica, enquanto os \nlíderes de projeto de cada departamento serão responsáveis por coordenar \no treinamento e a transição para suas respectivas equipes.
+** How
+*** Fase 1: Seleção e aquisição do sistema.
+*** Fase 2: Configuração e personalização do sistema conforme as necessidades da empresa.
+*** Fase 3: Treinamento das equipes e líderes de projeto.
+*** Fase 4: Implementação piloto em um projeto selecionado.
+*** Fase 5: Avaliação e ajustes necessários.
+*** Fase 6: Implementação completa em todos os projetos e departamentos.
+** How Much
+*** Orçamento estimado de R$50.000 que inclui a aquisição do sistema, \ntreinamento da equipe, e recursos para possíveis ajustes e \npersonalizações durante a fase de implementação.
+@endmindmap
+```
 
 # <a name="_toc002"></a>Base de dados[↩︎](#_toc000)
 

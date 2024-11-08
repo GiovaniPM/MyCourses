@@ -317,7 +317,7 @@ node {
 rootNode {
     BackgroundColor orange
     LineColor orange
-    RoundCorner 0
+    RoundCorner 60
     Shadowing 0.0
     fontsize 30
 }
@@ -338,6 +338,7 @@ arrow {
     LineThickness 3.0
 }
 </style>
+
 * **Nova**\n**Gestão**\n**de**\n**Projetos**
 ** <&question-mark> What
 *** Implementação de um novo sistema de gestão de projetos.
@@ -357,7 +358,7 @@ arrow {
 *** __Fase 5__: Avaliação e ajustes necessários.
 *** __Fase 6__: Implementação completa em todos os projetos e departamentos.
 ** <&dollar> How Much
-*** Orçamento estimado de R$50.000 que inclui a aquisição do sistema, treinamento da equipe, e recursos para possíveis ajustes e personalizações durante a fase de implementação.
+*** Orçamento estimado de **R$ 50.000,00** que inclui a aquisição do sistema, treinamento da equipe, e recursos para possíveis ajustes e personalizações durante a fase de implementação.
 @endmindmap
 ```
 

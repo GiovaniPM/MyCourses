@@ -315,10 +315,8 @@ node {
 }
 
 rootNode {
-    BackgroundColor gold
-    LineColor gold
-    LineStyle 8.0;3.0
-    LineThickness 1.0
+    BackgroundColor orange
+    LineColor orange
     RoundCorner 0
     Shadowing 0.0
     fontsize 30
@@ -340,7 +338,7 @@ arrow {
     LineThickness 3.0
 }
 </style>
-* Nova\nGestão\nde\nProjetos
+* **Nova**\n**Gestão**\n**de**\n**Projetos**
 ** <&question-mark> What
 *** Implementação de um novo sistema de gestão de projetos.
 ** <&target> Why

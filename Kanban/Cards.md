@@ -327,6 +327,7 @@ leafNode {
     HorizontalAlignment left
     Padding 12
     RoundCorner 0
+    fontsize 16
 }
 
 arrow {
@@ -340,13 +341,13 @@ arrow {
 ** <&question-mark> What
 *** Implementação de um novo sistema de gestão de projetos.
 ** <&target> Why
-*** Para melhorar a eficiência na gestão de projetos, facilitar a \ncolaboração entre as equipes, e garantir a entrega dos projetos\nno prazo e dentro do orçamento.
+*** Para melhorar a eficiência na gestão de projetos, facilitar a colaboração entre as equipes, e garantir a entrega dos projetos no prazo e dentro do orçamento.
 ** <&home> Where
-*** A implementação ocorrerá em todas as divisões da empresa, com \nfoco inicial na sede e posterior expansão para os escritórios regionais.
+*** A implementação ocorrerá em todas as divisões da empresa, com foco inicial na sede e posterior expansão para os escritórios regionais.
 ** <&clock> When
-*** Início previsto para o próximo trimestre, com uma duração \ntotal de 6 meses para a implementação completa e treinamento da equipe.
+*** Início previsto para o próximo trimestre, com uma duração total de 6 meses para a implementação completa e treinamento da equipe.
 ** <&person> Who
-*** A equipe de TI liderará a implementação técnica, enquanto os \nlíderes de projeto de cada departamento serão responsáveis por coordenar \no treinamento e a transição para suas respectivas equipes.
+*** A equipe de TI liderará a implementação técnica, enquanto os líderes de projeto de cada departamento serão responsáveis por coordenar no treinamento e a transição para suas respectivas equipes.
 ** <&wrench> How
 *** __Fase 1__: Seleção e aquisição do sistema.
 *** __Fase 2__: Configuração e personalização do sistema conforme as necessidades da empresa.
@@ -355,7 +356,7 @@ arrow {
 *** __Fase 5__: Avaliação e ajustes necessários.
 *** __Fase 6__: Implementação completa em todos os projetos e departamentos.
 ** <&dollar> How Much
-*** Orçamento estimado de R$50.000 que inclui a aquisição do sistema, \ntreinamento da equipe, e recursos para possíveis ajustes e \npersonalizações durante a fase de implementação.
+*** Orçamento estimado de R$50.000 que inclui a aquisição do sistema, treinamento da equipe, e recursos para possíveis ajustes e personalizações durante a fase de implementação.
 @endmindmap
 ```
 

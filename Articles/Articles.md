@@ -276,7 +276,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   ```
   [↩︎](#_toc001)
   ```
-- Uma citação é efetuado pela seguinte sintaxe:
+- Uma citação de referência é efetuado pela seguinte sintaxe:
   >```
   >>Texto
   >>[^<<ID da referencia>>]

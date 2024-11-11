@@ -335,15 +335,17 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
 > [!CAUTION]
 > Negative potential consequences of an action.
 - Metadados:
-> ---
->title: #Required; "Tutorial: <verb> * <noun>"
->description: #Required; Include the word "tutorial"
->author: #Required; your GitHub user alias, with correct capitalization
->ms.author: #Required; microsoft alias of author
->ms.service: #Required; use the name-string related to slug in ms.product/ms.service
->ms.topic: tutorial #Required; leave this attribute/value as-is
->ms.date: #Required; mm/dd/yyyy format
->---
+  > ```
+  >---
+  >title: #Required; "Tutorial: <verb> * <noun>"
+  >description: #Required; Include the word "tutorial"
+  >author: #Required; your GitHub user alias, with correct capitalization
+  >ms.author: #Required; microsoft alias of author
+  >ms.service: #Required; use the name-string related to slug in ms.product/ms.service
+  >ms.topic: tutorial #Required; leave this attribute/value as-is
+  >ms.date: #Required; mm/dd/yyyy format
+  >---
+  >```
 
 exemplo:
 >---

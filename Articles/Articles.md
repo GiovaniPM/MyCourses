@@ -290,50 +290,50 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >[^1]
   ```
 - Citação de nota:
->```
->> [!NOTE]  
->> Highlights information that users should take into account, even when skimming.
->```
-
-exemplo:
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+  >```
+  >> [!NOTE]  
+  >> Highlights information that users should take into account, even when skimming.
+  >```
+  
+  exemplo:
+  > [!NOTE]  
+  > Highlights information that users should take into account, even when skimming.
 - Citação de dica:
->```
->> [!TIP]
->> Optional information to help a user be more successful.
->```
-
-exemplo:
-> [!TIP]
-> Optional information to help a user be more successful.
+  >```
+  >> [!TIP]
+  >> Optional information to help a user be more successful.
+  >```
+  
+  exemplo:
+  > [!TIP]
+  > Optional information to help a user be more successful.
 - Citação importante:
->```
->> [!IMPORTANT]  
->> Crucial information necessary for users to succeed.
->```
-
-exemplo:
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+  >```
+  >> [!IMPORTANT]  
+  >> Crucial information necessary for users to succeed.
+  >```
+  
+  exemplo:
+  > [!IMPORTANT]  
+  > Crucial information necessary for users to succeed.
 - Citação de atenção:
->```
->> [!WARNING]  
->> Critical content demanding immediate user attention due to potential risks.
->```
-
-exemplo:
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+  >```
+  >> [!WARNING]  
+  >> Critical content demanding immediate user attention due to potential risks.
+  >```
+  
+  exemplo:
+  > [!WARNING]  
+  > Critical content demanding immediate user attention due to potential risks.
 - Citação de cuidado:
->```
->> [!CAUTION]
->> Negative potential consequences of an action.
->```
-
-exemplo:
-> [!CAUTION]
-> Negative potential consequences of an action.
+  >```
+  >> [!CAUTION]
+  >> Negative potential consequences of an action.
+  >```
+  
+  exemplo:
+  > [!CAUTION]
+  > Negative potential consequences of an action.
 
 ### <a name="_toc00314"></a>Referências[↩︎](#_toc0031)
 

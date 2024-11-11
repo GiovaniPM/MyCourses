@@ -1,3 +1,13 @@
+---
+title: #Required; "Tutorial: <verb> * <noun>"
+description: #Required; Include the word "tutorial"
+author: #Required; your GitHub user alias, with correct capitalization
+ms.author: #Required; microsoft alias of author
+ms.service: #Required; use the name-string related to slug in ms.product/ms.service
+ms.topic: tutorial #Required; leave this attribute/value as-is
+ms.date: #Required; mm/dd/yyyy format
+---
+
 # $$\color{Blue} \Huge \mathbf{Escrevendo}\ \mathbf{Artigos}$$
 
 _<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
@@ -279,6 +289,51 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >"Só sei que nada sei"
   >[^1]
   ```
+- Citação de nota:
+>```
+>> [!NOTE]  
+>> Highlights information that users should take into account, even when skimming.
+>```
+
+exemplo:
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+- Citação de dica:
+>```
+>> [!TIP]
+>> Optional information to help a user be more successful.
+>```
+
+exemplo:
+> [!TIP]
+> Optional information to help a user be more successful.
+- Citação importante:
+>```
+>> [!IMPORTANT]  
+>> Crucial information necessary for users to succeed.
+>```
+
+exemplo:
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+- Citação de atenção:
+>```
+>> [!WARNING]  
+>> Critical content demanding immediate user attention due to potential risks.
+>```
+
+exemplo:
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+- Citação de cuidado:
+>```
+>> [!CAUTION]
+>> Negative potential consequences of an action.
+>```
+
+exemplo:
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 ### <a name="_toc00314"></a>Referências[↩︎](#_toc0031)
 

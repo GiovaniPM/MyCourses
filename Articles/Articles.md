@@ -296,8 +296,8 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >```
   
   exemplo:
-  > [!NOTE]  
-  > Highlights information that users should take into account, even when skimming.
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 - Citação de dica:
   >```
   >> [!TIP]
@@ -305,8 +305,8 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >```
   
   exemplo:
-  > [!TIP]
-  > Optional information to help a user be more successful.
+> [!TIP]
+> Optional information to help a user be more successful.
 - Citação importante:
   >```
   >> [!IMPORTANT]  
@@ -314,8 +314,8 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >```
   
   exemplo:
-  > [!IMPORTANT]  
-  > Crucial information necessary for users to succeed.
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 - Citação de atenção:
   >```
   >> [!WARNING]  
@@ -323,8 +323,8 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >```
   
   exemplo:
-  > [!WARNING]  
-  > Critical content demanding immediate user attention due to potential risks.
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
 - Citação de cuidado:
   >```
   >> [!CAUTION]
@@ -332,8 +332,8 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >```
   
   exemplo:
-  > [!CAUTION]
-  > Negative potential consequences of an action.
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 ### <a name="_toc00314"></a>Referências[↩︎](#_toc0031)
 

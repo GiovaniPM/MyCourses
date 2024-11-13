@@ -1,14 +1,4 @@
-﻿---
-title: #Required; "Tutorial: <verb> * <noun>"
-description: #Required; Include the word "tutorial"
-author: #Required; your GitHub user alias, with correct capitalization
-ms.author: #Required; microsoft alias of author
-ms.service: #Required; use the name-string related to slug in ms.product/ms.service
-ms.topic: tutorial #Required; leave this attribute/value as-is
-ms.date: #Required; mm/dd/yyyy format
----
-
-# $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
+﻿# $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
 
 **Revision History**
 

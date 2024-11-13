@@ -1,6 +1,6 @@
 ---
 title: "[ProjName]"
-description: "[Project description.]"
+description: "[Project description]"
 keywords: ["key 1", "key 2", "key 3"]
 author: "[AuthorName]"
 ---

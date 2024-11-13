@@ -14,8 +14,12 @@ last_modified_at: 2024-11-13
 
 # $$\color{Blue}\Huge\mathbf{Escrevendo}\ \mathbf{Artigos}$$
 
-_<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
-_<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_
+|**Name**|**Date**|**Remarks**|**Version**|
+| :- | :- | :- | :- |
+|Giovani Perotto Mesquita|29/10/2024|Criação|1|
+|Giovani Perotto Mesquita|13/11/2024|Ajuste nos links|1|
+|||||
+|||||
 
 # <a name="_toc000"></a>Índice
 

@@ -1,4 +1,4 @@
-﻿---
+﻿--- 
 title: Escrevendo artigos
 description: Tutorial para escrever artigos
 author: Giovani Perotto Mesquita
@@ -10,7 +10,7 @@ ms.date: 11/11/2024
 
 # $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
 
-# **Revision History**
+**Revision History**
 
 |**Name**|**Date**|**Remarks**|**Version**|
 | :- | :- | :- | :- |
@@ -23,7 +23,7 @@ ms.date: 11/11/2024
 
 <a name="_toc233432637"></a><a name="_toc233433656"></a><a name="_toc233433872"></a>
 
-# **Table of Contents**
+**Table of Contents**
 
 1. [Background information](#_toc404016826)
 1. [Vocabulary/abbreviations/conventions](#_toc404016827)

@@ -1,11 +1,8 @@
 ---
 title: Escrevendo artigos
 description: Tutorial para escrever artigos
+keywords: ["palavra-chave1", "palavra-chave2", "palavra-chave3"]
 author: Giovani Perotto Mesquita
-ms.author: GIOVANIM
-ms.service: https://github.com/GiovaniPM/MyCourses/blob/master/Articles/Articles.md
-ms.topic: tutorial
-ms.date: 11/11/2024
 ---
 
 # $$\color{Blue} \Huge \mathbf{Escrevendo}\ \mathbf{Artigos}$$

@@ -5,7 +5,7 @@ keywords: ["aplicação web", "projeto X", "exemplo"]
 author: "Seu Nome"
 ---
 
-# $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
+# $$\color{Blue} \Huge \mathbf{Requirements}\newline\mathbf{Specification}\newline \color{Blue} \Large \mathbf{[ProjName]}$$
 
 **Revision History**
 

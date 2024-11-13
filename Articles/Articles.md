@@ -123,16 +123,31 @@ O __Título__ é uma frase que identifica o artigo, deve ser único entre os seu
 
 Sintaxe:
 >```
-># $$ \color{Blue} \Huge <<título>> $$
->_<sup>por <<redator do artigo>> - DD/MM/YYY</sup>_
->_<sup>rev. <<redator da revisão>> - DD/MM/YYY</sup>_
+># $$\color{Blue}\Huge<<título1>>\ \newline\color{Blue}\Huge<<título1>>$$
 >```
 Exemplo:
 ```
-# $$ \color{Blue} \Huge As\ leis\newline fundamentais \newline da\ estupidez\newline humana $$
-_<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
-_<sup>rev. John Doe - 30/10/2024</sup>_
+# $$ \color{Blue}\Huge As\ leis\ \newline fundamentais\ \newline da estupidez\ \newline humana $$
 ```
+
+Num artigo é importante o registro de revisões.
+
+Sintaxe:
+>```
+>|**Name**|**Date**|**Remarks**|**Version**|
+>| :- | :- | :- | :- |
+>|[AuthorName]|[Date]|Initial Requirements Specification|1|
+>|[AuthorName]|[Date]|[Remarks]|[#]|
+>|||||
+>|||||
+>```
+Exemplo:
+>|**Name**|**Date**|**Remarks**|**Version**|
+>| :- | :- | :- | :- |
+>|[AuthorName]|[Date]|Initial Requirements Specification|1|
+>|[AuthorName]|[Date]|[Remarks]|[#]|
+>|||||
+>|||||
 
 ### <a name="_toc00312"></a>Índice[↩︎](#_toc0031)
 

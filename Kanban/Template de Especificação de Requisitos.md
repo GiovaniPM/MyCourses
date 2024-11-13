@@ -5,9 +5,7 @@ keywords: ["palavra-chave1", "palavra-chave2", "palavra-chave3"]
 author: Giovani Perotto Mesquita
 ---
 
-<!---
 # $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
--->
 
 **Revision History**
 

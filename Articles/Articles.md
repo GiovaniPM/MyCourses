@@ -38,6 +38,8 @@ last_modified_at: 2024-11-13
           - [Referência de citação](#_toc0031342)
           - [Bloco de citação](#_toc0031343)
           - [Metadados](#_toc0031344)
+          - [Plantuml](#_toc0031345)
+          - [LaTEX](#_toc0031346)
      - [Referências Bibliograficas](#_toc00314)
 1. [Referências Bibliograficas](#_toc004)
 
@@ -414,6 +416,57 @@ exemplo:
 >excerpt: "Este guia cobre todos os aspectos do Markdown, desde o básico até tópicos avançados."
 >last_modified_at: 2024-11-13
 >---
+
+#### <a name="_toc0031345"></a>PlantUML[↩︎](#_toc003134)
+
+Podemos inserir uma renderização PlantUML dentro do markdown.
+
+Sintaxe:
+
+>```
+>```plantuml
+>@startuml
+>skinparam handwritten true
+>note as N1 #white
+>  **Tag:** <<//ID tag//>>     **Prioridade:** <<//grau//>>
+>
+>  **Descrição:** <<//user story//>>
+>
+>  **Prazo:** <<//DD/MM/YYYY//>>
+>
+>  **Responsável:** <<persona>>
+>end note
+>@enduml
+>```
+>```
+
+exemplo:
+```plantuml
+@startuml
+skinparam handwritten true
+note as N1 #white
+  **Tag:** <<//ID tag//>>     **Prioridade:** <<//grau//>>
+
+  **Descrição:** <<//user story//>>
+
+  **Prazo:** <<//DD/MM/YYYY//>>
+
+  **Responsável:** <<persona>>
+end note
+@enduml
+```
+
+#### <a name="_toc0031346"></a>LaTEX[↩︎](#_toc003134)
+
+Podemos inserir uma renderização LaTEX dentro do markdown.
+
+Sintaxe:
+>```
+> $$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Trabalho Real}}{\text{Tempo Total de Processamento}}* 100}$$
+>```
+
+exemplo:
+$$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Trabalho Real}}{\text{Tempo Total de Processamento}}* 100}$$
 
 ### <a name="_toc00314"></a>Referências Bibliograficas[↩︎](#_toc0031)
 

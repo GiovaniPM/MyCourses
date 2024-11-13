@@ -18,8 +18,6 @@ author: Giovani Perotto Mesquita
 
 *© [Project Owner]* – *CONFIDENTIAL*
 
-<a name="_toc233432637"></a><a name="_toc233433656"></a><a name="_toc233433872"></a>
-
 **Table of Contents**
 
 1. [Background information](#_toc404016826)

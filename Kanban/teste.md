@@ -5,6 +5,8 @@ keywords: ["aplicação web", "projeto X", "exemplo"]
 author: "Seu Nome"
 ---
 
+# $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
+
 **Table of Contents**
 
 1. [Background information](#_toc404016826)

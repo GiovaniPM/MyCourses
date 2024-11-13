@@ -7,6 +7,8 @@ author: "Seu Nome"
 
 # $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
 
+**Revision History**
+
 |**Name**|**Date**|**Remarks**|**Version**|
 | :- | :- | :- | :- |
 |[AuthorName]|[Date]|Initial Requirements Specification|1|

@@ -1,11 +1,5 @@
 ﻿--- 
 title: Requirements Specification Project [ProjName] 
-description: Document with Requirements Specification of Project [ProjName] 
-author: Giovani Perotto Mesquita 
-ms.author: GIOVANIM 
-ms.service: https://github.com/ 
-ms.topic: Requirements [ProjName] 
-ms.date: 11/11/2024 
 --- 
 
 # $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$

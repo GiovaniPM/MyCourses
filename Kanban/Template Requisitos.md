@@ -11,8 +11,8 @@ author: "Seu Nome"
 
 |**Name**|**Date**|**Remarks**|**Version**|
 | :- | :- | :- | :- |
-|<<AuthorName>>|<<[Date>>|Initial Requirements Specification|1|
-|<<AuthorName>>|<<Date>>|<<Remarks>>[#]|
+|[AuthorName]|[Date]|Initial Requirements Specification|1|
+|[AuthorName]|[Date]|[Remarks]|[#]|
 |||||
 |||||
 

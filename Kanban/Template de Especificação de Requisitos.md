@@ -1,4 +1,15 @@
 ﻿---
+title: Escrevendo artigos
+description: Tutorial para escrever artigos
+author: Giovani Perotto Mesquita
+ms.author: GIOVANIM
+ms.service: https://github.com/GiovaniPM/MyCourses/blob/master/Articles/Articles.md
+ms.topic: tutorial
+ms.date: 11/11/2024
+---
+
+
+---
 title: Requirements Specification Project [ProjName]
 description: Document with Requirements Specification of Project [ProjName]
 author: Giovani Perotto Mesquita

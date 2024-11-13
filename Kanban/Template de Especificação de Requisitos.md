@@ -49,7 +49,6 @@ Include any **other relevant information** that you judge useful (to put the pro
 
 Provide an organized list of **specific vocabulary** (with precise definitions), **abbreviations** and any **other conventions** used in this document, in order to **avoid any ambiguity and misinterpretation**.
 
-
 # <a name="_toc233433705"></a><a name="_toc233433921"></a><a name="_toc404016828"></a>**Product overview**
 
 Provide a **summary description** of the product, with a **simple graphical representation** if possible, as an introduction to the more detailed information and illustrations that will be provided in subsequent sections of the specification.
@@ -58,7 +57,6 @@ Address the “**problem**” that the product is supposed to solve, the **propo
 
 Note that this section should clearly **delineate the scope of the project**, and state what is “**outside scope**” (within reasonable limits!).
 
-
 # <a name="_toc233433706"></a><a name="_toc233433922"></a><a name="_toc404016829"></a>**Target market and users**
 
 Describe the target market and users of the product. The **typology of users** may indeed have an influence on the product’s functionality and design.
@@ -66,7 +64,6 @@ Describe the target market and users of the product. The **typology of users** m
 Some of the functions and features of a product may be available to all users, while others may be reserved for certain **categories of user**, for example administrators, webmasters or editors.
 
 The design of a product may need to take into account the **age range of users** (children, adults, senior citizens…) or the **market segment** to which they belong (general public, business, education, government…).
-
 
 # <a name="_toc404016830"></a>**Detailed product description**
 
@@ -145,7 +142,6 @@ Describe the hardware and software environments in which the product is expected
 ## <a name="_toc233433714"></a><a name="_toc233433930"></a><a name="_toc404016839"></a>***Performance***
 
 If relevant, specify the minimum speed, throughput or, more generally, the required performance of the product to be developed, at least as far as major functions are concerned. Whenever possible, indicate which **detailed benchmarks** will be used to measure the degree of achievement of the performance objectives.
-
 
 # <a name="_toc404016840"></a>**Testing and acceptance**
 

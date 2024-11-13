@@ -466,7 +466,7 @@ Sintaxe:
 >```
 
 exemplo:
-$$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Trabalho Real}}{\text{Tempo Total de Processamento}}* 100}$$
+>$$\large \boxed{\text{Flow Efficiency \%} = \frac{\text{Tempo de Trabalho Real}}{\text{Tempo Total de Processamento}}* 100}$$
 
 ### <a name="_toc00314"></a>Referências Bibliograficas[↩︎](#_toc0031)
 

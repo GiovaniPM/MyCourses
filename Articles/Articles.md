@@ -30,8 +30,12 @@ _<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_
        - [Tópico](#_toc003132)
        - [Detalhe](#_toc003133)
        - [Texto](#_toc003134)
-     - [Referências](#_toc00314)
-1. [Referências](#_toc004)
+          - [Links](#_toc0031341)
+          - [Referência de citação](#_toc0031342)
+          - [Bloco de citação](#_toc0031343)
+          - [Metadados](#_toc0031344)
+     - [Referências Bibliograficas](#_toc00314)
+1. [Referências Bibliograficas](#_toc004)
 
 # <a name="_toc001"></a>Introdução[↩︎](#_toc000)
 
@@ -216,6 +220,8 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
 
 É o assunto a ser transcorrido, podento ser texto, imagem, vídeo, áudio, gráfico, arte, etc. Para isso usamos a linguagem [markdown](https://en.wikipedia.org/wiki/Markdown)[^1], afim de realizar a sua formatação. Alguns padrões foram estabelecidos:
 
+#### <a name="_toc0031341"></a>Links[↩︎](#_toc003134)
+
 - Link externo é efetuado pela seguinte sintaxe:
   >```
   >[<<nome do link>>](<<link>>)
@@ -225,6 +231,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   ```
   [Markdown](https://en.wikipedia.org/wiki/Markdown)
   ```
+
 - Link de midias é efetuado pela seguinte sintaxe:
   >```
   >![<<nome da mídia>>](<<nome da mídia com extensão>>)
@@ -235,6 +242,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   ```
   ![PointofView](PointofView.png)
   ```
+
 - Link de item interno do documento é efetuado pela seguinte sintaxe:
   >```
   >[<<nome do item](#_tocnnn)
@@ -247,6 +255,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   ```
   
   Obs.: ```(#_tocnnn)``` como criado na declaração do item, como descrito em [Índice](#_toc0031).
+
 - Link de um vídeo youtube com a capa do próprio youtube é efetuado pela seguinte sintaxe:
   >```
   >[![<<Nome do vídeo>>](http://img.youtube.com/vi/<<vídeo ID>>/0.jpg)](https://www.youtube.com/watch?v=<<vídeo ID>>)
@@ -258,6 +267,9 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   [![As cinco leis da estupidez humana de Cipolla](http://img.youtube.com/vi/oYpiYoqXCbA/0.jpg)](https://www.youtube.com/watch?v=oYpiYoqXCbA)
   ```
   Obs.: Podemos usar esta técnica para outros tipos de mídias também.
+
+#### <a name="_toc0031342"></a>Referência de citação[↩︎](#_toc003134)
+
 - Link de referência é efetuado pela seguinte sintaxe:
   >```
   > <<referência>>[^<<ID da referencia>>]
@@ -271,6 +283,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   ...
   [^2]: **Koblin, Jonas**, "Cipolla’s 5 Laws of Human Stupidity", [Sprouts Schools](https://sproutsschools.com), 25/10/2024, [https://sproutsschools.com/cipollas-5-laws-of-human-stupidity/](https://sproutsschools.com/cipollas-5-laws-of-human-stupidity/).
   ```
+
 - Link de retono é efetuado pela seguinte sintaxe:
   >```
   >[↩︎](#_tocnnn)
@@ -280,6 +293,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   ```
   [↩︎](#_toc001)
   ```
+
 - Uma citação de referência é efetuado pela seguinte sintaxe:
   >```
   >>Texto
@@ -293,6 +307,9 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   >"Só sei que nada sei"
   >[^1]
   ```
+
+#### <a name="_toc0031343"></a>Bloco de citação[↩︎](#_toc003134)
+
 - Citação de nota:
   >```
   >> [!NOTE]  
@@ -302,6 +319,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   exemplo:
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
+
 - Citação de dica:
   >```
   >> [!TIP]
@@ -311,6 +329,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   exemplo:
 > [!TIP]
 > Optional information to help a user be more successful.
+
 - Citação importante:
   >```
   >> [!IMPORTANT]  
@@ -320,6 +339,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   exemplo:
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
+
 - Citação de atenção:
   >```
   >> [!WARNING]  
@@ -329,6 +349,7 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   exemplo:
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
+
 - Citação de cuidado:
   >```
   >> [!CAUTION]
@@ -338,6 +359,9 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
   exemplo:
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+#### <a name="_toc0031344"></a>Metadados[↩︎](#_toc003134)
+
 - Metadados (Utilizados para indexação do documento):
   > ```
   >---
@@ -372,7 +396,7 @@ exemplo:
 >last_modified_at: 2024-11-13
 >---
 
-### <a name="_toc00314"></a>Referências[↩︎](#_toc0031)
+### <a name="_toc00314"></a>Referências Bibliograficas[↩︎](#_toc0031)
 
 As referências bibliográficas é efetuada pela seguinte sintaxe:
 - Artigo:
@@ -432,7 +456,7 @@ As referências bibliográficas é efetuada pela seguinte sintaxe:
   **Autor**, "Título do Vídeo", Nome do Canal, Data de Publicação, [URL](URL).
   ```
 
-# <a name="_toc004"></a>Referências[↩︎](#_toc000)
+# <a name="_toc004"></a>Referências Bibliograficas[↩︎](#_toc000)
 
 [^1]: "Markdown", Wikipedia, 30/10/2024, [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown).
 [^2]: "PlantUML at a Glance", PlantUML, 30/10/2024, [https://plantuml.com/](https://plantuml.com/).

@@ -8,9 +8,7 @@ ms.topic: Requirements [ProjName]
 ms.date: 11/11/2024 
 --- 
 
-#
-$$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}$$
-$$\color{Blue} \Huge \mathbf{Project\ [ProjName]}$$
+# $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Huge \mathbf{Project\ [ProjName]}$$
 
 **Revision History**
 

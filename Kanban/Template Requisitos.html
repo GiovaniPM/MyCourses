@@ -1,0 +1,189 @@
+<!DOCTYPE html><html><head>
+      <title>Meu Projeto no GitHub</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<h1 id="colorblue-huge-mathbfrequirements-mathbfspecificationnewline-colorblue-large-mathbfproject-projname"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mstyle mathcolor="Blue"><mstyle mathsize="2.488em"><mrow><mi mathvariant="bold">R</mi><mi mathvariant="bold">e</mi><mi mathvariant="bold">q</mi><mi mathvariant="bold">u</mi><mi mathvariant="bold">i</mi><mi mathvariant="bold">r</mi><mi mathvariant="bold">e</mi><mi mathvariant="bold">m</mi><mi mathvariant="bold">e</mi><mi mathvariant="bold">n</mi><mi mathvariant="bold">t</mi><mi mathvariant="bold">s</mi></mrow><mtext>&nbsp;</mtext><mrow><mi mathvariant="bold">S</mi><mi mathvariant="bold">p</mi><mi mathvariant="bold">e</mi><mi mathvariant="bold">c</mi><mi mathvariant="bold">i</mi><mi mathvariant="bold">f</mi><mi mathvariant="bold">i</mi><mi mathvariant="bold">c</mi><mi mathvariant="bold">a</mi><mi mathvariant="bold">t</mi><mi mathvariant="bold">i</mi><mi mathvariant="bold">o</mi><mi mathvariant="bold">n</mi></mrow><mspace linebreak="newline"></mspace><mstyle mathcolor="Blue"><mstyle mathsize="1.44em"><mrow><mi mathvariant="bold">P</mi><mi mathvariant="bold">r</mi><mi mathvariant="bold">o</mi><mi mathvariant="bold">j</mi><mi mathvariant="bold">e</mi><mi mathvariant="bold">c</mi><mi mathvariant="bold">t</mi><mtext>&nbsp;</mtext><mo stretchy="false">[</mo><mi mathvariant="bold">P</mi><mi mathvariant="bold">r</mi><mi mathvariant="bold">o</mi><mi mathvariant="bold">j</mi><mi mathvariant="bold">N</mi><mi mathvariant="bold">a</mi><mi mathvariant="bold">m</mi><mi mathvariant="bold">e</mi><mo stretchy="false">]</mo></mrow></mstyle></mstyle></mstyle></mstyle></mrow><annotation encoding="application/x-tex">\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.2115em;vertical-align:-0.4838em;"></span><span class="mord sizing reset-size6 size11" style="color:Blue;"><span class="mord mathbf" style="color:Blue;">Requirements</span></span><span class="mspace sizing reset-size6 size11" style="color:Blue;"><span style="color:Blue;">&nbsp;</span></span><span class="mord sizing reset-size6 size11" style="color:Blue;"><span class="mord mathbf" style="color:Blue;">Specification</span></span></span><span class="mspace newline sizing reset-size6 size11" style="color:Blue;"></span><span class="base"><span class="strut" style="height:1.44em;vertical-align:-0.36em;"></span><span class="mord sizing reset-size6 size8" style="color:Blue;"><span class="mord mathbf" style="color:Blue;">Project</span><span class="mspace" style="color:Blue;"><span style="color:Blue;">&nbsp;</span></span><span class="mopen" style="color:Blue;">[</span><span class="mord mathbf" style="color:Blue;">ProjName</span><span class="mclose" style="color:Blue;">]</span></span></span></span></span></span> </h1>
+<p><strong>Revision History</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><strong>Name</strong></th>
+<th style="text-align:left"><strong>Date</strong></th>
+<th style="text-align:left"><strong>Remarks</strong></th>
+<th style="text-align:left"><strong>Version</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">[AuthorName]</td>
+<td style="text-align:left">[Date]</td>
+<td style="text-align:left">Initial Requirements Specification</td>
+<td style="text-align:left">1</td>
+</tr>
+<tr>
+<td style="text-align:left">[AuthorName]</td>
+<td style="text-align:left">[Date]</td>
+<td style="text-align:left">[Remarks]</td>
+<td style="text-align:left">[#]</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p><em>© [Project Owner]</em> – <em>CONFIDENTIAL</em></p>
+<p><strong>Table of Contents</strong></p>
+<ol>
+<li><a href="#_toc404016826">Background information</a></li>
+<li><a href="#_toc404016827">Vocabulary/abbreviations/conventions</a></li>
+<li><a href="#_toc404016828">Product overview</a></li>
+<li><a href="#_toc404016829">Target market and users</a></li>
+<li><a href="#_toc404016830">Detailed product description</a>
+<ol>
+<li><a href="#_toc404016831">Content / Data</a></li>
+<li><a href="#_toc404016832">Software</a></li>
+<li><a href="#_toc404016833">Back-office (editing and administration) tools</a></li>
+<li><a href="#_toc404016834">Payment system and user authentication</a></li>
+<li><a href="#_toc404016835">Adverts</a></li>
+<li><a href="#_toc404016836">Graphic design guidelines</a></li>
+<li><a href="#_toc404016837">Accessibility</a></li>
+<li><a href="#_toc404016838">Target platforms and configurations</a></li>
+<li><a href="#_toc404016839">Performance</a></li>
+</ol>
+</li>
+<li><a href="#_toc404016840">Testing and acceptance</a></li>
+<li><a href="#_toc404016841">Delivery medium and installation</a></li>
+<li><a href="#_toc404016842">Processes and logistics</a></li>
+<li><a href="#_toc404016843">Documentation and source code</a></li>
+<li><a href="#_toc404016844">Training</a></li>
+<li><a href="#_toc404016845">Schedule and milestones</a></li>
+<li><a href="#_toc404016846">Risks, dependencies and other issues</a></li>
+<li><a href="#_toc404016847">Any other relevant information</a></li>
+</ol>
+<h1 id="a-name_toc404016826abackground-information"><a name="_toc404016826" href=""></a><strong>Background information</strong> </h1>
+<p>Describe the <strong>context and objectives of the project</strong>, present the <strong>project owner</strong> (company or organization) and <strong>other stakeholders</strong>, as well as an overview of the <strong>business mode</strong>l involved (insofar as it has an influence on the requirements of the product to be created).</p>
+<p>Include any <strong>other relevant information</strong> that you judge useful (to put the project/product in perspective).</p>
+<h1 id="a-name_toc233433704aa-name_toc233433920aa-name_toc404016827avocabularyabbreviationsconventions"><a name="_toc233433704" href=""></a><a name="_toc233433920" href=""></a><a name="_toc404016827" href=""></a><strong>Vocabulary/abbreviations/conventions</strong> </h1>
+<p>Provide an organized list of <strong>specific vocabulary</strong> (with precise definitions), <strong>abbreviations</strong> and any <strong>other conventions</strong> used in this document, in order to <strong>avoid any ambiguity and misinterpretation</strong>.</p>
+<h1 id="a-name_toc233433705aa-name_toc233433921aa-name_toc404016828aproduct-overview"><a name="_toc233433705" href=""></a><a name="_toc233433921" href=""></a><a name="_toc404016828" href=""></a><strong>Product overview</strong> </h1>
+<p>Provide a <strong>summary description</strong> of the product, with a <strong>simple graphical representation</strong> if possible, as an introduction to the more detailed information and illustrations that will be provided in subsequent sections of the specification.</p>
+<p>Address the “<strong>problem</strong>” that the product is supposed to solve, the <strong>proposed solution</strong> and the <strong>benefits</strong> it is expected to provide to its users.</p>
+<p>Note that this section should clearly <strong>delineate the scope of the project</strong>, and state what is “<strong>outside scope</strong>” (within reasonable limits!).</p>
+<h1 id="a-name_toc233433706aa-name_toc233433922aa-name_toc404016829atarget-market-and-users"><a name="_toc233433706" href=""></a><a name="_toc233433922" href=""></a><a name="_toc404016829" href=""></a><strong>Target market and users</strong> </h1>
+<p>Describe the target market and users of the product. The <strong>typology of users</strong> may indeed have an influence on the product’s functionality and design.</p>
+<p>Some of the functions and features of a product may be available to all users, while others may be reserved for certain <strong>categories of user</strong>, for example administrators, webmasters or editors.</p>
+<p>The design of a product may need to take into account the <strong>age range of users</strong> (children, adults, senior citizens…) or the <strong>market segment</strong> to which they belong (general public, business, education, government…).</p>
+<h1 id="a-name_toc404016830adetailed-product-description"><a name="_toc404016830" href=""></a><strong>Detailed product description</strong> </h1>
+<h2 id="a-name_toc233433707aa-name_toc233433923aa-name_toc404016831acontent--data"><a name="_toc233433707" href=""></a><a name="_toc233433923" href=""></a><a name="_toc404016831" href=""></a><em><strong>Content / Data</strong></em> </h2>
+<p>Describe what the content of the product will consist of (as opposed to the “container”, ie the software, which will be covered in the next section).</p>
+<p>Content needs to be described at the level of detail required for product development.</p>
+<p>You may need to dedicate a section of this document or an appendix to the specification of the “<strong>data delivery format</strong>”, ie the format in which data will be delivered by the content provider to the software developer, if such format has already been determined.</p>
+<p>If content is expected to be <strong>multilingual</strong>, the languages to be supported and possible character set constraints (fonts, encoding) must be clearly specified. More generally, clear and comprehensive <strong>guidelines for localization</strong> should be provided.</p>
+<p>It may be useful to group content elements by <strong>type</strong>, each type possibly treated as a specific editorial subproject by the project owner / content provider.</p>
+<p>For each data type, the (approximate) <strong>number</strong> of items, their estimated <strong>size</strong> (“footprint”) and <strong>format</strong> should be documented, if such information is available.</p>
+<p>Content that is visible to the end user is generally only part of the full set of data in a product. <strong>Tags</strong> and, more generally, <strong>metadata</strong> are usually required, for example for searching (indexes), for content display (style sheets, etc.), as well as for links between elements of content.</p>
+<p>Do not forget to specify content that may be called “<strong>secondary</strong>” or “<strong>ancillary</strong>” but which is <strong>nevertheless important</strong> and has to be taken into consideration for both editorial and design/development/integration purposes.</p>
+<p>Such content may be for example: help text, credits, licensing and other legal information, sales terms &amp; conditions, contact information, etc.</p>
+<p>In the case of a&nbsp;“static” application (eg a non-dynamic website), information regarding content may be complemented with an indication of the number and size of “pages” (or “screens”).</p>
+<p>If applicable, the specification should also address <strong>content updates and additions</strong>: which areas/items of content are liable to be modified or expanded, to what extent and how frequently.</p>
+<p>For a website, more or less simple “<strong>holding pages</strong>” may be required, their content being intended to “whet the appetite” of visitors before the final product actually goes online. Such pages also need to be mentioned in this requirements specification.</p>
+<h2 id="a-name_toc233433708aa-name_toc233433924aa-name_toc404016832asoftware"><a name="_toc233433708" href=""></a><a name="_toc233433924" href=""></a><a name="_toc404016832" href=""></a><em><strong>Software</strong></em> </h2>
+<p>Provide a <strong>high-level but exhaustive description</strong> of the software, which should encompass <strong>all of its functions and features</strong>, as well as the <strong>main characteristics of its user interface</strong>.</p>
+<p>The objective here is to enable readers of the specification to clearly understand what the software should achieve. In this respect, a <strong>graphical representation</strong> of the software’s functionality (and possibly a mock-up user interface), as well as evocative <strong>metaphors</strong>, may help to make a long narrative text easier to understand.</p>
+<p>You may also want to feature in this section a comprehensive set of so-called “<strong>user stories</strong>” or “<strong>use cases</strong>”, which are short descriptions of product functions and features from the viewpoint of a user (or category of user),</p>
+<p>If possible, rank functions and features by <strong>priority</strong>, for example in two groups: “<strong>must-have</strong>” and “<strong>nice-to-have</strong>” (ie “desirable but not absolutely necessary”).</p>
+<p>Also document any foreseeable <strong>evolution</strong> of the software’s functions and features (ie future versions of the product), as well as any requirement for <strong>subsets</strong> of the product or <strong>by-products</strong>.</p>
+<h2 id="a-name_toc233433709aa-name_toc233433925aa-name_toc404016833aback-office-editing-and-administration-tools"><a name="_toc233433709" href=""></a><a name="_toc233433925" href=""></a><a name="_toc404016833" href=""></a><em><strong>Back-office (editing and administration) tools</strong></em> </h2>
+<p>Describe the <strong>editing tools</strong> that need to be provided to enable <strong>editors</strong> to <strong>manage content</strong> (data and metadata input, modification, publication, etc.) in a simple and efficient manner, <strong>without</strong> any need for help from <strong>developers</strong>.</p>
+<p>Also describe any <strong>administration tools</strong> (for administrators or webmasters) that need to be provided as part of the “back office” (or "back end").</p>
+<h2 id="a-name_toc233433710aa-name_toc233433926aa-name_toc404016834apayment-system-and-user-authentication"><a name="_toc233433710" href=""></a><a name="_toc233433926" href=""></a><a name="_toc404016834" href=""></a><em><strong>Payment system and user authentication</strong></em> </h2>
+<p>Use of the product to be developed may involve a payment system. The project owner may have already chosen such a system (PayPal, SWREG, etc.) or may leave the issue open for discussion. However that may be, the <strong>payment process</strong> and required <strong>user authentication mechanism</strong> should be documented here, along with the specification of information items that need to be captured and stored in some form of database (eg customer information such as name, address, e-mail, login, password, etc.).</p>
+<p>If relevant, specify the need for a “<strong>single sign-on</strong>” (SSO) mechanism to avoid users having to identify themselves several times, for example in a situation where a web application requiring authentication is accessed via a website which also requires authentication.</p>
+<h2 id="a-name_toc233433711aa-name_toc233433927aa-name_toc404016835aadverts"><a name="_toc233433711" href=""></a><a name="_toc233433927" href=""></a><a name="_toc404016835" href=""></a><em><strong>Adverts</strong></em> </h2>
+<p>If adverts are to appear in the product (eg on a website), their desired <strong>dimensions and position</strong> in the interface should be specified here, as well as any requirement or suggestion regarding the <strong>advert feed mechanism</strong> (eg the use of an “ad server”).</p>
+<h2 id="a-name_toc233433712aa-name_toc233433928aa-name_toc404016836agraphic-design-guidelines"><a name="_toc233433712" href=""></a><a name="_toc233433928" href=""></a><a name="_toc404016836" href=""></a><em><strong>Graphic design guidelines</strong></em> </h2>
+<p>If user-interface graphic design guidelines or recommendations are available, they should be documented here.</p>
+<p>The <strong>distribution of roles</strong> in this area should also be clearly indicated. Responsibility for graphic design may be given to the software developer or may be held by the project owner, who may choose to subcontract the work to a specialized agency.</p>
+<p>Any requirement or preference for <strong>fonts and font sizes</strong> should also be documented.</p>
+<p>Mention should be made of <strong>logos or other identity-related items</strong> (usually supplied by the project owner) which are to be displayed in the user interface in specific locations.</p>
+<h2 id="a-name_toc404016837aaccessibility"><a name="_toc404016837" href=""></a><em><strong>Accessibility</strong></em> </h2>
+<p>Specify any requirements for compliance of the product with accessibility standards (eg W3C/WAI).</p>
+<h2 id="a-name_toc233433713aa-name_toc233433929aa-name_toc404016838atarget-platforms-and-configurations"><a name="_toc233433713" href=""></a><a name="_toc233433929" href=""></a><a name="_toc404016838" href=""></a><em><strong>Target platforms and configurations</strong></em> </h2>
+<p>Describe the hardware and software environments in which the product is expected to function, as well as minimum configurations required for the product to work properly.</p>
+<h2 id="a-name_toc233433714aa-name_toc233433930aa-name_toc404016839aperformance"><a name="_toc233433714" href=""></a><a name="_toc233433930" href=""></a><a name="_toc404016839" href=""></a><em><strong>Performance</strong></em> </h2>
+<p>If relevant, specify the minimum speed, throughput or, more generally, the required performance of the product to be developed, at least as far as major functions are concerned. Whenever possible, indicate which <strong>detailed benchmarks</strong> will be used to measure the degree of achievement of the performance objectives.</p>
+<h1 id="a-name_toc404016840atesting-and-acceptance"><a name="_toc404016840" href=""></a><strong>Testing and acceptance</strong> </h1>
+<p>Specify* how the product will be tested at the various stages of development. The <strong>final acceptance</strong> tests generally use the requirements specification and the functional and user-interface design specifications (in their final approved state) as the “ultimate” benchmark.</p>
+<p>Intermediate and final testing processes need to be specified in terms of the nature of the tests and the <strong>product acceptance criteria</strong>.</p>
+<p>For business applications and, particularly, for complex information system (IS) projects, specific testing phases may be required by the project owner, in which case they need to be documented in detail, for example:</p>
+<ul>
+<li>
+<p>an “<strong>operational acceptance testing (OAT)</strong>” phase (length to be specified), sometimes called “<strong>operational readiness testing</strong>”, intended to determine whether the product meets requirements in a real-life situation, but on a relatively small scale, before it is fully deployed and put into service for all of its target users;</p>
+</li>
+<li>
+<p>an “<strong>operational health check (OHC)</strong>” phase (length to be specified), intended to verify that the product meets requirements after being fully deployed and put into unrestricted and regular service.</p>
+</li>
+</ul>
+<p>If <strong>automatic testing tools</strong> are required, they should be specified in this section as tools to be developed or purchased and possibly customized.</p>
+<h1 id="a-name_toc233433715aa-name_toc233433931aa-name_toc404016841adelivery-medium-and-installation"><a name="_toc233433715" href=""></a><a name="_toc233433931" href=""></a><a name="_toc404016841" href=""></a><strong>Delivery medium and installation</strong> </h1>
+<p>Specify the medium (or media) on which the product is expected to be delivered, as well as installation requirements and possible options.</p>
+<p>This section may also include any requirements concerning <strong>copy protection</strong> and <strong>digital rights management</strong> (DRM).</p>
+<h1 id="a-name_toc233433716aa-name_toc233433932aa-name_toc404016842aprocesses-and-logistics"><a name="_toc233433716" href=""></a><a name="_toc233433932" href=""></a><a name="_toc404016842" href=""></a><strong>Processes and logistics</strong> </h1>
+<p>Insofar as they are part of the project, processes and logistics need to be covered in this section of the requirements specification.</p>
+<p>Indeed, the operation of certain applications requires the execution of processes (eg a particular workflow for the completion of specific tasks) and the availability of adequate logistics (eg the storage and shipment of goods ordered from a website).</p>
+<h1 id="a-name_toc233433718aa-name_toc233433934aa-name_toc404016843adocumentation-and-source-code"><a name="_toc233433718" href=""></a><a name="_toc233433934" href=""></a><a name="_toc404016843" href=""></a><strong>Documentation and source code</strong> </h1>
+<p>Specify any requirements by the project owner concerning documentation of the software and documentation for administrators, webmasters, technical support personnel and users.</p>
+<p>Also specify any requirement concerning the <strong>transfer of ownership</strong> of the source code (and the transfer of the source code itself) to the project owner upon completion of the project.</p>
+<h1 id="a-name_toc404016844atraining"><a name="_toc404016844" href=""></a><strong>Training</strong> </h1>
+<p>Specify any requirement for training, as well as training material, to be delivered by the project implementation entity to administrators, support people, users, etc.</p>
+<h1 id="a-name_toc233433719aa-name_toc233433935aa-name_toc404016845aschedule-and-milestones"><a name="_toc233433719" href=""></a><a name="_toc233433935" href=""></a><a name="_toc404016845" href=""></a><strong>Schedule and milestones</strong> </h1>
+<p>Document here or in an appendix the preliminary project schedule and major milestones relating to the project’s <strong>deliverables</strong> that may be imposed by the project owner.</p>
+<p><a name="_toc233433720" href=""></a><a name="_toc233433936" href=""></a></p>
+<h1 id="a-name_toc404016846arisks-dependencies-and-other-issues"><a name="_toc404016846" href=""></a><strong>Risks, dependencies and other issues</strong> </h1>
+<p>Mention here any relevant risks, dependencies and other issues that may have been identified at this stage of project preparation, along with any recommendations for actions or alternatives that may reduce the extent and impact of such risks, dependencies and issues.</p>
+<h1 id="a-name_toc233433721aa-name_toc233433937aa-name_toc404016847aany-other-relevant-information"><a name="_toc233433721" href=""></a><a name="_toc233433937" href=""></a><a name="_toc404016847" href=""></a><strong>Any other relevant information</strong> </h1>
+<p>Document here, or in specific sections to be added to this requirements document, any other requirements or information judged to be relevant and useful in the context of the particular project concerned.</p>
+<p>For example, additions may concern environmental, safety and security requirements.</p>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  
+    </body></html>

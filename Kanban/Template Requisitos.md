@@ -1,5 +1,5 @@
 ---
-title: "Meu Projeto no GitHub"
+title: "[ProjName]"
 description: "Este projeto é uma aplicação web que faz X, Y e Z."
 keywords: ["aplicação web", "projeto X", "exemplo"]
 author: "Seu Nome"

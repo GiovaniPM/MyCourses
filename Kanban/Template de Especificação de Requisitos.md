@@ -1,6 +1,16 @@
-﻿# $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
+﻿---
+title: Escrevendo artigos
+description: Tutorial para escrever artigos
+author: Giovani Perotto Mesquita
+ms.author: GIOVANIM
+ms.service: https://github.com/GiovaniPM/MyCourses/blob/master/Articles/Articles.md
+ms.topic: tutorial
+ms.date: 11/11/2024
+---
 
-**Revision History**
+# $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
+
+# **Revision History**
 
 |**Name**|**Date**|**Remarks**|**Version**|
 | :- | :- | :- | :- |
@@ -13,7 +23,7 @@
 
 <a name="_toc233432637"></a><a name="_toc233433656"></a><a name="_toc233433872"></a>
 
-**Table of Contents**
+# **Table of Contents**
 
 1. [Background information](#_toc404016826)
 1. [Vocabulary/abbreviations/conventions](#_toc404016827)

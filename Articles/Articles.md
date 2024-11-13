@@ -12,7 +12,7 @@ excerpt: "Este guia cobre uma sugestão para templates com aspectos do Markdown.
 last_modified_at: 2024-11-13
 ---
 
-# $$\color{Blue} \Huge \mathbf{Escrevendo}\ \mathbf{Artigos}$$
+# $$\color{Blue}\Huge\mathbf{Escrevendo}\ \mathbf{Artigos}$$
 
 _<sup>por Giovani Perotto Mesquita - 29/10/2024</sup>_
 _<sup>rev. Giovani Perotto Mesquita -  30/10/2024</sup>_

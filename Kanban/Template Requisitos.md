@@ -1,8 +1,8 @@
 ---
 title: "[ProjName]"
-description: "Este projeto é uma aplicação web que faz X, Y e Z."
-keywords: ["aplicação web", "projeto X", "exemplo"]
-author: "Seu Nome"
+description: "[Project description.]"
+keywords: ["key 1", "key 2", "key 3"]
+author: "[AuthorName]"
 ---
 
 # $$\color{Blue}\Huge\mathbf{Requirements}\ \newline\color{Blue}\Huge\mathbf{Specification}\ \newline\color{Blue}\Large\mathbf{[ProjName]}$$

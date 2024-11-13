@@ -7,6 +7,15 @@ author: "Seu Nome"
 
 # $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$
 
+|**Name**|**Date**|**Remarks**|**Version**|
+| :- | :- | :- | :- |
+|[AuthorName]|[Date]|Initial Requirements Specification|1|
+|[AuthorName]|[Date]|[Remarks]|[#]|
+|||||
+|||||
+
+*© [Project Owner]* – *CONFIDENTIAL*
+
 **Table of Contents**
 
 1. [Background information](#_toc404016826)

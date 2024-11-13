@@ -1,8 +1,8 @@
-﻿--- 
-title: Escrevendo artigos
-description: Tutorial para escrever artigos
-keywords: ["palavra-chave1", "palavra-chave2", "palavra-chave3"]
-author: Giovani Perotto Mesquita
+﻿---
+title: "Meu Projeto no GitHub"
+description: "Este projeto é uma aplicação web que faz X, Y e Z."
+keywords: ["aplicação web", "projeto X", "exemplo"]
+author: "Seu Nome"
 ---
 
 # $$\color{Blue} \Huge \mathbf{Requirements}\ \mathbf{Specification}\newline \color{Blue} \Large \mathbf{Project\ [ProjName]}$$

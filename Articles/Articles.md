@@ -1,11 +1,15 @@
 ---
 title: Escrevendo artigos
 description: Tutorial para escrever artigos
+keywords: ["Markdown", "Guia", "Tutoriais"]
 author: Giovani Perotto Mesquita
-ms.author: GIOVANIM
-ms.service: https://github.com/GiovaniPM/MyCourses/blob/master/Articles/Articles.md
-ms.topic: tutorial
-ms.date: 11/11/2024
+categories: [programação, tutoriais]
+tags: [Markdown, GitHub, Documentação]
+date: 2024-11-13
+published: true
+permalink: https://github.com/GiovaniPM/MyCourses/blob/master/Articles/Articles.md
+excerpt: "Este guia cobre uma sugestão para templates com aspectos do Markdown."
+last_modified_at: 2024-11-13
 ---
 
 # $$\color{Blue} \Huge \mathbf{Escrevendo}\ \mathbf{Artigos}$$
@@ -337,25 +341,35 @@ __Detalhe__ é uma especialização do [Tópico](#_toc003132), afim de criar ite
 - Metadados (Utilizados para indexação do documento):
   > ```
   >---
-  >title: #Required; "Tutorial: <verb> * <noun>"
-  >description: #Required; Include the word "tutorial"
-  >author: #Required; your GitHub user alias, with correct capitalization
-  >ms.author: #Required; microsoft alias of author
-  >ms.service: #Required; use the name-string related to slug in ms.product/ms.service
-  >ms.topic: tutorial #Required; leave this attribute/value as-is
-  >ms.date: #Required; mm/dd/yyyy format
+  >title: "Guia Completo de Markdown"
+  >description: "Aprenda tudo sobre Markdown com este guia completo e detalhado."
+  >keywords: ["Markdown", "Guia", "Tutoriais"]
+  >author: "Seu Nome"
+  >layout: post
+  >categories: [programação, tutoriais]
+  >tags: [Markdown, GitHub, Documentação]
+  >date: 2024-11-13
+  >published: true
+  >permalink: /guia-completo-markdown/
+  >excerpt: "Este guia cobre todos os aspectos do Markdown, desde o básico até tópicos avançados."
+  >last_modified_at: 2024-11-13
   >---
   >```
 
 exemplo:
 >---
->title: Escrevendo Aritogs
->description: Tutorial de template para escrever artigos
->author: Giovani Perotto Mesquita
->ms.author: GIOVANIM
->ms.service: https://github.com/GiovaniPM/MyCourses/blob/master/Articles/Articles.md
->ms.topic: tutorial
->ms.date: 11/11/2024
+>title: "Guia Completo de Markdown"
+>description: "Aprenda tudo sobre Markdown com este guia completo e detalhado."
+>keywords: ["Markdown", "Guia", "Tutoriais"]
+>author: "Seu Nome"
+>layout: post
+>categories: [programação, tutoriais]
+>tags: [Markdown, GitHub, Documentação]
+>date: 2024-11-13
+>published: true
+>permalink: /guia-completo-markdown/
+>excerpt: "Este guia cobre todos os aspectos do Markdown, desde o básico até tópicos avançados."
+>last_modified_at: 2024-11-13
 >---
 
 ### <a name="_toc00314"></a>Referências[↩︎](#_toc0031)

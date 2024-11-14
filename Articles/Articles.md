@@ -12,7 +12,7 @@ excerpt: "Este guia cobre uma sugestão para templates com aspectos do Markdown.
 last_modified_at: 2024-11-13
 ---
 
-# $$\color{Blue}\Huge\mathbf{Escrevendo}\ \mathbf{Artigos}$$
+# $$\color{Blue}\Huge\mathbf{Escrevendo}\ \newline\mathbf{Artigos}$$
 
 |**Name**|**Date**|**Remarks**|**Version**|
 | :- | :- | :- | :- |

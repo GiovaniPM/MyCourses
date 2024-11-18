@@ -77,11 +77,13 @@ sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L
 ' *************************************************************************
 ' **                        Setup Section                                **
 ' *************************************************************************
+' Variables
+!$now = %now()
+!$nowbr = %date("dd/MM/YYYY HH:mm:ss", $now - 3*3600)
+
 ' Initialization
 caption Cronograma /'change'/
 title <<Project Name>> /'change'/
-!$now = %now()
-!$nowbr = %date("dd/MM/YYYY HH:mm:ss", $now - 3*3600)
 footer <<Project Manager>>\n$nowbr /'change'/
 'hide footbox
 'hide ressources footbox
@@ -89,11 +91,9 @@ project starts 2025/01/01 /'change'/
 scale 1 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
+language pt /'language'/
 
-' Language
-language pt
-
-' Project View
+' Project Scale
 printscale daily zoom 1.5
 'printscale weekly zoom 6
 

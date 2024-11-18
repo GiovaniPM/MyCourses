@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Assinatura Eletrônica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Gerador de Assinatura Eletrônica</h1>
+    <form id="signatureForm">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required>
+
+        <label for="cargo">Cargo:</label>
+        <input type="text" id="cargo" name="cargo" required>
+
+        <label for="empresa">Empresa:</label>
+        <input type="text" id="empresa" name="empresa" required>
+
+        <label for="telefoneComercial">Telefone Comercial:</label>
+        <input type="text" id="telefoneComercial" name="telefoneComercial" required>
+
+        <label for="telefone">Celular:</label>
+        <input type="text" id="telefone" name="telefone" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="website">Website:</label>
+        <input type="url" id="website" name="website">
+
+        <label for="facebook">Facebook:</label>
+        <input type="url" id="facebook" name="facebook">
+
+        <label for="twitter">Twitter:</label>
+        <input type="url" id="twitter" name="twitter">
+
+        <label for="linkedin">LinkedIn:</label>
+        <input type="url" id="linkedin" name="linkedin">
+
+        <label for="foto">Foto:</label>
+        <input type="file" id="foto" name="foto" accept="image/*">
+
+        <button type="button" onclick="gerarAssinatura()">Gerar Assinatura</button>
+    </form>
+
+    <h2>Assinatura Gerada:</h2>
+    <div id="resultado"></div>
+</div>
+
+<script>
+    function gerarAssinatura() {
+        const nome = document.getElementById('nome').value;
+        const cargo = document.getElementById('cargo').value;
+        const empresa = document.getElementById('empresa').value;
+        const telefoneComercial = document.getElementById('telefoneComercial').value;
+        const telefone = document.getElementById('telefone').value;
+        const email = document.getElementById('email').value;
+        const website = document.getElementById('website').value;
+        const facebook = document.getElementById('facebook').value;
+        const twitter = document.getElementById('twitter').value;
+        const linkedin = document.getElementById('linkedin').value;
+        const foto = document.getElementById('foto').files[0];
+
+        let fotoBase64 = '';
+
+        if (foto) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                fotoBase64 = e.target.result;
+                mostrarAssinatura();
+            };
+            reader.readAsDataURL(foto);
+        } else {
+            mostrarAssinatura();
+        }
+
+        function mostrarAssinatura() {
+            const assinaturaTemplate = `
+            <div style="font-family: Arial, sans-serif; color: #333;">
+              ${fotoBase64 ? `<img src="${fotoBase64}" alt="Foto" style="border-radius: 50%; float: left; margin-right: 10px;" width="50">` : ''}
+              <p>Atenciosamente,</p>
+              <p><strong>${nome}</strong></p>
+              <p>${cargo}<br>${empresa}</p>
+              <p style="font-size: 0.8em; color: #777;">Telefone Comercial: ${telefoneComercial}</p>
+              <p style="font-size: 0.8em; color: #777;">Celular: ${telefone}</p>
+              <p style="font-size: 0.8em; color: #777;">Email: ${email}</p>
+              <p style="font-size: 0.8em; color: #777;">Website: <a href="${website}" style="color: #00f;">${website}</a></p>
+              <div style="margin-top: 10px;">
+                ${facebook ? `<a href="${facebook}" style="margin-right: 5px;"><img src="https://via.placeholder.com/16" alt="Facebook"></a>` : ''}
+                ${twitter ? `<a href="${twitter}" style="margin-right: 5px;"><img src="https://via.placeholder.com/16" alt="Twitter"></a>` : ''}
+                ${linkedin ? `<a href="${linkedin}" style="margin-right: 5px;"><img src="https://via.placeholder.com/16" alt="LinkedIn"></a>` : ''}
+              </div>
+            </div>
+            `;
+
+            document.getElementById('resultado').innerHTML = assinaturaTemplate;
+        }
+    }
+</script>
+
+</body>
+</html>

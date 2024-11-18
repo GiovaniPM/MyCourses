@@ -108,6 +108,29 @@ sunday are closed
 '2021/01/01 is closed
 '2021/01/25 to 2021/01/26 is closed
 '2024/10/14 to 2024/10/18 is closed
+'2025
+'Ano novo
+2025/01/01 is closed
+'Navegantes
+2025/02/02 is closed
+'Sexta-feira santa
+2025/04/18 is closed
+'Tiradentes
+2025/04/20 is closed
+'Trabalho
+2025/05/01 is closed
+'Independencia
+2025/09/07 is closed
+'Aparecida
+2025/10/12 is closed
+'Finados
+2025/11/02 is closed
+'Proclamação
+2025/11/15 is closed
+'Consciencia
+2025/11/20 is closed
+'Natal
+2025/12/25 is closed
 
 ' Colored Days
 '2021/01/01 is colored in lightblue

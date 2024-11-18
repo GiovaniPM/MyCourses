@@ -85,7 +85,7 @@ title <<Project Name>> /'change'/
 footer <<Project Manager>>\n$nowbr /'change'/
 'hide footbox
 'hide ressources footbox
-project starts 2025/10/01 /'change'/
+project starts 2025/01/01 /'change'/
 scale 1 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
@@ -108,28 +108,17 @@ sunday are closed
 'YYYY/MM/DD is closed
 'YYYY/MM/DD to YYYY/MM/DD is closed
 '************2025************
-'2025/01/01 is closed 'Ano novo
-'2025/02/02 is closed 'Navegantes
-'2025/04/18 is closed 'Sexta-feira santa
-'2025/04/20 is closed 'Tiradentes
-'2025/05/01 is closed 'Trabalho
-'2025/09/07 is closed 'Independencia
-'2025/10/12 is closed 'Aparecida
-'2025/11/02 is closed 'Finados
-'2025/11/15 is closed 'Proclamação
-'2025/11/20 is closed 'Consciencia
-'2025/12/25 is closed 'Natal
-2025/01/01 is closed
-2025/02/02 is closed
-2025/04/18 is closed
-2025/04/20 is closed
-2025/05/01 is closed
-2025/09/07 is closed
-2025/10/12 is closed
-2025/11/02 is closed
-2025/11/15 is closed
-2025/11/20 is closed
-2025/12/25 is closed
+2025/01/01 is closed /'Ano novo'/
+2025/02/02 is closed /'Navegantes'/
+2025/04/18 is closed /'Sexta-feira santa'/
+2025/04/20 is closed /'Tiradentes'/
+2025/05/01 is closed /'Trabalho'/
+2025/09/07 is closed /'Independencia'/
+2025/10/12 is closed /'Aparecida'/
+2025/11/02 is closed /'Finados'/
+2025/11/15 is closed /'Proclamação'/
+2025/11/20 is closed /'Consciencia'/
+2025/12/25 is closed /'Natal'/
 
 ' Colored Days
 'YYYY/MM/DD is colored in lightblue

@@ -85,7 +85,7 @@ title <<Project Name>> /'change'/
 footer <<Project Manager>>\n$nowbr /'change'/
 'hide footbox
 'hide ressources footbox
-project starts 2024/10/01 /'change'/
+project starts 2025/10/01 /'change'/
 scale 1 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
@@ -107,7 +107,7 @@ saturday are closed
 sunday are closed
 '2021/01/01 is closed
 '2021/01/25 to 2021/01/26 is closed
-'2024/10/14 to 2024/10/18 is closed
+'2025/10/14 to 2025/10/18 is closed
 '2025
 'Ano novo
 2025/01/01 is closed
@@ -134,7 +134,18 @@ sunday are closed
 
 ' Colored Days
 '2021/01/01 is colored in lightblue
-'2024/10/01 to 2024/10/04 are colored in Orange
+'2025/10/01 to 2025/10/04 are colored in Orange
+2025/01/01 are colored in lightblue
+2025/02/02 are colored in lightblue
+2025/04/18 are colored in lightblue
+2025/04/20 are colored in lightblue
+2025/05/01 are colored in lightblue
+2025/09/07 are colored in lightblue
+2025/10/12 are colored in lightblue
+2025/11/02 are colored in lightblue
+2025/11/15 are colored in lightblue
+2025/11/20 are colored in lightblue
+2025/12/25 are colored in lightblue
 
 ' *************************************************************************
 ' **                        Tasks Section                                **
@@ -152,8 +163,8 @@ sunday are closed
 -- Phase Three --
 [Deploy] lasts 1 day
 [PD audict] lasts 10 days
-[Trainning] on {Camila:50}{Maria:50} starts 2024/10/18
-  [Trainning] ends 2024/11/12
+[Trainning] on {Camila:50}{Maria:50} starts 2025/10/18
+  [Trainning] ends 2025/11/12
 
 ' Tasks flow
 [Config prototype] starts at [Prototype design]'s end with red bold link

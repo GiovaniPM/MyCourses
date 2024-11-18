@@ -98,43 +98,42 @@ printscale daily zoom 1.5
 'printscale weekly zoom 6
 
 ' Day watching
-'today is 2021/01/20 and is colored in Yellow
+'today is YYYY/MM/DD and is colored in Yellow
 'today is 14 days after start and is colored in Yellow
 today is colored in Yellow
 
 ' Working Days
 saturday are closed
 sunday are closed
-'2021/01/01 is closed
-'2021/01/25 to 2021/01/26 is closed
-'2025/10/14 to 2025/10/18 is closed
-'2025
-'Ano novo
+'YYYY/MM/DD is closed
+'YYYY/MM/DD to YYYY/MM/DD is closed
+'************2025************
+'2025/01/01 is closed 'Ano novo
+'2025/02/02 is closed 'Navegantes
+'2025/04/18 is closed 'Sexta-feira santa
+'2025/04/20 is closed 'Tiradentes
+'2025/05/01 is closed 'Trabalho
+'2025/09/07 is closed 'Independencia
+'2025/10/12 is closed 'Aparecida
+'2025/11/02 is closed 'Finados
+'2025/11/15 is closed 'Proclamação
+'2025/11/20 is closed 'Consciencia
+'2025/12/25 is closed 'Natal
 2025/01/01 is closed
-'Navegantes
 2025/02/02 is closed
-'Sexta-feira santa
 2025/04/18 is closed
-'Tiradentes
 2025/04/20 is closed
-'Trabalho
 2025/05/01 is closed
-'Independencia
 2025/09/07 is closed
-'Aparecida
 2025/10/12 is closed
-'Finados
 2025/11/02 is closed
-'Proclamação
 2025/11/15 is closed
-'Consciencia
 2025/11/20 is closed
-'Natal
 2025/12/25 is closed
 
 ' Colored Days
-'2021/01/01 is colored in lightblue
-'2025/10/01 to 2025/10/04 are colored in Orange
+'YYYY/MM/DD is colored in lightblue
+'YYYY/MM/DD to YYYY/MM/DD are colored in Orange
 2025/01/01 are colored in lightblue
 2025/02/02 are colored in lightblue
 2025/04/18 are colored in lightblue
@@ -208,7 +207,7 @@ sunday are closed
 [Config prototype] is deleted
 
 legend left
-Legend:
+Legenda:
 |= Color |= Type           |
 |<#gray> | Done            |
 |<#Red>  | Critic Path     |

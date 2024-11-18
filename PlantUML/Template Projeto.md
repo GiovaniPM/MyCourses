@@ -123,17 +123,17 @@ sunday are closed
 ' Colored Days
 'YYYY/MM/DD is colored in lightblue
 'YYYY/MM/DD to YYYY/MM/DD are colored in Orange
-2025/01/01 are colored in lightblue
-2025/02/02 are colored in lightblue
-2025/04/18 are colored in lightblue
-2025/04/20 are colored in lightblue
-2025/05/01 are colored in lightblue
-2025/09/07 are colored in lightblue
-2025/10/12 are colored in lightblue
-2025/11/02 are colored in lightblue
-2025/11/15 are colored in lightblue
-2025/11/20 are colored in lightblue
-2025/12/25 are colored in lightblue
+2025/01/01 are colored in lightgray
+2025/02/02 are colored in lightgray
+2025/04/18 are colored in lightgray
+2025/04/20 are colored in lightgray
+2025/05/01 are colored in lightgray
+2025/09/07 are colored in lightgray
+2025/10/12 are colored in lightgray
+2025/11/02 are colored in lightgray
+2025/11/15 are colored in lightgray
+2025/11/20 are colored in lightgray
+2025/12/25 are colored in lightgray
 
 ' *************************************************************************
 ' **                        Tasks Section                                **

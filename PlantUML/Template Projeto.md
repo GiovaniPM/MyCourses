@@ -55,7 +55,7 @@
 	  separator {
       FontName Tahoma
 		  LineColor blue
-		  BackGroundColor lightgray\white
+		  BackGroundColor gray\white
 		  FontSize 16
 		  FontStyle bold
 		  FontColor blue
@@ -65,10 +65,10 @@
   		FontColor DarkGreen
   		FontSize 10
   		LineColor lightgreen
-      BackGroundColor cyan\orange
+      BackGroundColor green\lightgreen
   	}
     timeline {
-	    BackgroundColor yellow\red
+	    BackgroundColor gray\lightgray
       FontStyle bold
 	  }
 	  closed {
@@ -87,7 +87,7 @@
     HorizontalAlignment center
   }
   legend {
-    BackGroundColor darkgray\white
+    BackGroundColor gray\white
     FontName Tahoma
     FontStyle bold
     LineColor gray
@@ -177,10 +177,7 @@ sunday are closed
 [Prototype design] on {Alice} lasts 13 days
   [Prototype design] links to [[http://plantuml.com]]
   note bottom
-    memo1 ...
-    memo2 ...
-    explanations1 ...
-    explanations2 ...
+    Key user not send purchase requests
   end note
 [Config prototype] on {Giovani} lasts 7 days
 -- Phase Two --
@@ -237,10 +234,11 @@ sunday are closed
 
 legend left
 Legend:
-|= Color |= Type           |
-|<#gray> | Done            |
-|<#Red>  | Critic Path     |
-|<#blue> | Outside IT      |
+|= Color  |= Type           |
+|<#Aqua>  | Done            |
+|<#Red>   | Critic Path     |
+|<#blue>  | Outside IT      |
+|<#black> | Deleted task    |
 end legend
 @endgantt
 ```

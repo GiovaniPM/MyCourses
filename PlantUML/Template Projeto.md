@@ -1,5 +1,7 @@
 ```plantuml
 @startgantt
+!define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
+
 ' *************************************************************************
 ' **                        Style Section                                **
 ' *************************************************************************
@@ -129,6 +131,7 @@ language pt /'language'/
 
 ' Project Scale
 printscale daily zoom 1.5
+'printscale quarterly zoom 20
 'printscale weekly zoom 6
 
 ' Day watching
@@ -178,6 +181,7 @@ sunday are closed
   [Prototype design] links to [[http://plantuml.com]]
   note bottom
     Key user not send purchase requests
+    Image here: [[IMAGE_PHONE]]
   end note
 [Config prototype] on {Giovani} lasts 7 days
 -- Phase Two --

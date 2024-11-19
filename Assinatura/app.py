@@ -44,9 +44,9 @@ def gerar():
           Website: <a href="{website}" style="color: #00f;">{website}</a>
         </p>
         <div style="margin-top: 10px;">
-          {f'<a href="{facebook}" style="margin-right: 5px;"><img src="https://via.placeholder.com/16" alt="Facebook"></a>' if facebook else ''}
-          {f'<a href="{twitter}" style="margin-right: 5px;"><img src="https://via.placeholder.com/16" alt="Twitter"></a>' if twitter else ''}
-          {f'<a href="{linkedin}" style="margin-right: 5px;"><img src="https://via.placeholder.com/16" alt="LinkedIn"></a>' if linkedin else ''}
+          {f'<a href="{facebook}" style="margin-right: 5px;"><img src="https://giovanipm.github.io/rc_images/facebook_icon.png" alt="Facebook" width="5%" height="5%"></a>' if facebook else ''}
+          {f'<a href="{twitter}" style="margin-right: 5px;"><img src="https://giovanipm.github.io/rc_images/twitter_icon.png" alt="Twitter" width="5%" height="5%"></a>' if twitter else ''}
+          {f'<a href="{linkedin}" style="margin-right: 5px;"><img src="https://giovanipm.github.io/rc_images/linkedin_icon.png" alt="LinkedIn" width="5%" height="5%"></a>' if linkedin else ''}
         </div>
       </div>
     </div>

@@ -29,16 +29,19 @@ def gerar():
     Atenciosamente, 
     <div style="display: flex; align-items: center; font-family: Arial, sans-serif; color: #333;">
       <div style="flex-shrink: 0;">
-        {f'<img src="data:image/png;base64,{fotoBase64}" alt="Foto" style="border-radius: 100%; margin-right: 10px;" width="100">' if fotoBase64 else ''}
+        {f'<img src="data:image/png;base64,{fotoBase64}" alt="Foto" style="margin-right: 10px;" width="100" height="100">' if fotoBase64 else ''}
       </div>
       <div>
         <p><strong>{nome}</strong></p>
-        <p>{cargo}<br>{empresa}</p>
+        <p>
+          <i>{cargo}</i><br>
+          <strong>{empresa}</strong>
+        </p>
         <p style="font-size: 0.8em; color: #777;">
-        {f'Telefone Comercial: <a href="tel:{telefoneComercial}" style="color: #00f;">{telefoneComercial}</a><br>' if telefoneComercial else ''}
-        Celular: <a href="tel:{telefone}" style="color: #00f;">{telefone}</a><br>
-        Email: <a href="mailto:{email}" style="color: #00f;">{email}</a><br>
-        Website: <a href="{website}" style="color: #00f;">{website}</a>
+          {f'Telefone Comercial: <a href="tel:{telefoneComercial}" style="color: #00f;">{telefoneComercial}</a><br>' if telefoneComercial else ''}
+          Celular: <a href="tel:{telefone}" style="color: #00f;">{telefone}</a><br>
+          Email: <a href="mailto:{email}" style="color: #00f;">{email}</a><br>
+          Website: <a href="{website}" style="color: #00f;">{website}</a>
         </p>
         <div style="margin-top: 10px;">
           {f'<a href="{facebook}" style="margin-right: 5px;"><img src="https://via.placeholder.com/16" alt="Facebook"></a>' if facebook else ''}

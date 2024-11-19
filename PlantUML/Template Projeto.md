@@ -3,6 +3,32 @@
 ' *************************************************************************
 ' **                        Style Section                                **
 ' *************************************************************************
+' colors
+''
+'' Colors taken from the css file of the BS theme
+''
+!$BLUE = "#446e9b"
+!$INDIGO = "#6610f2"
+!$PURPLE = "#6f42c1"
+!$PINK = "#e83e8c"
+!$RED = "#cd0200"
+!$ORANGE = "#fd7e14"
+!$YELLOW = "#d47500"
+!$GREEN = "#3cb521"
+!$TEAL = "#20c997"
+!$CYAN = "#3399f3"
+!$WHITE = "#ffffff"
+!$GRAY = "#777777"
+!$GRAYDARK = "#333333"
+!$PRIMARY = "#446e9b"
+!$SECONDARY = "#999999"
+!$SUCCESS = "#3cb521"
+!$INFO = "#3399f3"
+!$WARNING = "#d47500"
+!$DANGER = "#cd0200"
+!$LIGHT = "#eeeeee"
+!$DARK = "#333333"
+
 ' Styles
 <style>
 
@@ -16,49 +42,57 @@
   		LineColor black
   	}
     'undone {
-    '    BackGroundColor red
+    '  BackGroundColor red
     '}
   	milestone {
-        FontName Tahoma
+      FontName Tahoma
   		FontColor blue
   		FontSize 10
   		FontStyle italic
   		BackGroundColor gold
   		LineColor red
   	}
-	separator {
-        FontName Tahoma
-		LineColor green
-		BackGroundColor physical
-		FontSize 16
-		FontStyle bold
-		FontColor green
-	}
+	  separator {
+      FontName Tahoma
+		  LineColor blue
+		  BackGroundColor lightgray\white
+		  FontSize 16
+		  FontStyle bold
+		  FontColor blue
+	  }
   	note {
-        FontName Tahoma
+      FontName Tahoma
   		FontColor DarkGreen
   		FontSize 10
   		LineColor lightgreen
-        BackGroundColor orange\yellow
+      BackGroundColor cyan\orange
   	}
-	timeline {
-	    BackgroundColor Gray
-        FontStyle bold
-	}
-	closed {
-		FontColor white
-        BackGroundColor lightgray
-	}
+    timeline {
+	    BackgroundColor yellow\red
+      FontStyle bold
+	  }
+	  closed {
+		  FontColor white
+      BackGroundColor lightgray
+	  }
   }
   footer {
-        HorizontalAlignment right
+    HorizontalAlignment right
   }
   title {
     FontName Tahoma
-    FontColor black
+    FontColor blue
     FontSize 40
     FontStyle italic
     HorizontalAlignment center
+  }
+  legend {
+    BackGroundColor darkgray\white
+    FontName Tahoma
+    FontStyle bold
+    LineColor gray
+    BorderRoundCorner 8
+	  BorderThickness 1
   }
 
 </style>

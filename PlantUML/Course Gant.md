@@ -119,7 +119,7 @@ skinparam ...
     - **titleBorderRoundCorner** *number*
     - **titleBorderThickness** *number*
 
-<div align="center">:star2:</div>
+<div align="center">⭐</div>
 
 ## Project initialization
 
@@ -133,6 +133,7 @@ Defines the title of Gant graph, to be showed above the graph.
 |Before|After|
 | :----: | :----: |
 | ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXAYZApqfDBb402nKhb6IaAXWP61dg6u0GbqDgNWfO7G00) | ![after](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXAiaioKbLyArKICiiAYw9oIieoizAJIxXWj8AOAN52YKPgGf61aQ6-WOWnEMGcfS2rWy0) |
+
 - - -
 - **footer**<br>
 Defines the footer message, to be showed under the graph.
@@ -144,6 +145,7 @@ Defines the footer message, to be showed under the graph.
 |Before|After|
 | :----: | :----: |
 | ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXAYZApqfDBb402nKhb6IaAXWP61dg6u0GbqDgNWfO7G00) | ![after](http://www.plantuml.com/plantuml/png/7Son3G8n30NGFbFy1L3iq22gwwYG680c0WEXiC7vC3_Yf5U_PR8dxzt9SekW9GuZljq7JfP11eustv_1VdRTLT7QH1KRw7OlMbuPJxiGQpF1Xw59qof_PJ6_hlSF) |
+
 - - -
 - **scale**<br>
 Defines the start scale, to be showed. Useful when you need print, or show the graph.
@@ -175,6 +177,7 @@ Defines the start scale, to be showed. Useful when you need print, or show the g
 |Before|After|
 | :----: | :----: |
 | ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXAYZApqfDBb402nKhb6IaAXWP61dg6u0GbqDgNWfO7G00) | ![after](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXAavEp4bLCDGpvIeeoizAJIvH04iMAvHaf2eO6HWPwXk049T3QbuAM0S0) |
+
 - - -
 - **hide**<br>
 Hides the bottom time information under the graph, does not affect the time information on the top.
@@ -197,6 +200,7 @@ Useful for condesing the Gant graph timeline, useful for large projects.
 |Before|After|
 | :----: | :----: |
 | ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXKYyeoimhAKvEp4bLoCtFAyd8gUGgAChFIaqkKG0hArOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c2N0000) | ![after](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXAYZAp2ifJaxCILN8pSyhoSYf10hbPwKcboY0LHKhb6IaAXWP61dg6u0GLtHQPcuiL0ugRgHlP04LponMICxFoIzAJL78p5CepyWiITK7ar3vrBmK55qEG06mGm00) |
+
 - - -
 - **project**<br>
 Defines when the project starts.
@@ -220,6 +224,7 @@ Defines the graph caption, useful when need export to a document.
 | :----: | :----: |
 |Before| ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXKYyeoimhAKvEp4bLoCtFAyd8gUGgAChFIaqkKG0hArOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c2N0000) |
 |After| ![after](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXIauiACdCprD8oqmlBKfKCEGgAChFIaqkKG2hALOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c1d0000) |
+
 - - -
 - **today**<br>
 Defines the current day to be showed in the graph.
@@ -244,6 +249,8 @@ Defines the current day to be showed in the graph.
 - **comment**<br>
 Defines a line comment in the graph script, do not affect the graph showed.
 >**'** *comment*
+> or
+>**/'** *comment* **'/**
 >- - -
 >ex.:<br>
 >    ' Comentary<br>
@@ -269,7 +276,7 @@ Defines a legend.
 |Before| ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXKYyeoimhAKvEp4bLoCtFAyd8gUGgAChFIaqkKG0hArOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c2N0000) |
 |After| ![after](http://www.plantuml.com/plantuml/png/LOwn3i8m34JtViNzGKecnlu38sAeMfCObGGvblXzZEMbfoZ9lPDFNeQkecLjgXDC1nLgEuHBDU2wrIxnZzYDlU4-qb-qARngG2iXp_cIvl-Pxaz-Fo8BdbE-1kU1hHzTQ0StV2ih9RyZj_xJr6B0j_q1) |
 
-<div align="center">:star2:</div>
+<div align="center"> ⭐ </div>
 
 ## Coloring columns date
 
@@ -381,6 +388,15 @@ Defines the task line and it background colors.
 | :----: | :----: |
 |before| ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXKYyeoimhAKvEp4bLoCtFAyd8gUGgAChFIaqkKG0hArOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c2N0000) |
 |after| ![after](http://www.plantuml.com/plantuml/png/LO_12i8m38RlUOgyGEbMBnxt08f3y3HsA6jqbTfA4n3VtbfwAIGvV3yVFvbOR9Q7ZIBmpkb9cs15ZB8Jci6CUlWFW58uxvO9Bv5GALZcKBJR-JIk62mNOpoWir_k4i-ufP0oEVGHh-HqMO3bxbzhQsejHfjZuxtqsRsGhhVb55rdJGNK7tu0) |
+
+- - -
+- **deleted**<br>
+Specifies that the task has been removed from the Gantt chart.
+>[*taskname*] **is** **deleted**
+>- - -
+>ex.:
+>    [PlanUML1] is deleted
+
 - - -
 - **completed**<br>
 Defines how much progress occur in the task, the percent will be showed in backgroud color.
@@ -393,6 +409,7 @@ Defines how much progress occur in the task, the percent will be showed in backg
 | :----: | :----: |
 |before| ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXKYyeoimhAKvEp4bLoCtFAyd8gUGgAChFIaqkKG0hArOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c2N0000) |
 |after| ![after](http://www.plantuml.com/plantuml/png/NOyn2y8m48Nt_8fR74FQEEZO7w1O1AVI8JIdZQHfwHs8_zupP6aXkU6zzntl6cAtyiibPhMiyni7XYmHy8XWArkRwl-KqXhQqH72BI5ehRes2lQuNkeUeYCXwYDuzwMD4mY6ESuhUWW9xkYD_7tYL1qaDIqHMKpLFSFKbngbWZNsdFNzniyO64sUnSVaDrGZGZxm1m00) |
+
 - - -
 - **links**<br>
 Useful to redirect from the task to out of the graph.
@@ -412,6 +429,7 @@ Defines who will do the task and how much effort will be necessary. Under the gr
 | :----: | :----: |
 |before| ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXKYyeoimhAKvEp4bLoCtFAyd8gUGgAChFIaqkKG0hArOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c2N0000) |
 |after| ![after](http://www.plantuml.com/plantuml/png/NKzDIiOm4Dtd5BDn6V8ZehZg0HIBq5Nf8ZIZZQH9oGo8Y7St3TdqWsHul9_XpK3i2d-wn2oEahzmPMWK0My8LbkZzFc4a1B6pH72MqAGKinZhB7fzSKia1FyJeJ5F3_eluRiYI0wOW9p3zxzq2KH2DOSSq4F8S4xUbN_hUDHtrNNVaJaAehv8-nBhzUhMMMVEd_T-Bq5HjLcrp7vIsgeH3ly7m00) |
+
 - - -
 - **pause**<br>
 Defines a pause in the task, there is a semantic difference between "pause" and "closed days". "Pause" denotes a task suspension, in the other way "closed days" inform the date is not available to work in the whole project.
@@ -428,6 +446,7 @@ Defines a pause in the task, there is a semantic difference between "pause" and 
 | :----: | :----: |
 |before| ![before](http://www.plantuml.com/plantuml/png/SoWkIImgIK_CAodXKYyeoimhAKvEp4bLoCtFAyd8gUGgAChFIaqkKG0hArOeoKXLC38mCjGt026kwBJCt5Ye75JSID_80YgUMQoGd9-JNvIQef2Pfr2UaLcIgWyceVAfUIaekXo00c2N0000) |
 |after| ![after](http://www.plantuml.com/plantuml/png/NKyzhi8m3Dvp2YzlZDBc3J3s020g9AQgGzGO6fGcLMs4k3scoj9AjeVln_xS4Bk57oungtd9JnmOLeY0HmHRsTfKlr9AQsX7HmYNXA2rwjeejjlvLFSG7OcZ_WVlFhHX0i6GOrxGGqXmHM-azuf3zIUgQOx8Et9sBqA2d63AIPOhrTt3r9UC9PyrzbZmxRdt61ZDEWkFoMzSZG3hzry0) |
+
 - - -
 - **note**<br>
 Defines a note to be showed under the task, useful to bring more information.

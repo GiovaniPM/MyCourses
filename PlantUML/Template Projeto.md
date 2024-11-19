@@ -110,30 +110,30 @@ sunday are closed
 '************2025************
 2025/01/01 is closed /'Ano novo'/
 2025/02/02 is closed /'Navegantes'/
-2025/04/18 is closed /'Sexta-feira santa'/
-2025/04/20 is closed /'Tiradentes'/
-2025/05/01 is closed /'Trabalho'/
-2025/09/07 is closed /'Independencia'/
-2025/10/12 is closed /'Aparecida'/
-2025/11/02 is closed /'Finados'/
-2025/11/15 is closed /'Proclamação'/
-2025/11/20 is closed /'Consciencia'/
-2025/12/25 is closed /'Natal'/
+'2025/04/18 is closed /'Sexta-feira santa'/
+'2025/04/20 is closed /'Tiradentes'/
+'2025/05/01 is closed /'Trabalho'/
+'2025/09/07 is closed /'Independencia'/
+'2025/10/12 is closed /'Aparecida'/
+'2025/11/02 is closed /'Finados'/
+'2025/11/15 is closed /'Proclamação'/
+'2025/11/20 is closed /'Consciencia'/
+'2025/12/25 is closed /'Natal'/
 
 ' Colored Days
 'YYYY/MM/DD is colored in lightblue
 'YYYY/MM/DD to YYYY/MM/DD are colored in Orange
 2025/01/01 are colored in lightgray
 2025/02/02 are colored in lightgray
-2025/04/18 are colored in lightgray
-2025/04/20 are colored in lightgray
-2025/05/01 are colored in lightgray
-2025/09/07 are colored in lightgray
-2025/10/12 are colored in lightgray
-2025/11/02 are colored in lightgray
-2025/11/15 are colored in lightgray
-2025/11/20 are colored in lightgray
-2025/12/25 are colored in lightgray
+'2025/04/18 are colored in lightgray
+'2025/04/20 are colored in lightgray
+'2025/05/01 are colored in lightgray
+'2025/09/07 are colored in lightgray
+'2025/10/12 are colored in lightgray
+'2025/11/02 are colored in lightgray
+'2025/11/15 are colored in lightgray
+'2025/11/20 are colored in lightgray
+'2025/12/25 are colored in lightgray
 
 ' *************************************************************************
 ' **                        Tasks Section                                **
@@ -142,6 +142,12 @@ sunday are closed
 -- Phase One --
 [Prototype design] on {Alice} lasts 13 days
   [Prototype design] links to [[http://plantuml.com]]
+  note bottom
+    memo1 ...
+    memo2 ...
+    explanations1 ...
+    explanations2 ...
+  end note
 [Config prototype] on {Giovani} lasts 7 days
 -- Phase Two --
 [QA prototype] on {Davi} lasts 9 days
@@ -151,8 +157,8 @@ sunday are closed
 -- Phase Three --
 [Deploy] lasts 1 day
 [PD audict] lasts 10 days
-[Trainning] on {Camila:50}{Maria:50} starts 2025/10/18
-  [Trainning] ends 2025/11/12
+[Trainning] on {Camila:50}{Maria:50} starts 2025/01/20
+  [Trainning] ends 2025/02/14
 
 ' Tasks flow
 [Config prototype] starts at [Prototype design]'s end with red bold link
@@ -196,7 +202,7 @@ sunday are closed
 [Config prototype] is deleted
 
 legend left
-Legenda:
+Legend:
 |= Color |= Type           |
 |<#gray> | Done            |
 |<#Red>  | Critic Path     |

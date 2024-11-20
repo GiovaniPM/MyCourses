@@ -39,7 +39,7 @@
 !$DARK = "#333333"
 
 !$DONE_COLOR = darkgreen
-!$UNDONE_COLOR = lightgreen
+!$UNDONE_COLOR = cyan
 !$CRITICAL_PATH_COLOR = red
 !$NORMAL_PATH_COLOR = gray
 !$HOLIDAY_COLOR = lightgray

@@ -2,9 +2,8 @@ def replace_non_space_newline(input_file, output_file):
     with open(input_file, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Substituir todos os caracteres que não são espaços ou quebras de linha por "X"
-    content = ''.join('X' if char not in [' ', '\n'] else char for char in content)
-    content = ''.join('.' if char in [' '] else char for char in content)
+    content = ''.join('F' if char not in [' ', '\n'] else char for char in content)
+    content = ''.join('0' if char in [' '] else char for char in content)
     
     new_content = "@startsalt\n"
     new_content += "{\n"

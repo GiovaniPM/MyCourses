@@ -1,5 +1,8 @@
 ```plantuml
 @startgantt
+' *************************************************************************
+' **                       Include Section                               **
+' *************************************************************************
 !define osaPuml https://raw.githubusercontent.com/Crashedmind/PlantUML-opensecurityarchitecture2-icons/master
 !include osaPuml/Common.puml
 !include osaPuml/User/all.puml
@@ -10,12 +13,7 @@
 
 !define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
 
-' *************************************************************************
-' **                        Style Section                                **
-' *************************************************************************
-'
 ' Colors taken from the css file of the BS theme
-'
 !$BLUE = "#446e9b"
 !$INDIGO = "#6610f2"
 !$PURPLE = "#6f42c1"
@@ -37,14 +35,70 @@
 !$DANGER = "#cd0200"
 !$LIGHT = "#eeeeee"
 !$DARK = "#333333"
-
-!$DONE_COLOR = darkgreen
-!$UNDONE_COLOR = cyan
+!$DONE_COLOR = green
+!$UNDONE_COLOR = orange
 !$CRITICAL_PATH_COLOR = red
 !$NORMAL_PATH_COLOR = lightblue
 !$HOLIDAY_COLOR = lightgray
 !$TODAY_COLOR =  yellow
 
+' sprites
+sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0
+sprite $bug [15x15/16z] PKzR2i0m2BFMi15p__FEjQEqB1z27aeqCqixa8S4OT7C53cKpsHpaYPDJY_12MHM-BLRyywPhrrlw3qumqNThmXgd1TOterAZmOW8sgiJafogofWRwtV3nCF
+sprite $disk {
+  444445566677881
+  436000000009991
+  43600000000ACA1
+  53700000001A7A1
+  53700000012B8A1
+  53800000123B8A1
+  63800001233C9A1
+  634999AABBC99B1
+  744566778899AB1
+  7456AAAAA99AAB1
+  8566AFC228AABB1
+  8567AC8118BBBB1
+  867BD4433BBBBB1
+  39AAAAABBBBBBC1
+}
+sprite $settings [32x32/16] { 
+00000000000000000000000000
+00000000121000012100000000
+00000011000111100011000000
+00000100365000057300100000
+000000379B963369C973000000
+0001048B999A88BA9AC8501000
+000107B99999AB9AAAAD701000
+000106999999999AABBC601000
+00010599999A9ACBABBC611000
+000206A99A876679CBBD702000
+012038A9A86544457CBC930220
+00037A9A8556885447DBD73000
+2468A998656EFFE6349DCD9642
+38C999A756EFFFFE437ECDDEC4
+4999999648FFFFFF715DDDDDE5
+5B999A964CFFFFFFA04ADDDDE5
+5B999A964CFFFFFFA04AEDEDE5
+4BB99AA648FFFFFF705DDDEEE5
+3679B9C745EFFFFE316EDEE873
+00058BB9546EFFE503AEEC5000
+02204ABC7434773027EEE50220
+001207DAC74310037EDE702100
+000206CBBD97556AEEEE602000
+000106CBCCDECDEEDEEE602000
+000207DBCCCCDDDEEEEE702000
+001038DBCCCEDEEEEEEEB30100
+0001259DCCE8558EEEEC521000
+00000037CE720027EE73000000
+00000100462012037400100000
+00000011000100100011000000
+00000000120000002100000000
+00000000000000000000000000
+} 
+
+' *************************************************************************
+' **                        Style Section                                **
+' *************************************************************************
 ' Styles
 <style>
 
@@ -84,8 +138,10 @@
       FontName Tahoma
   		FontColor black
   		FontSize 10
-  		LineColor lightgreen
-      BackGroundColor $UNDONE_COLOR\$DONE_COLOR
+  		'LineColor lightgreen
+      'BackGroundColor $UNDONE_COLOR\$DONE_COLOR
+      LineColor black
+      BackGroundColor gray\white
       HorizontalAlignment left
   	}
     timeline {
@@ -125,26 +181,6 @@ skinparam footerFontStyle italic
 'skinparam titleBorderColor blue
 'skinparam titleBorderRoundCorner 15
 'skinparam titleBorderThickness 2
-
-' sprites
-sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0
-sprite $bug [15x15/16z] PKzR2i0m2BFMi15p__FEjQEqB1z27aeqCqixa8S4OT7C53cKpsHpaYPDJY_12MHM-BLRyywPhrrlw3qumqNThmXgd1TOterAZmOW8sgiJafogofWRwtV3nCF
-sprite $disk {
-  444445566677881
-  436000000009991
-  43600000000ACA1
-  53700000001A7A1
-  53700000012B8A1
-  53800000123B8A1
-  63800001233C9A1
-  634999AABBC99B1
-  744566778899AB1
-  7456AAAAA99AAB1
-  8566AFC228AABB1
-  8567AC8118BBBB1
-  867BD4433BBBBB1
-  39AAAAABBBBBBC1
-}
 
 ' *************************************************************************
 ' **                        Setup Section                                **
@@ -218,7 +254,7 @@ sunday are closed
 [Prototype design] on {Alice} lasts 13 days
   [Prototype design] links to [[http://plantuml.com]]
   note bottom
-    <$bug>
+    <$bug> <$disk> <$printer> <$settings>
     Key user not send purchase requests
     Image here: [[IMAGE_PHONE]]
   end note

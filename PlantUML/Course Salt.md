@@ -478,20 +478,22 @@ Manage colunms to show and organize like a table, in a screen could be used in t
 
 - **Convert image to sprite**
   How convert a image to sprite.<br>
-  1. Get some image
-  2. Reduce to  the color to **B/W**
-  3. Change the resolution: horizontal to **50%** and stay with vertical in **100%**
-  4. Change the file resolution so that it has a maximum size of **500 Kb**
-  5. Go to website [Convert Images to Ascii Art](https://manytools.org/hacker-tools/convert-images-to-ascii-art "Convert Images to Ascii Art")
-  6. Click the button **Browse...** and select your image
-  7. In **Width of output (in characters, max 200)** put 200
-  8. Click in the button **Convert!**
-  9. Click in the button **Download ASCII (.TXT)**
-  10. Open the downloaded file
-  11. Replace all different character of **space** (!@#$%^&*()_+-=/\,.:;) by **X** (x in uppercase)
-  12. Replace all **space** character to **.** (point)
-  13. Save the downloaded file
-  14. Get the content of downloaded file, and use as content in your sprite definition
+1. Get some image
+1. Reduce to  the color to **B/W**
+1. Change the resolution: horizontal to **50%** and stay with vertical in **100%**
+1. Change the file resolution so that it has a maximum size of **500 Kb**
+1. Go to website [Convert Images to Ascii Art](https://manytools.org/hacker-tools/onvert-images-to-ascii-art "Convert Images to Ascii Art")
+1. Click the button **Browse...** and select your image
+1. In **Width of output (in characters, max 200)** put 200
+1. Click in the button **Convert!**
+1. Click in the button **Download ASCII (.TXT)**
+1. Open the downloaded file
+1. If there is transparency in the image, chage the character **@** by **space**
+1. Use the script **replace_characters.py**
+    1. Replace all different character of **space** (!@#$%^&*()_+-=/\,.:;) by **X** (x in uppercase)
+    1. Replace all **space** character to **.** (point)
+1. Save the downloaded file
+1. Get the content of downloaded file, and use as content in your sprite definition
 
   Ex.:
   ||||

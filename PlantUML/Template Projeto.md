@@ -41,7 +41,7 @@
 !$DONE_COLOR = darkgreen
 !$UNDONE_COLOR = cyan
 !$CRITICAL_PATH_COLOR = red
-!$NORMAL_PATH_COLOR = gray
+!$NORMAL_PATH_COLOR = lightblue
 !$HOLIDAY_COLOR = lightgray
 !$TODAY_COLOR =  yellow
 
@@ -82,10 +82,10 @@
 	  }
   	note {
       FontName Tahoma
-  		FontColor DarkGreen
+  		FontColor black
   		FontSize 10
   		LineColor lightgreen
-      BackGroundColor green\lightgreen
+      BackGroundColor $UNDONE_COLOR\$DONE_COLOR
       HorizontalAlignment left
   	}
     timeline {
@@ -165,7 +165,7 @@ scale 1 /'project zoom'/
 'Label on first column and left aligned
 language pt /'language'/
 hide resources names
-'hide resources footbox
+hide resources footbox
 
 ' Project Scale
 printscale daily zoom 1.5
@@ -235,9 +235,9 @@ sunday are closed
   [Trainning] ends 2025/02/14
 
 ' Tasks flow
-[Config prototype] starts at [Prototype design]'s end with $CRITICAL_PATH_COLOR bold link
+[Config prototype] starts at [Prototype design]'s end with $NORMAL_PATH_COLOR bold link
 [QA prototype] starts at [Prototype design]'s end with $CRITICAL_PATH_COLOR bold link
-[Test prototype] starts at [Config prototype]'s end with $CRITICAL_PATH_COLOR bold link
+[Test prototype] starts at [Config prototype]'s end with $NORMAL_PATH_COLOR bold link
   [Test prototype] starts at [QA prototype]'s end with $CRITICAL_PATH_COLOR bold link
 [Deploy] starts at [Test prototype]'s end with $CRITICAL_PATH_COLOR bold link
 [PD audict] starts at [Trainning]'s end with $NORMAL_PATH_COLOR bold link

@@ -1,14 +1,21 @@
 ```plantuml
 @startgantt
+!define osaPuml https://raw.githubusercontent.com/Crashedmind/PlantUML-opensecurityarchitecture2-icons/master
+!include osaPuml/Common.puml
+!include osaPuml/User/all.puml
+!include osaPuml/Hardware/all.puml
+!include osaPuml/Misc/all.puml
+!include osaPuml/Server/all.puml
+!include osaPuml/Site/all.puml
+
 !define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
 
 ' *************************************************************************
 ' **                        Style Section                                **
 ' *************************************************************************
-' colors
-''
-'' Colors taken from the css file of the BS theme
-''
+'
+' Colors taken from the css file of the BS theme
+'
 !$BLUE = "#446e9b"
 !$INDIGO = "#6610f2"
 !$PURPLE = "#6f42c1"
@@ -31,6 +38,13 @@
 !$LIGHT = "#eeeeee"
 !$DARK = "#333333"
 
+!$DONE_COLOR = darkgreen
+!$UNDONE_COLOR = lightgreen
+!$CRITICAL_PATH_COLOR = red
+!$NORMAL_PATH_COLOR = gray
+!$HOLIDAY_COLOR = lightgray
+!$TODAY_COLOR =  yellow
+
 ' Styles
 <style>
 
@@ -40,8 +54,12 @@
   		FontColor black
   		FontSize 10
   		FontStyle bold
-  		BackGroundColor Aqua
-  		LineColor black
+  		BackGroundColor $DONE_COLOR
+  		LineColor $DONE_COLOR
+      unstarted {
+        BackGroundColor $UNDONE_COLOR
+        LineColor $UNDONE_COLOR
+      }
   	}
     'undone {
     '  BackGroundColor red
@@ -68,6 +86,7 @@
   		FontSize 10
   		LineColor lightgreen
       BackGroundColor green\lightgreen
+      HorizontalAlignment left
   	}
     timeline {
 	    BackgroundColor gray\lightgray
@@ -109,6 +128,23 @@ skinparam footerFontStyle italic
 
 ' sprites
 sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0
+sprite $bug [15x15/16z] PKzR2i0m2BFMi15p__FEjQEqB1z27aeqCqixa8S4OT7C53cKpsHpaYPDJY_12MHM-BLRyywPhrrlw3qumqNThmXgd1TOterAZmOW8sgiJafogofWRwtV3nCF
+sprite $disk {
+  444445566677881
+  436000000009991
+  43600000000ACA1
+  53700000001A7A1
+  53700000012B8A1
+  53800000123B8A1
+  63800001233C9A1
+  634999AABBC99B1
+  744566778899AB1
+  7456AAAAA99AAB1
+  8566AFC228AABB1
+  8567AC8118BBBB1
+  867BD4433BBBBB1
+  39AAAAABBBBBBC1
+}
 
 ' *************************************************************************
 ' **                        Setup Section                                **
@@ -128,6 +164,8 @@ scale 1 /'project zoom'/
 'Label on last column and left aligned
 'Label on first column and left aligned
 language pt /'language'/
+hide resources names
+'hide resources footbox
 
 ' Project Scale
 printscale daily zoom 1.5
@@ -137,7 +175,7 @@ printscale daily zoom 1.5
 ' Day watching
 'today is YYYY/MM/DD and is colored in Yellow
 'today is 14 days after start and is colored in Yellow
-today is colored in Yellow
+today is colored in $TODAY_COLOR
 
 ' Working Days
 saturday are closed
@@ -160,17 +198,17 @@ sunday are closed
 ' Colored Days
 'YYYY/MM/DD is colored in lightblue
 'YYYY/MM/DD to YYYY/MM/DD are colored in Orange
-2025/01/01 are colored in lightgray
-2025/02/02 are colored in lightgray
-'2025/04/18 are colored in lightgray
-'2025/04/20 are colored in lightgray
-'2025/05/01 are colored in lightgray
-'2025/09/07 are colored in lightgray
-'2025/10/12 are colored in lightgray
-'2025/11/02 are colored in lightgray
-'2025/11/15 are colored in lightgray
-'2025/11/20 are colored in lightgray
-'2025/12/25 are colored in lightgray
+2025/01/01 are colored in $HOLIDAY_COLOR
+2025/02/02 are colored in $HOLIDAY_COLOR
+'2025/04/18 are colored in $HOLIDAY_COLOR
+'2025/04/20 are colored in $HOLIDAY_COLOR
+'2025/05/01 are colored in $HOLIDAY_COLOR
+'2025/09/07 are colored in $HOLIDAY_COLOR
+'2025/10/12 are colored in $HOLIDAY_COLOR
+'2025/11/02 are colored in $HOLIDAY_COLOR
+'2025/11/15 are colored in $HOLIDAY_COLOR
+'2025/11/20 are colored in $HOLIDAY_COLOR
+'2025/12/25 are colored in $HOLIDAY_COLOR
 
 ' *************************************************************************
 ' **                        Tasks Section                                **
@@ -180,6 +218,7 @@ sunday are closed
 [Prototype design] on {Alice} lasts 13 days
   [Prototype design] links to [[http://plantuml.com]]
   note bottom
+    <$bug>
     Key user not send purchase requests
     Image here: [[IMAGE_PHONE]]
   end note
@@ -196,12 +235,13 @@ sunday are closed
   [Trainning] ends 2025/02/14
 
 ' Tasks flow
-[Config prototype] starts at [Prototype design]'s end with red bold link
-[QA prototype] starts at [Prototype design]'s end with red bold link
-[Test prototype] starts at [Config prototype]'s end with red bold link
-  [Test prototype] starts at [QA prototype]'s end with red bold link
-[Deploy] starts at [Test prototype]'s end with red bold link
-[PD audict] starts at [Deploy]'s end with red bold link
+[Config prototype] starts at [Prototype design]'s end with $CRITICAL_PATH_COLOR bold link
+[QA prototype] starts at [Prototype design]'s end with $CRITICAL_PATH_COLOR bold link
+[Test prototype] starts at [Config prototype]'s end with $CRITICAL_PATH_COLOR bold link
+  [Test prototype] starts at [QA prototype]'s end with $CRITICAL_PATH_COLOR bold link
+[Deploy] starts at [Test prototype]'s end with $CRITICAL_PATH_COLOR bold link
+[PD audict] starts at [Trainning]'s end with $NORMAL_PATH_COLOR bold link
+  [PD audict] starts at [Deploy]'s end with $CRITICAL_PATH_COLOR bold link
 
 ' Tasks progress
 [Prototype design] is 77% completed
@@ -223,26 +263,18 @@ sunday are closed
 -- End --
 
 ' Colors
-[Prototype design] is colored in Aqua/Red
-[Config prototype] is colored in Aqua/Red
-[QA prototype] is colored in Aqua/Red
-[Test prototype] is colored in Aqua/Red
-[Deploy] is colored in Aqua/Red
-[PD audict] is colored in Aqua/Red
 [Trainning] is colored in Aqua/Blue
-[DevEnd] is colored in White/Black
-[ReadyDeploy] is colored in Gray/Black
 
 ' Tasks Deleted
 [Config prototype] is deleted
 
 legend left
-Legend:
-|= Color  |= Type           |
-|<#Aqua>  | Done            |
-|<#Red>   | Critic Path     |
-|<#blue>  | Outside IT      |
-|<#black> | Deleted task    |
+  Legend:
+  |= Color                 |= Type           |
+  |<#$DONE_COLOR>          | Done            |
+  |<#$CRITICAL_PATH_COLOR> | Critic Path     |
+  |<#blue>                 | Outside IT      |
+  |<#black>                | Deleted task    |
 end legend
 @endgantt
 ```

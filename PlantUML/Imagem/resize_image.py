@@ -13,7 +13,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Redimensiona uma imagem PNG para 32x32 pixels.")
     parser.add_argument("input_file", help="Caminho para o arquivo de imagem PNG de entrada.")
     parser.add_argument("output_file", help="Caminho para o arquivo de imagem PNG de saída.")
+    parser.add_argument("res_x", help="Resolução X")
+    parser.add_argument("res_y", help="Resolução Y")
 
     args = parser.parse_args()
-    resize_image(args.input_file, args.output_file)
+    resize_image(args.input_file, args.output_file, (int(args.res_x), int(args.res_y)))
     print(f"Imagem redimensionada e salva como {args.output_file}")

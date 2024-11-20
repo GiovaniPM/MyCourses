@@ -6,7 +6,7 @@ for %%f in (*.png) do (
     echo Processando arquivo: %%f para: !filename!.txt
     replace_transparency_with_white.py %%f input.png
     convert_to_grayscale.py input.png input.png
-    resize_image.py input.png input.png
+    resize_image.py input.png input.png 18 18
     image_to_text.py input.png !filename!.txt
     get_image_resolution.py input.png env_vars.bat
     call env_vars.bat

@@ -11,6 +11,11 @@
 !include osaPuml/Server/all.puml
 !include osaPuml/Site/all.puml
 
+!define myPuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML/Imagem/puml
+!include myPuml/settings.puml
+!include myPuml/PROGM026.puml
+!include myPuml/PROGM037.puml
+
 !define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
 
 ' Colors taken from the css file of the BS theme
@@ -61,26 +66,6 @@ sprite $disk {
   867BD4433BBBBB1
   39AAAAABBBBBBC1
 }
-sprite $settings [18x18/16] { 
-000011011110110000
-000000300003000000
-000037A7337A730000
-00018DBCAACBE91100
-00108BABBCDCD80100
-01009CA7557AD90010
-0027CA67AA64AE7200
-059BC77FFFF56EEC50
-06DAB5BFFFFA4DDE70
-06DBB5AFFFF93DEE70
-047AD76FFFF46ED840
-0005CA459943CE5000
-01108EA6336CE90210
-00119DDEEEEEE91100
-00029EDD89DEEB2000
-000038B4004D830000
-000000201102000000
-000011010010110000
-} 
 
 ' *************************************************************************
 ' **                        Style Section                                **
@@ -240,7 +225,7 @@ sunday are closed
 [Prototype design] on {Alice} lasts 13 days
   [Prototype design] links to [[http://plantuml.com]]
   note bottom
-    <$bug> <$disk> <$printer> <$settings>
+    <$settings>
     Key user not send purchase requests
     Image here: [[IMAGE_PHONE]]
   end note

@@ -14,7 +14,7 @@
 !define myPuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML/Imagem/puml
 !include myPuml/settings.puml
 !include myPuml/PROGM026.puml
-!include myPuml/PROGM037.puml
+!include myPuml/CLIPB001.puml
 
 !define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
 
@@ -225,7 +225,7 @@ sunday are closed
 [Prototype design] on {Alice} lasts 13 days
   [Prototype design] links to [[http://plantuml.com]]
   note bottom
-    <$settings>
+    <$CLIPB001>
     Key user not send purchase requests
     Image here: [[IMAGE_PHONE]]
   end note

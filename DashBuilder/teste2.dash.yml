@@ -1,0 +1,61 @@
+datasets:
+- uuid: products
+  content: >-
+            [
+              ["Computers", "Printer", 7, 4],
+              ["Computers", "Laptop", 3, 2],
+              ["Electronics", "Camera", 10, 7],
+              ["Electronics", "Headphones", 5, 9]
+            ]
+  columns:
+    - id: Section
+    - id: Product
+    - id: Quantity1
+      type: NUMBER
+    - id: Quantity2
+      type: NUMBER
+pages:
+- components:
+    - displayer:
+        type: BARCHART
+        filter:
+            listening: true
+        lookup:
+            uuid: products
+            group:
+            - columnGroup:
+                source: Product
+              functions:
+                - source: Product
+                - source: Quantity1
+                  function: SUM
+                - source: Quantity2
+                  function: SUM
+    - displayer:
+        type: SELECTOR
+        subtype: SELECTOR_LABELS
+        selector:
+            multiple: true
+        filter:
+            notification: true
+        lookup:
+            uuid: products
+            group:
+            - columnGroup:
+                source: Section
+              functions:
+                - source: Section
+    - displayer:
+        type: SELECTOR
+        subtype: SELECTOR_LABELS
+        selector:
+            multiple: true
+        filter:
+            notification: true
+        lookup:
+            uuid: products
+            group:
+            - columnGroup:
+                source: Product
+              functions:
+                - source: Product

@@ -1,0 +1,132 @@
+@startjson
+{
+    "u_explain_gains": "",
+    "parent": "",
+    "u_work_tobe_done": "",
+    "made_sla": "verdadeiro",
+    "watch_list": "",
+    "sc_catalog": "",
+    "upon_reject": "Cancelar todas as tarefas futuras",
+    "requested_for": {
+        "display_value": "Marta Barreto Wermelinger",
+        "link": "https://gruponc.service-now.com/api/now/table/sys_user/436b26471b277110c24fedb22b4bcb58"
+    },
+    "sys_updated_on": "14/04/2024 20:30:01",
+    "task_effective_number": "RITM0079463",
+    "approval_history": "05/04/2024 15:27:46 - Maria Luiza Ferreira Dias (Histórico de aprovação)\nMaria Luiza Ferreira Dias aprovou a tarefa.\n\n05/04/2024 06:06:45 - System (Histórico de aprovação)\nMaria Luiza Ferreira Dias solicitado para aprovação da tarefa\n\n",
+    "number": "RITM0079463",
+    "u_quantitative_qualitative": "",
+    "u_work_duedate": "",
+    "sys_updated_by": "douglas.nardoto@alpar.com.br",
+    "opened_by": {
+        "display_value": "Marta Barreto Wermelinger",
+        "link": "https://gruponc.service-now.com/api/now/table/sys_user/436b26471b277110c24fedb22b4bcb58"
+    },
+    "user_input": "",
+    "price": "R$ 0,00",
+    "sys_created_on": "05/04/2024 06:06:41",
+    "recurring_frequency": null,
+    "sys_domain": {
+        "display_value": "global",
+        "link": "https://gruponc.service-now.com/api/now/table/sys_user_group/global"
+    },
+    "state": "Encerrado",
+    "u_which_module": "",
+    "route_reason": "",
+    "sys_created_by": "m0044053@ems.com.br",
+    "knowledge": "falso",
+    "order": "",
+    "closed_at": "09/04/2024 20:30:00",
+    "cmdb_ci": "",
+    "backordered": "falso",
+    "contract": "",
+    "impact": "3 - Baixo(a)",
+    "u_improvement_gains": "",
+    "u_pending_reason": null,
+    "active": "verdadeiro",
+    "work_notes_list": "",
+    "business_service": {
+        "display_value": "Neomind Fusion",
+        "link": "https://gruponc.service-now.com/api/now/table/cmdb_ci_service/5225c3a687fdad1010bcc8840cbb35be"
+    },
+    "priority": "4 - Baixa",
+    "sys_domain_path": "/",
+    "time_worked": "",
+    "expected_start": "",
+    "opened_at": "05/04/2024 06:06:41",
+    "business_duration": "16 Horas",
+    "group_list": "",
+    "configuration_item": "",
+    "work_end": "",
+    "approval_set": "05/04/2024 15:27:49",
+    "work_notes": "",
+    "order_guide": "",
+    "universal_request": "",
+    "request": {
+        "display_value": "REQ0079424",
+        "link": "https://gruponc.service-now.com/api/now/table/sc_request/1bb86e361b1dc290768487f1f54bcba0"
+    },
+    "short_description": "Acessos de usuários nos sistemas",
+    "correlation_display": "",
+    "work_start": "",
+    "assignment_group": {
+        "display_value": "TI - Gestão de Acessos",
+        "link": "https://gruponc.service-now.com/api/now/table/sys_user_group/b9e032898782a55054dc63d30cbb3597"
+    },
+    "additional_assignee_list": "",
+    "description": "Caros, preciso que o meu perfil no Neomind Fusion seja espelhado para ser o mesmo que a Marcela Jorente, Gerente de Produto EMS OTC.\r\nObrigada, Marta Wermelinger",
+    "calendar_duration": "4 dias 3 Horas 29 Minutos",
+    "close_notes": "Solicitação encerrada automaticamente pelo sistema",
+    "service_offering": {
+        "display_value": "Alterar usuário",
+        "link": "https://gruponc.service-now.com/api/now/table/service_offering/f64507a687fdad1010bcc8840cbb355a"
+    },
+    "sys_class_name": "Item solicitado",
+    "closed_by": {
+        "display_value": "Sistema ",
+        "link": "https://gruponc.service-now.com/api/now/table/sys_user/f6606c3b875b2d1054dc63d30cbb35d0"
+    },
+    "follow_up": "",
+    "sys_id": "53b86e361b1dc290768487f1f54bcba1",
+    "contact_type": null,
+    "u_does_this_improvement_request_involve_mdp_dr": "falso",
+    "urgency": "3 - Baixa",
+    "u_estimated_work_hours": "",
+    "company": {
+        "display_value": "EMS S/A",
+        "link": "https://gruponc.service-now.com/api/now/table/core_company/2422f5f2870ea11010bcc8840cbb35b5"
+    },
+    "reassignment_count": "0",
+    "activity_due": "UNKNOWN",
+    "assigned_to": {
+        "display_value": "Luiz Henrique Eleoterio de Godoy",
+        "link": "https://gruponc.service-now.com/api/now/table/sys_user/a9c0d03a8786a11010bcc8840cbb35ab"
+    },
+    "comments": "09/04/2024 09:36:15 - Luiz Henrique Eleoterio de Godoy (Comentários adicionais)\nAnotações de fechamento: \nPrezado(a) colaborador(a)\r\n\r\nFoi efetuada a configuração conforme solicitado. \r\nPor gentileza, aguarde até 24h para atualização no sistema.\r\n\r\nPara dúvidas ou solicitação de suporte favor, entrar em contato com o Service Desk\r\nTel: 0800 703 8337\r\nRamal: 6000\r\n\r\nAtenciosamente,\r\nGestão de Acessos Grupo NC\r\n\n\n",
+    "quantity": "1",
+    "approval": "Aprovada",
+    "sla_due": "UNKNOWN",
+    "comments_and_work_notes": "09/04/2024 09:36:15 - Luiz Henrique Eleoterio de Godoy (Comentários adicionais)\nAnotações de fechamento: \nPrezado(a) colaborador(a)\r\n\r\nFoi efetuada a configuração conforme solicitado. \r\nPor gentileza, aguarde até 24h para atualização no sistema.\r\n\r\nPara dúvidas ou solicitação de suporte favor, entrar em contato com o Service Desk\r\nTel: 0800 703 8337\r\nRamal: 6000\r\n\r\nAtenciosamente,\r\nGestão de Acessos Grupo NC\r\n\n\n",
+    "due_date": "10/04/2024 09:27:49",
+    "sys_mod_count": "9",
+    "recurring_price": "R$ 0,00",
+    "u_purpose_of_the_request": "",
+    "sys_tags": "",
+    "billable": "falso",
+    "u_resolution_code": "Atendido com sucesso",
+    "agile_story": "",
+    "cat_item": {
+        "display_value": "Acessos de usuários nos sistemas",
+        "link": "https://gruponc.service-now.com/api/now/table/sc_cat_item/41269d9287b96d1054dc63d30cbb3507"
+    },
+    "stage": "Request Approved",
+    "escalation": "Normal",
+    "upon_approval": "Prosseguir para a próxima tarefa",
+    "correlation_id": "",
+    "location": {
+        "display_value": "EMS Hortolândia",
+        "link": "https://gruponc.service-now.com/api/now/table/cmn_location/e8a286f687eea11010bcc8840cbb3520"
+    },
+    "estimated_delivery": ""
+}
+@endjson

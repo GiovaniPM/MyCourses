@@ -223,6 +223,9 @@ Toda consulta deve ser baseada sobre uma tabela principal, normalmente a lógica
 
 Podemos utilizar também sub-querys, como drive, contudo deve se utilizar estes casos com parcimônia.
 ## <a name="_toc375138819"></a>**Join entre tabelas**
+
+![](SQLJoins.jpg)
+
 Outra boa prática em SQL é a utilização das cláusulas de join explícitas, ao invés de joins implícitos:
 
 - cross join (retorna a multiplicidade dos registros de ambas as tabelas)

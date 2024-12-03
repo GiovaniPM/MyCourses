@@ -3,7 +3,6 @@
 
 ## Murphy´s law [^5]
 
->. 
 >![](Murphy.png)
 >
 >__Anythig that can go wrong, will go wrong!__
@@ -13,7 +12,6 @@
 
 ## Kidlin's law [^4]
 
->.
 >![](Kidlin.png)
 >
 >__If you can write it down, it is half solved!__
@@ -23,7 +21,6 @@
 
 ## Falkland's law [^3]
 
->.
 >![](Falkland.png)
 >
 >__Until and unless absolutely necessary to, don't make that decision!__
@@ -33,7 +30,6 @@
 
 ## Wilson's law [^2]
 
->.
 >![](Wilson.png)
 >
 >__If you have the right knowlegment, the right money will flow to you!__
@@ -43,7 +39,6 @@
 
 ## Gilbert's law [^1]
 
->.
 >![](Gilbert.png)
 >
 >__When you take on a task, finding the best ways to achieve the desire result is always your responsibility!__

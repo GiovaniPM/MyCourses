@@ -5,7 +5,7 @@ keywords: ["key 1", "key 2", "key 3"]
 author: "[Nome do Autor]"
 ---
 
-# $$\Huge\mathbf{Especifica\c{c}\~{a}o}\ \newline\Huge\mathbf{dos\ Requisitos}\ \newline\color{Blue}\Large\mathbf{[Nome\ do\ projeto]}$$
+# $$\Huge\mathbf{Requisitos}\ \newline\color{Blue}\Large\mathbf{[Nome\ do\ projeto]}$$
 
 **Histórico de Revisões**
 

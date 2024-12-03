@@ -42,6 +42,7 @@ author: "[AuthorName]"
 1. [Schedule and milestones](#_toc404016845)
 1. [Risks, dependencies and other issues](#_toc404016846)
 1. [Any other relevant information](#_toc404016847)
+1. [References](#_toc404016848)
 
 # <a name="_toc404016826"></a>**Background information**[↩︎](#_toc)
 
@@ -196,3 +197,7 @@ Mention here any relevant risks, dependencies and other issues that may have bee
 Document here, or in specific sections to be added to this requirements document, any other requirements or information judged to be relevant and useful in the context of the particular project concerned.
 
 For example, additions may concern environmental, safety and security requirements.
+
+# <a name="_toc404016848"></a>**References**[↩︎](#_toc)
+
+Put here external references concern of this document: sites. books, videos, others.

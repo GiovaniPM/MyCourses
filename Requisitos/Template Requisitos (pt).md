@@ -1,11 +1,11 @@
 ---
-title: "[ProjName]"
-description: "[Project description]"
+title: "[Nome do projeto]"
+description: "[Descrição do projeto]"
 keywords: ["key 1", "key 2", "key 3"]
-author: "[AuthorName]"
+author: "[Nome do Autor]"
 ---
 
-# $$\Huge\mathbf{Requirements}\ \newline\Huge\mathbf{Specification}\ \newline\color{Blue}\Large\mathbf{[ProjName]}$$
+# $$\Huge\mathbf{Especifica\c{c}\~{a}o}\ \newline\Huge\mathbf{dos\ Requisitos}\ \newline\color{Blue}\Large\mathbf{[Nome\ do\ projeto]}$$
 
 **Histórico de Revisões**
 
@@ -42,6 +42,7 @@ author: "[AuthorName]"
 1. [Cronograma e marcos](#_toc404016845)
 1. [Riscos, dependências e outras questões](#_toc404016846)
 1. [Qualquer outra informação relevante](#_toc404016847)
+1. [Referências](#_toc404016848)
 
 # <a name="_toc404016826"></a>**Informações de Contexto**[↩︎](#_toc)
 
@@ -196,3 +197,7 @@ Mencione aqui quaisquer riscos, dependências e outras questões relevantes que 
 Documente aqui, ou em seções específicas a serem adicionadas a este documento de requisitos, quaisquer outros requisitos ou informações considerados relevantes e úteis no contexto do projeto específico em questão.
 
 Por exemplo, adições podem abordar requisitos ambientais, de segurança e de proteção.
+
+# <a name="_toc404016848"></a>**Referências**[↩︎](#_toc)
+
+Adicione aqui as referências externas a este documento, como: sites, livros, vídeos, etc ...

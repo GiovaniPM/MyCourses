@@ -7,6 +7,7 @@
       nome : varchar
       email : varchar
     }
+    
     entity "Endereço_Cliente" {
       * endereço_id : UUID
       * cliente_id : UUID

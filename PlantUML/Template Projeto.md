@@ -3,16 +3,15 @@
 ' *************************************************************************
 ' **                       Include Section                               **
 ' *************************************************************************
-!define osaPuml https://raw.githubusercontent.com/Crashedmind/PlantUML-opensecurityarchitecture2-icons/master
-!include osaPuml/Common.puml
-!include osaPuml/User/all.puml
-!include osaPuml/Hardware/all.puml
-!include osaPuml/Misc/all.puml
-!include osaPuml/Server/all.puml
-!include osaPuml/Site/all.puml
+'!define osaPuml https://raw.githubusercontent.com/Crashedmind/PlantUML-opensecurityarchitecture2-icons/master
+'!include osaPuml/Common.puml
+'!include osaPuml/User/all.puml
+'!include osaPuml/Hardware/all.puml
+'!include osaPuml/Misc/all.puml
+'!include osaPuml/Server/all.puml
+'!include osaPuml/Site/all.puml
 
 !define myPuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML/Imagem/puml
-!include myPuml/settings.puml
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
 

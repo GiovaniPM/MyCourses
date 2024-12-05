@@ -2,13 +2,13 @@
 @startuml
   
   package "Cliente_Venda" #DDDDDD {
-    entity "Cliente" {
+    entity "Cliente" #ffd700 {
       * id : UUID
       nome : varchar
       email : varchar
     }
     
-    entity "Endereço_Cliente" {
+    entity "Endereço_Cliente" #ffd700 {
       * endereço_id : UUID
       * cliente_id : UUID
       data : date
@@ -24,13 +24,13 @@
   }
   
   package "Pedido_Venda" <<folder>> #DDDDDD {
-    entity "Pedido" {
+    entity "Pedido" #9370d8 {
       * id : UUID
       cliente_id : UUID
       data : date
     }
     
-    entity "Pedido_Produto" {
+    entity "Pedido_Produto" #9370d8 {
       * pedido_id : UUID
       * produto_id : UUID
       quantidade : UUID

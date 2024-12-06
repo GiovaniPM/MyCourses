@@ -124,8 +124,6 @@ sprite $disk {
       FontName Tahoma
   		FontColor $NOTE_COLOR_FONT
   		FontSize 10
-  		'LineColor lightgreen
-      'BackGroundColor $UNDONE_COLOR\$DONE_COLOR
       LineColor $NOTE_COLOR_LINE
       BackGroundColor $NOTE_COLOR_BK
       HorizontalAlignment left
@@ -266,6 +264,12 @@ sunday are closed
 [PD audict] starts at [Trainning]'s end with $NORMAL_PATH_COLOR bold link
   [PD audict] starts at [Deploy]'s end with $CRITICAL_PATH_COLOR bold link
 
+' Tasks Deleted
+[Config prototype] is deleted
+
+' Task Colors
+[Trainning] is colored in Aqua/Blue
+
 ' Tasks progress
 [Prototype design] is 77% completed
 [Config prototype] is 0% completed
@@ -284,12 +288,6 @@ sunday are closed
 [PDEnd] happens at [PD audict]'s end
   [PDEnd] displays on same row as [ReadyDeploy]
 -- End --
-
-' Colors
-[Trainning] is colored in Aqua/Blue
-
-' Tasks Deleted
-[Config prototype] is deleted
 
 legend left
   Legend:

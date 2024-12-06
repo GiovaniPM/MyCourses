@@ -164,8 +164,8 @@ sprite $disk {
 
 </style>
 
-skinparam footerFontColor blue
-skinparam footerFontSize 10
+skinparam footerFontColor $TITLE_FONT
+skinparam footerFontSize 12
 skinparam footerFontStyle italic
 'skinparam titleBackgroundColor Aqua-CadetBlue
 'skinparam titleBorderColor blue

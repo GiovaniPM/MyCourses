@@ -1,4 +1,4 @@
-@startuml {
+@startgantt {
 ' Customized colors 
 ' Colors taken from the css file of the BS theme 
 !$BLUE = "#446e9b"
@@ -68,4 +68,4 @@
 ' Title
 !$TITLE_FONT = blue
 }
-@enduml 
+@endgantt 

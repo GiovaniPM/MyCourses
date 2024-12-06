@@ -17,7 +17,8 @@
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
 
-!include ./cor1.puml
+!define colorPuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML
+!include colorPuml/color1.puml
 
 ' Sprites 
 sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0

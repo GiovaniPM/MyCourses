@@ -17,8 +17,50 @@
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
 
-!define colorPuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML
-!include colorPuml/color1.puml
+' Colors 
+
+' Days
+!$CLOSED_BK = lightgray
+!$CLOSED_LINE = white
+
+' Task
+!$DONE_COLOR = green
+!$TASK_FONT_COLOR = black
+!$UNDONE_COLOR = orange
+
+' Legend
+!$LEGEND_COLOR = gray/white
+!$LEGEND_FONT = blue
+!$LEGEND_LINE = gray
+
+' Milestone
+!$MILESTONE_COLOR_BK = gold
+!$MILESTONE_COLOR_FONT = blue
+!$MILESTONE_COLOR_LINE = red
+
+' Days
+!$HOLIDAY_COLOR = lightgray
+!$TODAY_COLOR =  yellow
+
+' Path
+!$CRITICAL_PATH_COLOR = red
+!$NORMAL_PATH_COLOR = lightblue
+
+' Note
+!$NOTE_COLOR_BK = "#FBDB65"/"#FFFFFF"
+!$NOTE_COLOR_FONT = black
+!$NOTE_COLOR_LINE = black
+
+' Separator
+!$SEPARATOR_COLOR_BK = gray/white
+!$SEPARATOR_COLOR_FONT = blue
+!$SEPARATOR_COLOR_LINE = blue
+
+' Time line
+!$TIMELINE_COLOR = gray/lightgray
+
+' Title
+!$TITLE_FONT = blue
 
 ' Sprites 
 sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0

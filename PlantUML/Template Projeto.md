@@ -17,13 +17,15 @@
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
 
-' Colors 
-
+' *************************************************************************
+' **                         Color Section                               **
+' *************************************************************************
 ' Days
 !$CLOSED_BK = lightgray
 !$CLOSED_LINE = white
 
 ' Task
+!$ALTERNATIVE_COLOR =  Aqua/Blue
 !$DONE_COLOR = green
 !$TASK_FONT_COLOR = black
 !$UNDONE_COLOR = orange
@@ -34,7 +36,7 @@
 !$LEGEND_LINE = gray
 
 ' Milestone
-!$MILESTONE_COLOR_BK = gold
+!$MILESTONE_COLOR_BK = gold/green
 !$MILESTONE_COLOR_FONT = blue
 !$MILESTONE_COLOR_LINE = red
 
@@ -62,6 +64,9 @@
 ' Title
 !$TITLE_FONT = blue
 
+' *************************************************************************
+' **                        Sprite Section                               **
+' *************************************************************************
 ' Sprites 
 sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0
 sprite $bug [15x15/16z] PKzR2i0m2BFMi15p__FEjQEqB1z27aeqCqixa8S4OT7C53cKpsHpaYPDJY_12MHM-BLRyywPhrrlw3qumqNThmXgd1TOterAZmOW8sgiJafogofWRwtV3nCF
@@ -90,11 +95,11 @@ sprite $disk {
 
   ganttDiagram {
   	task {
-  		FontName Tahoma
+  		BackGroundColor $DONE_COLOR
   		FontColor $TASK_FONT_COLOR
+  		FontName Tahoma
   		FontSize 10
   		FontStyle bold
-  		BackGroundColor $DONE_COLOR
   		LineColor $DONE_COLOR
       unstarted {
         BackGroundColor $UNDONE_COLOR
@@ -105,56 +110,56 @@ sprite $disk {
     '  BackGroundColor red
     '}
   	milestone {
-      FontName Tahoma
+  		BackGroundColor $MILESTONE_COLOR_BK
   		FontColor $MILESTONE_COLOR_FONT
+      FontName Tahoma
   		FontSize 10
   		FontStyle italic
-  		BackGroundColor $MILESTONE_COLOR_BK
   		LineColor $MILESTONE_COLOR_LINE
   	}
 	  separator {
-      FontName Tahoma
-		  LineColor $SEPARATOR_COLOR_LINE
 		  BackGroundColor $SEPARATOR_COLOR_BK
+		  FontColor $SEPARATOR_COLOR_FONT
+      FontName Tahoma
 		  FontSize 16
 		  FontStyle bold
-		  FontColor $SEPARATOR_COLOR_FONT
+		  LineColor $SEPARATOR_COLOR_LINE
 	  }
   	note {
-      FontName Tahoma
-  		FontColor $NOTE_COLOR_FONT
-  		FontSize 10
-      LineColor $NOTE_COLOR_LINE
       BackGroundColor $NOTE_COLOR_BK
+  		FontColor $NOTE_COLOR_FONT
+      FontName Tahoma
+  		FontSize 10
       HorizontalAlignment left
+      LineColor $NOTE_COLOR_LINE
   	}
     timeline {
 	    BackgroundColor $TIMELINE_COLOR
       FontStyle bold
 	  }
 	  closed {
-		  FontColor $CLOSED_FONT
       BackGroundColor $CLOSED_BK
+		  FontColor $CLOSED_FONT
 	  }
   }
   footer {
     HorizontalAlignment right
   }
   title {
-    FontName Tahoma
     FontColor $TITLE_FONT
+    FontName Tahoma
     FontSize 40
     FontStyle italic
     HorizontalAlignment center
   }
   legend {
     BackGroundColor $LEGEND_COLOR
-    FontName Tahoma
-    FontStyle bold
-    FontColor $LEGEND_FONT
-    LineColor $LEGEND_LINE
     BorderRoundCorner 8
 	  BorderThickness 1
+    FontColor $LEGEND_FONT
+    FontName Tahoma
+    FontStyle bold
+    LineColor $LEGEND_LINE
   }
 
 </style>
@@ -232,7 +237,7 @@ sunday are closed
 '2025/12/25 are colored in $HOLIDAY_COLOR
 
 ' *************************************************************************
-' **                        Tasks Section                                **
+' **                         Task Section                                **
 ' *************************************************************************
 ' Tasks and separators
 -- Phase One --
@@ -267,8 +272,8 @@ sunday are closed
 ' Tasks deleted
 [Config prototype] is deleted
 
-' Task colors
-[Trainning] is colored in Aqua/Blue
+' Task colors alternatives
+[Trainning] is colored in $ALTERNATIVE_COLOR
 
 ' Tasks progress
 [Prototype design] is 77% completed

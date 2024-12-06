@@ -11,42 +11,15 @@
 '!include osaPuml/Server/all.puml
 '!include osaPuml/Site/all.puml
 
+!define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
+
 !define myPuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML/Imagem/puml
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
 
-!define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
+!include ./cor1.puml
 
-' Colors taken from the css file of the BS theme
-!$BLUE = "#446e9b"
-!$INDIGO = "#6610f2"
-!$PURPLE = "#6f42c1"
-!$PINK = "#e83e8c"
-!$RED = "#cd0200"
-!$ORANGE = "#fd7e14"
-!$YELLOW = "#d47500"
-!$GREEN = "#3cb521"
-!$TEAL = "#20c997"
-!$CYAN = "#3399f3"
-!$WHITE = "#ffffff"
-!$GRAY = "#777777"
-!$GRAYDARK = "#333333"
-!$PRIMARY = "#446e9b"
-!$SECONDARY = "#999999"
-!$SUCCESS = "#3cb521"
-!$INFO = "#3399f3"
-!$WARNING = "#d47500"
-!$DANGER = "#cd0200"
-!$LIGHT = "#eeeeee"
-!$DARK = "#333333"
-!$DONE_COLOR = green
-!$UNDONE_COLOR = orange
-!$CRITICAL_PATH_COLOR = red
-!$NORMAL_PATH_COLOR = lightblue
-!$HOLIDAY_COLOR = lightgray
-!$TODAY_COLOR =  yellow
-
-' sprites
+' Sprites 
 sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0
 sprite $bug [15x15/16z] PKzR2i0m2BFMi15p__FEjQEqB1z27aeqCqixa8S4OT7C53cKpsHpaYPDJY_12MHM-BLRyywPhrrlw3qumqNThmXgd1TOterAZmOW8sgiJafogofWRwtV3nCF
 sprite $disk {
@@ -69,13 +42,13 @@ sprite $disk {
 ' *************************************************************************
 ' **                        Style Section                                **
 ' *************************************************************************
-' Styles
+' Styles 
 <style>
 
   ganttDiagram {
   	task {
   		FontName Tahoma
-  		FontColor black
+  		FontColor $TASK_FONT_COLOR
   		FontSize 10
   		FontStyle bold
   		BackGroundColor $DONE_COLOR
@@ -90,37 +63,37 @@ sprite $disk {
     '}
   	milestone {
       FontName Tahoma
-  		FontColor blue
+  		FontColor $MILESTONE_COLOR_FONT
   		FontSize 10
   		FontStyle italic
-  		BackGroundColor gold
-  		LineColor red
+  		BackGroundColor $MILESTONE_COLOR_BK
+  		LineColor $MILESTONE_COLOR_LINE
   	}
 	  separator {
       FontName Tahoma
-		  LineColor blue
-		  BackGroundColor gray\white
+		  LineColor $SEPARATOR_COLOR_LINE
+		  BackGroundColor $SEPARATOR_COLOR_BK
 		  FontSize 16
 		  FontStyle bold
-		  FontColor blue
+		  FontColor $SEPARATOR_COLOR_FONT
 	  }
   	note {
       FontName Tahoma
-  		FontColor black
+  		FontColor $NOTE_COLOR_FONT
   		FontSize 10
   		'LineColor lightgreen
       'BackGroundColor $UNDONE_COLOR\$DONE_COLOR
-      LineColor black
-      BackGroundColor gray\white
+      LineColor $NOTE_COLOR_LINE
+      BackGroundColor $NOTE_COLOR_BK
       HorizontalAlignment left
   	}
     timeline {
-	    BackgroundColor gray\lightgray
+	    BackgroundColor $TIMELINE_COLOR
       FontStyle bold
 	  }
 	  closed {
-		  FontColor white
-      BackGroundColor lightgray
+		  FontColor $CLOSED_FONT
+      BackGroundColor $CLOSED_BK
 	  }
   }
   footer {
@@ -128,16 +101,17 @@ sprite $disk {
   }
   title {
     FontName Tahoma
-    FontColor blue
+    FontColor $TITLE_FONT
     FontSize 40
     FontStyle italic
     HorizontalAlignment center
   }
   legend {
-    BackGroundColor gray\white
+    BackGroundColor $LEGEND_COLOR
     FontName Tahoma
     FontStyle bold
-    LineColor gray
+    FontColor $LEGEND_FONT
+    LineColor $LEGEND_LINE
     BorderRoundCorner 8
 	  BorderThickness 1
   }

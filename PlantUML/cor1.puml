@@ -1,0 +1,71 @@
+@startuml {
+' Customized colors 
+' Colors taken from the css file of the BS theme 
+!$BLUE = "#446e9b"
+!$INDIGO = "#6610f2"
+!$PURPLE = "#6f42c1"
+!$PINK = "#e83e8c"
+!$RED = "#cd0200"
+!$ORANGE = "#fd7e14"
+!$YELLOW = "#d47500"
+!$GREEN = "#3cb521"
+!$TEAL = "#20c997"
+!$CYAN = "#3399f3"
+!$WHITE = "#ffffff"
+!$GRAY = "#777777"
+!$GRAYDARK = "#333333"
+!$PRIMARY = "#446e9b"
+!$SECONDARY = "#999999"
+!$SUCCESS = "#3cb521"
+!$INFO = "#3399f3"
+!$WARNING = "#d47500"
+!$DANGER = "#cd0200"
+!$LIGHT = "#eeeeee"
+!$DARK = "#333333"
+
+' Colors 
+
+' Days
+!$CLOSED_BK = lightgray
+!$CLOSED_LINE = white
+
+' Task
+!$DONE_COLOR = green
+!$TASK_FONT_COLOR = black
+!$UNDONE_COLOR = orange
+
+' Legend
+!$LEGEND_COLOR = gray/white
+!$LEGEND_FONT = blue
+!$LEGEND_LINE = gray
+
+' Milestone
+!$MILESTONE_COLOR_BK = gold
+!$MILESTONE_COLOR_FONT = blue
+!$MILESTONE_COLOR_LINE = red
+
+' Days
+!$HOLIDAY_COLOR = lightgray
+!$TODAY_COLOR =  yellow
+
+' Path
+!$CRITICAL_PATH_COLOR = red
+!$NORMAL_PATH_COLOR = lightblue
+
+' Note
+!$NOTE_COLOR_BK = "#FBDB65"/"#FFFFFF"
+!$NOTE_COLOR_FONT = black
+!$NOTE_COLOR_LINE = black
+
+' Separator
+!$SEPARATOR_COLOR_BK = gray/white
+!$SEPARATOR_COLOR_FONT = blue
+!$SEPARATOR_COLOR_LINE = blue
+
+' Time line
+!$TIMELINE_COLOR = gray/lightgray
+
+' Title
+!$TITLE_FONT = blue
+}
+@enduml 

@@ -98,7 +98,7 @@ sprite $disk {
   		BackGroundColor $DONE_COLOR
   		FontColor $TASK_FONT_COLOR
   		FontName Tahoma
-  		FontSize 10
+  		FontSize 12
   		FontStyle bold
   		LineColor $DONE_COLOR
       unstarted {

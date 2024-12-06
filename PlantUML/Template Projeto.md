@@ -17,6 +17,9 @@
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
 
+!define themePuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML
+!include themePuml/formal.puml
+
 ' *************************************************************************
 ' **                        Sprite Section                               **
 ' *************************************************************************

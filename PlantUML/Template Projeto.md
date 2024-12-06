@@ -264,10 +264,10 @@ sunday are closed
 [PD audict] starts at [Trainning]'s end with $NORMAL_PATH_COLOR bold link
   [PD audict] starts at [Deploy]'s end with $CRITICAL_PATH_COLOR bold link
 
-' Tasks Deleted
+' Tasks deleted
 [Config prototype] is deleted
 
-' Task Colors
+' Task colors
 [Trainning] is colored in Aqua/Blue
 
 ' Tasks progress

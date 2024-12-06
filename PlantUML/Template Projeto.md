@@ -272,7 +272,7 @@ sunday are closed
 ' Tasks deleted
 [Config prototype] is deleted
 
-' Task colors alternatives
+' Tasks colors alternatives
 [Trainning] is colored in $ALTERNATIVE_COLOR
 
 ' Tasks progress

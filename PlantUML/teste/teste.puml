@@ -1,5 +1,7 @@
+```plantuml
 @startuml {
-!include meu_estilo.puml
+!define myPuml https://raw.githubusercontent.com/GiovaniPM/PUMLStyles/refs/heads/main
+!include myPuml/meu_estilo.puml
 
 entity "Cliente" {
   * id : int
@@ -12,5 +14,10 @@ entity "Pedido" {
   * data : date
 }
 
+note as n1
+alo
+end note
+
 Cliente ||--o{ Pedido
 } @enduml
+```

@@ -232,13 +232,13 @@ sunday are closed
 [Trainning] is colored in $ALTERNATIVE_COLOR
 
 ' Tasks progress
-[Prototype design] is 77% completed
+[Prototype design] is 100% completed
 [Config prototype] is 0% completed
-[QA prototype] is 22% completed
-[Test prototype] is 0% completed
+[QA prototype] is 50% completed
+[Test prototype] is 20% completed
 [Deploy] is 0% completed
 [PD audict] is 0% completed
-[Trainning] is 20% completed
+[Trainning] is 50% completed
 
 ' Milestones
 -- Milestones --

@@ -21,10 +21,10 @@ def gerar():
     linkedin = request.form['linkedin']
     foto = request.files['foto']
     fotoBase64 = ''
-
+    
     if foto:
         fotoBase64 = base64.b64encode(foto.read()).decode('utf-8')
-
+    
     assinatura_template = f"""
     Atenciosamente, 
     <div style="display: flex; align-items: center; font-family: Arial, sans-serif; color: #333;">
@@ -51,7 +51,7 @@ def gerar():
       </div>
     </div>
     """
-
+    
     return render_template('index.html', assinatura=assinatura_template)
 
 if __name__ == '__main__':

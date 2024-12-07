@@ -1,0 +1,16 @@
+@startuml {
+!include meu_estilo.puml
+
+entity "Cliente" {
+  * id : int
+  * nome : varchar
+  * email : varchar
+}
+
+entity "Pedido" {
+  * id : int
+  * data : date
+}
+
+Cliente ||--o{ Pedido
+} @enduml

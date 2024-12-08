@@ -33,66 +33,66 @@
   ' **                        Setup Section                                **
   ' *************************************************************************
   ' Variables
+  !$caption = 'Cronograma'
   !$now = %now()
   !$nowbr = %date("dd/MM/YYYY HH:mm:ss", $now - 3*3600)
+  !$projectName = 'Project Name'
   
   ' Initialization
-  caption Cronograma /'change'/
-  title <<Project Name>> /'change'/
-  footer <<Project Manager>>\n$nowbr /'change'/
-  'hide footbox
-  'hide ressources footbox
-  project starts 2025/01/01 /'change'/
-  scale 1 /'project zoom'/
-  'Label on last column and left aligned
-  'Label on first column and left aligned
-  language pt /'language'/
-  hide resources names
-  hide resources footbox
+  caption $caption                                                           /'Gantt caption'/
+  title $projectName                                                         /'Project Name'/
+  footer $projectName\n$nowbr                                                /'Footer message'/
+  'hide footbox                                                               /'Hide foot timeline'/
+  project starts 2025/01/01                                                  /'When project starts YYYY/MM/DD'/
+  scale 1                                                                    /'Project zoom'/
+  'Label on last column and left aligned                                      /'Task appear in the gantt begin'/
+  'Label on first column and left aligned                                     /'Task appear in the gantt end'/
+  language pt                                                                /'language'/
+  hide resources names                                                       /'Hide the ressources names in the name task'/
+  hide resources footbox                                                     /'Hide the ressources'/
   
-  ' Project Scale
+  ' Project Scale                                                            /'How the scale coluns will showed in the gant'/
   printscale daily zoom 1.5
   'printscale quarterly zoom 20
   'printscale weekly zoom 6
   
-  ' Day watching
+  ' Day watching                                                             /'Day viewed in the gant'/
   'today is YYYY/MM/DD and is colored in $TODAY_COLOR
   'today is 14 days after start and is colored in $TODAY_COLOR
   today is colored in $TODAY_COLOR
   
-  ' Working Days
+  ' Working Closed Days                                                      /'Days not worked'/
   'YYYY/MM/DD is closed
   'YYYY/MM/DD to YYYY/MM/DD is closed
   saturday are closed
   sunday are closed
   '************2025************
-  2025/01/01 is closed /'Ano novo'/
-  2025/02/02 is closed /'Navegantes'/
-  '2025/04/18 is closed /'Sexta-feira santa'/
-  '2025/04/20 is closed /'Tiradentes'/
-  '2025/05/01 is closed /'Trabalho'/
-  '2025/09/07 is closed /'Independencia'/
-  '2025/10/12 is closed /'Aparecida'/
-  '2025/11/02 is closed /'Finados'/
-  '2025/11/15 is closed /'Proclamação'/
-  '2025/11/20 is closed /'Consciencia'/
-  '2025/12/25 is closed /'Natal'/
+  2025/01/01 is closed                                                       /'Ano novo'/
+  2025/01/01 are colored in $HOLIDAY_COLOR
+  2025/02/02 is closed                                                       /'Navegantes'/
+  2025/02/02 are colored in $HOLIDAY_COLOR
+  '2025/04/18 is closed                                                       /'Sexta-feira santa'/
+  '2025/04/18 are colored in $HOLIDAY_COLOR
+  '2025/04/20 is closed                                                       /'Tiradentes'/
+  '2025/04/20 are colored in $HOLIDAY_COLOR
+  '2025/05/01 is closed                                                       /'Trabalho'/
+  '2025/05/01 are colored in $HOLIDAY_COLOR
+  '2025/09/07 is closed                                                       /'Independencia'/
+  '2025/09/07 are colored in $HOLIDAY_COLOR
+  '2025/10/12 is closed                                                       /'Aparecida'/
+  '2025/10/12 are colored in $HOLIDAY_COLOR
+  '2025/11/02 is closed                                                       /'Finados'/
+  '2025/11/02 are colored in $HOLIDAY_COLOR
+  '2025/11/15 is closed                                                       /'Proclamação'/
+  '2025/11/15 are colored in $HOLIDAY_COLOR
+  '2025/11/20 is closed                                                       /'Consciencia'/
+  '2025/11/20 are colored in $HOLIDAY_COLOR
+  '2025/12/25 is closed                                                       /'Natal'/
+  '2025/12/25 are colored in $HOLIDAY_COLOR
   
-  ' Colored Days
+  ' Colored Days                                                              /'Coloring days in the gant'/
   'YYYY/MM/DD is colored in lightblue
   'YYYY/MM/DD to YYYY/MM/DD are colored in Orange
-  '************2025************
-  2025/01/01 are colored in $HOLIDAY_COLOR
-  2025/02/02 are colored in $HOLIDAY_COLOR
-  '2025/04/18 are colored in $HOLIDAY_COLOR
-  '2025/04/20 are colored in $HOLIDAY_COLOR
-  '2025/05/01 are colored in $HOLIDAY_COLOR
-  '2025/09/07 are colored in $HOLIDAY_COLOR
-  '2025/10/12 are colored in $HOLIDAY_COLOR
-  '2025/11/02 are colored in $HOLIDAY_COLOR
-  '2025/11/15 are colored in $HOLIDAY_COLOR
-  '2025/11/20 are colored in $HOLIDAY_COLOR
-  '2025/12/25 are colored in $HOLIDAY_COLOR
   
   ' *************************************************************************
   ' **                         Task Section                                **
@@ -102,7 +102,7 @@
   [Prototype design] on {Alice} lasts 13 days
     [Prototype design] links to [[http://plantuml.com]]
     note bottom
-      <$disk>
+      <$FAXMG001>
       Key user not send purchase requests
       Image here: [[IMAGE_PHONE]]
     end note

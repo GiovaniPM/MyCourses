@@ -1,3 +1,8 @@
+| | |
+|:-:|:-:|
+|<img src="https://via.placeholder.com/100x100" alt="Logo" width="100" height="100">|**ASASASASAS**<BR>ASASAS|
+| | |
+
 ```plantuml
 @startgantt
 ' *************************************************************************
@@ -71,8 +76,8 @@ printscale daily zoom 1.5
 'printscale weekly zoom 6
 
 ' Day watching
-'today is YYYY/MM/DD and is colored in Yellow
-'today is 14 days after start and is colored in Yellow
+'today is YYYY/MM/DD and is colored in $TODAY_COLOR
+'today is 14 days after start and is colored in $TODAY_COLOR
 today is colored in $TODAY_COLOR
 
 ' Working Days
@@ -149,7 +154,7 @@ sunday are closed
 [Trainning] is colored in $ALTERNATIVE_COLOR
 
 ' Tasks progress
-[Prototype design] is 100% completed
+[Prototype design] is 75% completed
 [Config prototype] is 50% completed
 [QA prototype] is 50% completed
 [Test prototype] is 20% completed

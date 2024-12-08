@@ -8,6 +8,7 @@
 ' *************************************************************************
 ' **                       Include Section                               **
 ' *************************************************************************
+' Sprites 
 '!define osaPuml https://raw.githubusercontent.com/Crashedmind/PlantUML-opensecurityarchitecture2-icons/master
 '!include osaPuml/Common.puml
 '!include osaPuml/User/all.puml
@@ -15,39 +16,18 @@
 '!include osaPuml/Misc/all.puml
 '!include osaPuml/Server/all.puml
 '!include osaPuml/Site/all.puml
-
-!define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
-
 !define myPuml https://raw.githubusercontent.com/GiovaniPM/PUMLSprites/refs/heads/main/files
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
 !include myPuml/FAXMG001.puml
+!include myPuml/MANY.puml
 
+' Images
+!define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
+
+' Styles
 !define themePuml https://raw.githubusercontent.com/GiovaniPM/PUMLStyles/refs/heads/main
 !include themePuml/styleGanttFormal1.puml
-
-' *************************************************************************
-' **                        Sprite Section                               **
-' *************************************************************************
-' Sprites 
-sprite $printer [15x15/8z] NOtH3W0W208HxFz_kMAhj7lHWpa1XC716sz0Pq4MVPEWfBHIuxP3L6kbTcizR8tAhzaqFvXwvFfPEqm0
-sprite $bug [15x15/16z] PKzR2i0m2BFMi15p__FEjQEqB1z27aeqCqixa8S4OT7C53cKpsHpaYPDJY_12MHM-BLRyywPhrrlw3qumqNThmXgd1TOterAZmOW8sgiJafogofWRwtV3nCF
-sprite $disk {
-  444445566677881
-  436000000009991
-  43600000000ACA1
-  53700000001A7A1
-  53700000012B8A1
-  53800000123B8A1
-  63800001233C9A1
-  634999AABBC99B1
-  744566778899AB1
-  7456AAAAA99AAB1
-  8566AFC228AABB1
-  8567AC8118BBBB1
-  867BD4433BBBBB1
-  39AAAAABBBBBBC1
-}
 
 ' *************************************************************************
 ' **                        Setup Section                                **

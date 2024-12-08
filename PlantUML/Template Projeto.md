@@ -75,10 +75,10 @@ printscale daily zoom 1.5
 today is colored in $TODAY_COLOR
 
 ' Working Days
-saturday are closed
-sunday are closed
 'YYYY/MM/DD is closed
 'YYYY/MM/DD to YYYY/MM/DD is closed
+saturday are closed
+sunday are closed
 '************2025************
 2025/01/01 is closed /'Ano novo'/
 2025/02/02 is closed /'Navegantes'/
@@ -95,6 +95,7 @@ sunday are closed
 ' Colored Days
 'YYYY/MM/DD is colored in lightblue
 'YYYY/MM/DD to YYYY/MM/DD are colored in Orange
+'************2025************
 2025/01/01 are colored in $HOLIDAY_COLOR
 2025/02/02 are colored in $HOLIDAY_COLOR
 '2025/04/18 are colored in $HOLIDAY_COLOR
@@ -148,7 +149,7 @@ sunday are closed
 
 ' Tasks progress
 [Prototype design] is 100% completed
-[Config prototype] is 0% completed
+[Config prototype] is 50% completed
 [QA prototype] is 50% completed
 [Test prototype] is 20% completed
 [Deploy] is 0% completed

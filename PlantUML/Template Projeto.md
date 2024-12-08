@@ -13,9 +13,10 @@
 
 !define IMAGE_PHONE "https://giovanipm.github.io/rc_images/phone_icon.png"
 
-!define myPuml https://raw.githubusercontent.com/GiovaniPM/MyCourses/refs/heads/master/PlantUML/Imagem/puml
+!define myPuml https://raw.githubusercontent.com/GiovaniPM/PUMLSprites/refs/heads/main/files
 !include myPuml/PROGM026.puml
 !include myPuml/CLIPB001.puml
+!include myPuml/FAXMG001.puml
 
 !define themePuml https://raw.githubusercontent.com/GiovaniPM/PUMLStyles/refs/heads/main
 !include themePuml/styleGanttFormal1.puml
@@ -116,7 +117,7 @@ sunday are closed
 [Prototype design] on {Alice} lasts 13 days
   [Prototype design] links to [[http://plantuml.com]]
   note bottom
-    <$CLIPB001>
+    <$FAXMG001>
     Key user not send purchase requests
     Image here: [[IMAGE_PHONE]]
   end note

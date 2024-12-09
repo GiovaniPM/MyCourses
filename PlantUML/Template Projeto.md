@@ -17,9 +17,9 @@
   '!include osaPuml/Server/all.puml
   '!include osaPuml/Site/all.puml
   !define myPuml https://raw.githubusercontent.com/GiovaniPM/PUMLSprites/refs/heads/main/files
-  !include myPuml/PROGM026.puml
-  !include myPuml/CLIPB001.puml
-  !include myPuml/FAXMG001.puml
+  !include myPuml/PROGM016.puml
+  !include myPuml/PROGM010.puml
+  !include myPuml/PRINT001.puml
   !include myPuml/MANY.puml
   
   ' Images
@@ -102,7 +102,7 @@
   [Prototype design] on {Alice} lasts 13 days
     [Prototype design] links to [[http://plantuml.com]]
     note bottom
-      <$FAXMG001>
+      <$PROGM016>
       Key user not send purchase requests
       Image here: [[IMAGE_PHONE]]
     end note

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="825" height="323">
+   <defs>
+      <style type="text/css">
+    @namespace "http://www.w3.org/2000/svg";
+    .line                 {fill: none; stroke: #332900; stroke-width: 1;}
+    .bold-line            {stroke: #141000; shape-rendering: crispEdges; stroke-width: 2;}
+    .thin-line            {stroke: #1F1800; shape-rendering: crispEdges}
+    .filled               {fill: #332900; stroke: none;}
+    text.terminal         {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #141000;
+                            font-weight: bold;
+                          }
+    text.nonterminal      {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #1A1400;
+                            font-weight: normal;
+                          }
+    text.regexp           {font-family: Verdana, Sans-serif;
+                            font-size: 12px;
+                            fill: #1F1800;
+                            font-weight: normal;
+                          }
+    rect, circle, polygon {fill: #332900; stroke: #332900;}
+    rect.terminal         {fill: #FFDB4D; stroke: #332900; stroke-width: 1;}
+    rect.nonterminal      {fill: #FFEC9E; stroke: #332900; stroke-width: 1;}
+    rect.text             {fill: none; stroke: none;}
+    polygon.regexp        {fill: #FFF4C7; stroke: #332900; stroke-width: 1;}
+  </style>
+   </defs>
+   <polygon points="11 17 3 13 3 21"/>
+   <polygon points="19 17 11 13 11 21"/>
+   <rect x="33" y="3" width="26" height="32" rx="10"/>
+   <rect x="31"
+         y="1"
+         width="26"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="41" y="21">[</text>
+   <rect x="79" y="3" width="86" height="32" rx="10"/>
+   <rect x="77"
+         y="1"
+         width="86"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="87" y="21">taskname</text>
+   <rect x="185" y="3" width="26" height="32" rx="10"/>
+   <rect x="183"
+         y="1"
+         width="26"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="193" y="21">]</text>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#on"
+      xlink:title="on">
+      <rect x="65" y="101" width="36" height="32"/>
+      <rect x="63" y="99" width="36" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="73" y="119">on</text>
+   </a>
+   <rect x="121" y="101" width="28" height="32" rx="10"/>
+   <rect x="119"
+         y="99"
+         width="28"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="129" y="119">{</text>
+   <rect x="169" y="101" width="116" height="32" rx="10"/>
+   <rect x="167"
+         y="99"
+         width="116"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="177" y="119">resourcename</text>
+   <rect x="305" y="101" width="24" height="32" rx="10"/>
+   <rect x="303"
+         y="99"
+         width="24"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="313" y="119">:</text>
+   <rect x="349" y="101" width="70" height="32" rx="10"/>
+   <rect x="347"
+         y="99"
+         width="70"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="357" y="119">percent</text>
+   <rect x="439" y="101" width="28" height="32" rx="10"/>
+   <rect x="437"
+         y="99"
+         width="28"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="447" y="119">}</text>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#lasts"
+      xlink:title="lasts">
+      <rect x="527" y="69" width="50" height="32"/>
+      <rect x="525" y="67" width="50" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="535" y="87">lasts</text>
+   </a>
+   <rect x="597" y="69" width="36" height="32" rx="10"/>
+   <rect x="595"
+         y="67"
+         width="36"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="605" y="87">nn</text>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#days"
+      xlink:title="days">
+      <rect x="653" y="69" width="50" height="32"/>
+      <rect x="651" y="67" width="50" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="661" y="87">days</text>
+   </a>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#starts"
+      xlink:title="starts">
+      <rect x="547" y="113" width="56" height="32"/>
+      <rect x="545" y="111" width="56" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="555" y="131">starts</text>
+   </a>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#end"
+      xlink:title="end">
+      <rect x="547" y="157" width="44" height="32"/>
+      <rect x="545" y="155" width="44" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="555" y="175">end</text>
+   </a>
+   <rect x="643" y="113" width="114" height="32" rx="10"/>
+   <rect x="641"
+         y="111"
+         width="114"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="651" y="131">YYYY/MM/DD</text>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#links"
+      xlink:title="links">
+      <rect x="45" y="201" width="48" height="32"/>
+      <rect x="43" y="199" width="48" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="53" y="219">links</text>
+   </a>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#to"
+      xlink:title="to">
+      <rect x="113" y="201" width="32" height="32"/>
+      <rect x="111" y="199" width="32" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="121" y="219">to</text>
+   </a>
+   <rect x="165" y="201" width="32" height="32" rx="10"/>
+   <rect x="163"
+         y="199"
+         width="32"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="173" y="219">[[</text>
+   <rect x="217" y="201" width="44" height="32" rx="10"/>
+   <rect x="215"
+         y="199"
+         width="44"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="225" y="219">link</text>
+   <rect x="281" y="201" width="32" height="32" rx="10"/>
+   <rect x="279"
+         y="199"
+         width="32"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="289" y="219">]]</text>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#pauses"
+      xlink:title="pauses">
+      <rect x="45" y="245" width="66" height="32"/>
+      <rect x="43" y="243" width="66" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="53" y="263">pauses</text>
+   </a>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#on"
+      xlink:title="on">
+      <rect x="131" y="245" width="36" height="32"/>
+      <rect x="129" y="243" width="36" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="139" y="263">on</text>
+   </a>
+   <rect x="187" y="245" width="94" height="32" rx="10"/>
+   <rect x="185"
+         y="243"
+         width="94"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="195" y="263">dayofweek</text>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#is"
+      xlink:title="is">
+      <rect x="45" y="289" width="30" height="32"/>
+      <rect x="43" y="287" width="30" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="53" y="307">is</text>
+   </a>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#colored"
+      xlink:title="colored">
+      <rect x="95" y="289" width="66" height="32"/>
+      <rect x="93" y="287" width="66" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="103" y="307">colored</text>
+   </a>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+      xlink:href="#in"
+      xlink:title="in">
+      <rect x="181" y="289" width="30" height="32"/>
+      <rect x="179" y="287" width="30" height="32" class="nonterminal"/>
+      <text class="nonterminal" x="189" y="307">in</text>
+   </a>
+   <rect x="231" y="289" width="54" height="32" rx="10"/>
+   <rect x="229"
+         y="287"
+         width="54"
+         height="32"
+         class="terminal"
+         rx="10"/>
+   <text class="terminal" x="239" y="307">color</text>
+   <path class="line"
+         d="m19 17 h2 m0 0 h10 m26 0 h10 m0 0 h10 m86 0 h10 m0 0 h10 m26 0 h10 m2 0 l2 0 m2 0 l2 0 m2 0 l2 0 m-230 66 l2 0 m2 0 l2 0 m2 0 l2 0 m42 0 h10 m0 0 h412 m-442 0 h20 m422 0 h20 m-462 0 q10 0 10 10 m442 0 q0 -10 10 -10 m-452 10 v12 m442 0 v-12 m-442 12 q0 10 10 10 m422 0 q10 0 10 -10 m-432 10 h10 m36 0 h10 m0 0 h10 m28 0 h10 m0 0 h10 m116 0 h10 m0 0 h10 m24 0 h10 m0 0 h10 m70 0 h10 m0 0 h10 m28 0 h10 m40 -32 h10 m50 0 h10 m0 0 h10 m36 0 h10 m0 0 h10 m50 0 h10 m0 0 h54 m-270 0 h20 m250 0 h20 m-290 0 q10 0 10 10 m270 0 q0 -10 10 -10 m-280 10 v24 m270 0 v-24 m-270 24 q0 10 10 10 m250 0 q10 0 10 -10 m-240 10 h10 m56 0 h10 m-96 0 h20 m76 0 h20 m-116 0 q10 0 10 10 m96 0 q0 -10 10 -10 m-106 10 v24 m96 0 v-24 m-96 24 q0 10 10 10 m76 0 q10 0 10 -10 m-86 10 h10 m44 0 h10 m0 0 h12 m20 -44 h10 m114 0 h10 m-752 -44 h20 m752 0 h20 m-792 0 q10 0 10 10 m772 0 q0 -10 10 -10 m-782 10 v112 m772 0 v-112 m-772 112 q0 10 10 10 m752 0 q10 0 10 -10 m-762 10 h10 m48 0 h10 m0 0 h10 m32 0 h10 m0 0 h10 m32 0 h10 m0 0 h10 m44 0 h10 m0 0 h10 m32 0 h10 m0 0 h464 m-762 -10 v20 m772 0 v-20 m-772 20 v24 m772 0 v-24 m-772 24 q0 10 10 10 m752 0 q10 0 10 -10 m-762 10 h10 m66 0 h10 m0 0 h10 m36 0 h10 m0 0 h10 m94 0 h10 m0 0 h496 m-762 -10 v20 m772 0 v-20 m-772 20 v24 m772 0 v-24 m-772 24 q0 10 10 10 m752 0 q10 0 10 -10 m-762 10 h10 m30 0 h10 m0 0 h10 m66 0 h10 m0 0 h10 m30 0 h10 m0 0 h10 m54 0 h10 m0 0 h492 m23 -220 h-3"/>
+   <polygon points="815 83 823 79 823 87"/>
+   <polygon points="815 83 807 79 807 87"/>
+</svg>

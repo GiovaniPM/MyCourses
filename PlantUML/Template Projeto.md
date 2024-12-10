@@ -68,27 +68,27 @@
   sunday are closed
   '************2025************
   2025/01/01 is closed                                                       /'Ano novo'/
-  2025/01/01 are colored in $HOLIDAY_COLOR
+    2025/01/01 are colored in $HOLIDAY_COLOR
   2025/02/02 is closed                                                       /'Navegantes'/
-  2025/02/02 are colored in $HOLIDAY_COLOR
+    2025/02/02 are colored in $HOLIDAY_COLOR
   '2025/04/18 is closed                                                       /'Sexta-feira santa'/
-  '2025/04/18 are colored in $HOLIDAY_COLOR
+  '  2025/04/18 are colored in $HOLIDAY_COLOR
   '2025/04/20 is closed                                                       /'Tiradentes'/
-  '2025/04/20 are colored in $HOLIDAY_COLOR
+  '  2025/04/20 are colored in $HOLIDAY_COLOR
   '2025/05/01 is closed                                                       /'Trabalho'/
-  '2025/05/01 are colored in $HOLIDAY_COLOR
+  '  2025/05/01 are colored in $HOLIDAY_COLOR
   '2025/09/07 is closed                                                       /'Independencia'/
-  '2025/09/07 are colored in $HOLIDAY_COLOR
+  '  2025/09/07 are colored in $HOLIDAY_COLOR
   '2025/10/12 is closed                                                       /'Aparecida'/
-  '2025/10/12 are colored in $HOLIDAY_COLOR
+  '  2025/10/12 are colored in $HOLIDAY_COLOR
   '2025/11/02 is closed                                                       /'Finados'/
-  '2025/11/02 are colored in $HOLIDAY_COLOR
+  '  2025/11/02 are colored in $HOLIDAY_COLOR
   '2025/11/15 is closed                                                       /'Proclamação'/
-  '2025/11/15 are colored in $HOLIDAY_COLOR
+  '  2025/11/15 are colored in $HOLIDAY_COLOR
   '2025/11/20 is closed                                                       /'Consciencia'/
-  '2025/11/20 are colored in $HOLIDAY_COLOR
+  '  2025/11/20 are colored in $HOLIDAY_COLOR
   '2025/12/25 is closed                                                       /'Natal'/
-  '2025/12/25 are colored in $HOLIDAY_COLOR
+  '  2025/12/25 are colored in $HOLIDAY_COLOR
   
   ' Colored Days                                                              /'Coloring days in the gant'/
   'YYYY/MM/DD is colored in lightblue
